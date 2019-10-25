@@ -1,0 +1,1597 @@
+0001	http://arxiv.org/abs/1807.04990v1	A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification
+0002	https://ntunlpsg.github.io/publication/2018_2_ai/	Sentiment Analysis by Capsules
+0003	http://arxiv.org/abs/1804.00538v4	Investigating Capsule Networks with Dynamic Routing for Text Classification
+0004	http://arxiv.org/abs/1805.07340v2	Improved Sentence Modeling using Suffix Bidirectional LSTM
+0005	http://arxiv.org/abs/1803.11175v2	Universal Sentence Encoder
+0006	http://arxiv.org/abs/1702.01417v2	All-but-the-Top: Simple and Effective Postprocessing for Word Representations
+0007	http://arxiv.org/abs/1805.09843v1	Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms
+0008	http://arxiv.org/abs/1809.05679v3	Graph Convolutional Networks for Text Classification
+0009	https://arxiv.org/abs/1906.12330v1	Graph Star Net for Generalized Multi-Task Learning
+0010	http://arxiv.org/abs/1805.02474v1	Sentence-State LSTM for Text Representation
+0011	https://arxiv.org/abs/1902.07153v2	Simplifying Graph Convolutional Networks
+0012	http://arxiv.org/abs/1802.02611v3	Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
+0013	http://arxiv.org/abs/1804.03821v1	ExFuse: Enhancing Feature Fusion for Semantic Segmentation
+0014	http://arxiv.org/abs/1809.04184v1	Searching for Efficient Multi-Scale Architectures for Dense Image Prediction
+0015	http://arxiv.org/abs/1706.05587v3	Rethinking Atrous Convolution for Semantic Image Segmentation
+0016	http://arxiv.org/abs/1804.09337v1	Learning a Discriminative Feature Network for Semantic Segmentation
+0017	https://arxiv.org/abs/1909.03402v2	Squeeze-and-Attention Networks for Semantic Segmentation
+0018	http://arxiv.org/abs/1803.08904v1	Context Encoding for Semantic Segmentation
+0019	http://arxiv.org/abs/1612.01105v2	Pyramid Scene Parsing Network
+0020	http://arxiv.org/abs/1611.10080v1	Wider or Deeper: Revisiting the ResNet Model for Visual Recognition
+0021	http://arxiv.org/abs/1611.06612v3	RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
+0022	https://arxiv.org/abs/1811.11254v6	ShelfNet for Fast Semantic Segmentation
+0023	http://arxiv.org/abs/1703.02719v1	Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network
+0024	http://arxiv.org/abs/1702.08502v3	Understanding Convolution for Semantic Segmentation
+0025	http://arxiv.org/abs/1606.00915v2	DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+0026	http://arxiv.org/abs/1705.08790v2	The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks
+0027	https://ieeexplore.ieee.org/document/8578562	The Lovász-Softmax Loss: A Tractable Surrogate for the Optimization of the Intersection-Over-Union Measure in Neural Networks
+0028	http://arxiv.org/abs/1707.02968v2	Revisiting Unreasonable Effectiveness of Data in Deep Learning Era
+0029	http://arxiv.org/abs/1502.03240v3	Conditional Random Fields as Recurrent Neural Networks
+0030	http://arxiv.org/abs/1412.7062v4	Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
+0031	http://arxiv.org/abs/1506.04579v2	ParseNet: Looking Wider to See Better
+0032	http://arxiv.org/abs/1707.08254v3	Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation
+0033	http://arxiv.org/abs/1811.11431v3	ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network
+0034	http://arxiv.org/abs/1511.07122v3	Multi-Scale Context Aggregation by Dilated Convolutions
+0035	http://arxiv.org/abs/1605.06211v1	Fully Convolutional Networks for Semantic Segmentation
+0036	http://arxiv.org/abs/1803.06815v3	ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation
+0037	http://arxiv.org/abs/1811.09058v1	Mask R-CNN with Pyramid Attention Network for Scene Text Detection
+0038	http://arxiv.org/abs/1811.08605v1	Scene Text Detection with Supervised Pyramid Context Network
+0039	http://arxiv.org/abs/1806.02559v1	Shape Robust Text Detection with Progressive Scale Expansion Network
+0040	http://arxiv.org/abs/1801.01671v2	FOTS: Fast Oriented Text Spotting with a Unified Network
+0041	http://arxiv.org/abs/1802.08948v2	Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation
+0042	http://arxiv.org/abs/1812.03411v2	Feature Denoising for Improving Adversarial Robustness
+0043	http://arxiv.org/abs/1811.08883v1	Rethinking ImageNet Pre-training
+0044	http://arxiv.org/abs/1904.11492v1	GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond
+0045	https://arxiv.org/abs/1908.07919v1	Deep High-Resolution Representation Learning for Visual Recognition
+0046	https://arxiv.org/abs/1904.11490v2	RepPoints: Point Set Representation for Object Detection
+0047	http://arxiv.org/abs/1904.07850v2	Objects as Points
+0048	http://arxiv.org/abs/1711.07971v3	Non-local Neural Networks
+0049	http://arxiv.org/abs/1901.08043v3	Bottom-up Object Detection by Grouping Extreme and Center Points
+0050	http://arxiv.org/abs/1901.07518v2	Hybrid Task Cascade for Instance Segmentation
+0051	http://arxiv.org/abs/1811.11168v2	Deformable ConvNets v2: More Deformable, Better Results
+0052	http://arxiv.org/abs/1712.00726v1	Cascade R-CNN: Delving into High Quality Object Detection
+0053	http://arxiv.org/abs/1904.08900v1	CornerNet-Lite: Efficient Keypoint Based Object Detection
+0054	http://arxiv.org/abs/1803.08494v3	Group Normalization
+0055	https://arxiv.org/abs/1901.01892v2	Scale-Aware Trident Networks for Object Detection
+0056	http://arxiv.org/abs/1904.09730v1	An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection
+0057	http://arxiv.org/abs/1903.00621v1	Feature Selective Anchor-Free Module for Single-Shot Object Detection
+0058	http://arxiv.org/abs/1811.12030v1	Grid R-CNN
+0059	http://arxiv.org/abs/1904.08189v3	CenterNet: Keypoint Triplets for Object Detection
+0060	http://arxiv.org/abs/1901.03353v1	RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free
+0061	http://arxiv.org/abs/1904.03797v1	FoveaBox: Beyond Anchor-based Object Detector
+0062	https://arxiv.org/abs/1904.01355v5	FCOS: Fully Convolutional One-Stage Object Detection
+0063	http://arxiv.org/abs/1904.02701v1	Libra R-CNN: Towards Balanced Learning for Object Detection
+0064	http://arxiv.org/abs/1808.01244v2	CornerNet: Detecting Objects as Paired Keypoints
+0065	http://arxiv.org/abs/1703.06870v3	Mask R-CNN
+0066	http://arxiv.org/abs/1811.05181v1	Gradient Harmonized Single-stage Detector
+0067	http://arxiv.org/abs/1811.04533v3	M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network
+0068	http://arxiv.org/abs/1810.02720v1	TRANX: A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation
+0069	https://arxiv.org/abs/1908.07919	Deep High-Resolution Representation Learning for Visual Recognition
+0070	http://arxiv.org/abs/1903.11816v1	FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
+0071	http://arxiv.org/abs/1809.02983v4	Dual Attention Network for Scene Segmentation
+0072	http://arxiv.org/abs/1903.02120v3	Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation
+0073	http://arxiv.org/abs/1605.06885v1	Bridging Category-level and Instance-level Semantic Image Segmentation
+0074	http://arxiv.org/abs/1504.01013v4	Efficient piecewise training of deep structured models for semantic segmentation
+0075	http://arxiv.org/abs/1511.08119v4	Higher Order Conditional Random Fields in Deep Neural Networks
+0076	http://arxiv.org/abs/1503.01640v2	BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation
+0077	http://arxiv.org/abs/1411.4038v2	Fully Convolutional Networks for Semantic Segmentation
+0078	https://arxiv.org/abs/1907.08448v1	Deep Graph-Convolutional Image Denoising
+0079	http://arxiv.org/abs/1701.01879v2	Greedy Search for Descriptive Spatial Face Features
+0080	http://arxiv.org/abs/1711.08488v2	Frustum PointNets for 3D Object Detection from RGB-D Data
+0081	http://arxiv.org/abs/1711.06396v1	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
+0082	https://arxiv.org/abs/1909.00426v1	Pre-training of Deep Contextualized Embeddings of Words and Entities for Named Entity Disambiguation
+0083	http://arxiv.org/abs/1704.04920v3	Deep Joint Entity Disambiguation with Local Neural Attention
+0084	http://arxiv.org/abs/1606.01847v3	Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
+0085	http://arxiv.org/abs/1704.05526v3	Learning to Reason: End-to-End Module Networks for Visual Question Answering
+0086	http://arxiv.org/abs/1606.03647v2	Training Recurrent Answering Units with Joint Loss Minimization for VQA
+0087	http://arxiv.org/abs/1606.00061v5	Hierarchical Question-Image Co-Attention for Visual Question Answering
+0088	http://arxiv.org/abs/1606.01455v2	Multimodal Residual Learning for Visual QA
+0089	http://arxiv.org/abs/1603.02814v2	Image Captioning and Visual Question Answering Based on Attributes and External Knowledge
+0090	http://arxiv.org/abs/1604.01485v1	A Focused Dynamic Attention Model for Visual Question Answering
+0091	http://arxiv.org/abs/1511.02274v2	Stacked Attention Networks for Image Question Answering
+0092	http://arxiv.org/abs/1511.05234v2	Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering
+0093	http://arxiv.org/abs/1505.00468v7	VQA: Visual Question Answering
+0094	http://arxiv.org/abs/1512.02167v2	Simple Baseline for Visual Question Answering
+0095	https://arxiv.org/abs/1905.12149v1	SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver
+0096	https://arxiv.org/abs/1907.10529v2	SpanBERT: Improving Pre-training by Representing and Predicting Spans
+0097	https://arxiv.org/abs/1905.06933v3	Dynamically Fused Graph Network for Multi-hop Reasoning
+0098	https://arxiv.org/abs/1812.05784v2	PointPillars: Fast Encoders for Object Detection from Point Clouds
+0099	https://arxiv.org/abs/1905.05677v3	Sense Vocabulary Compression through the Semantic Knowledge of WordNet for Neural Word Sense Disambiguation
+0100	http://arxiv.org/abs/1811.00960v1	Improving the Coverage and the Generalization Ability of Neural Word Sense Disambiguation through Hypernymy and Hyponymy Relationships
+0101	https://www.aclweb.org/anthology/papers/P/P18/P18-1230/	Incorporating Glosses into Neural Word Sense Disambiguation
+0102	https://www.aclweb.org/anthology/papers/D/D17/D17-1120/	Neural Sequence Learning Models for Word Sense Disambiguation
+0103	https://www.aclweb.org/anthology/papers/N/N18/N18-1202/	Deep Contextualized Word Representations
+0104	https://arxiv.org/abs/1908.05081v1	AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models
+0105	http://arxiv.org/abs/1810.05997v5	Predict then Propagate: Graph Neural Networks meet Personalized PageRank
+0106	https://arxiv.org/abs/1903.11960v3	Learning Discrete Structures for Graph Neural Networks
+0107	https://arxiv.org/abs/1907.02586v1	Structure fusion based on graph convolutional networks for semi-supervised classification
+0108	https://arxiv.org/abs/1904.09981v2	GraphNAS: Graph Neural Architecture Search with Reinforcement Learning
+0109	http://arxiv.org/abs/1808.03965v1	Large-Scale Learnable Graph Convolutional Networks
+0110	https://doi.org/10.1109/ACCESS.2019.2938039	hpGAT: High-order Proximity Informed Graph Attention Network
+0111	http://arxiv.org/abs/1710.10903v3	Graph Attention Networks
+0112	http://arxiv.org/abs/1802.08888v1	N-GCN: Multi-scale Graph Convolution for Semi-supervised Node Classification
+0113	http://arxiv.org/abs/1811.02798v1	Multi-Task Graph Autoencoders
+0114	http://arxiv.org/abs/1809.10341v2	Deep Graph Infomax
+0115	http://arxiv.org/abs/1904.11883v1	Graph Optimized Convolutional Networks
+0116	https://openreview.net/forum?id=H1ewdiR5tQ	Graph Wavelet Neural Network
+0117	http://arxiv.org/abs/1802.08352v2	Learning to Make Predictions on Graphs with Autoencoders
+0118	https://arxiv.org/abs/1905.00067v3	MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing
+0119	https://arxiv.org/abs/1803.10459v4	Graphite: Iterative Generative Modeling of Graphs
+0120	http://arxiv.org/abs/1609.02907v4	Semi-Supervised Classification with Graph Convolutional Networks
+0121	http://arxiv.org/abs/1903.02428v3	Fast Graph Representation Learning with PyTorch Geometric
+0122	http://arxiv.org/abs/1606.09375v3	Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
+0123	https://arxiv.org/abs/1909.03211v1	Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View
+0124	https://arxiv.org/abs/1906.12269v1	Certifiable Robustness and Robust Training for Graph Convolutional Networks
+0125	http://arxiv.org/abs/1603.08861v2	Revisiting Semi-Supervised Learning with Graph Embeddings
+0126	http://arxiv.org/abs/1710.09599v2	Watch Your Step: Learning Node Embeddings via Graph Attention
+0127	http://arxiv.org/abs/1403.6652v2	DeepWalk: Online Learning of Social Representations
+0128	https://dl.acm.org/citation.cfm?id=3271697	Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection
+0129	http://arxiv.org/abs/1603.07012v2	Semi-supervised Word Sense Disambiguation with Neural Models
+0130	http://arxiv.org/abs/1805.08028v2	Incorporating Glosses into Neural Word Sense Disambiguation
+0131	http://arxiv.org/abs/1609.04243v3	Convolutional Recurrent Neural Networks for Music Classification
+0132	https://arxiv.org/abs/1907.11692v1	RoBERTa: A Robustly Optimized BERT Pretraining Approach
+0133	https://arxiv.org/abs/1906.08237v1	XLNet: Generalized Autoregressive Pretraining for Language Understanding
+0134	https://arxiv.org/abs/1907.12412v1	ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
+0135	http://arxiv.org/abs/1904.01941v1	Character Region Awareness for Text Detection
+0136	http://arxiv.org/abs/1801.01315v1	PixelLink: Detecting Scene Text via Instance Segmentation
+0137	http://arxiv.org/abs/1803.05265v1	Rotation-Sensitive Regression for Oriented Scene Text Detection
+0138	https://arxiv.org/abs/1909.02480v1	FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow
+0139	http://arxiv.org/abs/1705.03122v3	Convolutional Sequence to Sequence Learning
+0140	http://arxiv.org/abs/1711.02281v2	Non-Autoregressive Neural Machine Translation
+0141	http://arxiv.org/abs/1802.06901v3	Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement
+0142	https://www.aclweb.org/anthology/papers/W/W16/W16-2320/	The QT21/HimL Combined Machine Translation System
+0143	http://arxiv.org/abs/1606.02891v2	Edinburgh Neural Machine Translation Systems for WMT 16
+0144	http://arxiv.org/abs/1611.02344v3	A Convolutional Encoder Model for Neural Machine Translation
+0145	http://arxiv.org/abs/1804.07755v2	Phrase-Based & Neural Unsupervised Machine Translation
+0146	https://arxiv.org/abs/1908.07558v1	Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning
+0147	https://arxiv.org/abs/1909.03184v2	Auto-GNN: Neural Architecture Search of Graph Neural Networks
+0148	https://arxiv.org/abs/1905.07953	Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks
+0149	http://arxiv.org/abs/1806.06923v1	Implicit Quantile Networks for Distributional Reinforcement Learning
+0150	https://arxiv.org/abs/1905.08233v1	Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
+0151	http://arxiv.org/abs/1812.10477v1	Residual Dense Network for Image Restoration
+0152	http://arxiv.org/abs/1608.03981v1	Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising
+0153	http://arxiv.org/abs/1806.07297v1	Canonical Tensor Decomposition for Knowledge Base Completion
+0154	https://arxiv.org/abs/1906.00687v1	Relation Embedding with Dihedral Group in Knowledge Graph
+0155	http://arxiv.org/abs/1707.01476v6	Convolutional 2D Knowledge Graph Embeddings
+0156	http://arxiv.org/abs/1707.06887v1	A Distributional Perspective on Reinforcement Learning
+0157	http://arxiv.org/abs/1509.06461v3	Deep Reinforcement Learning with Double Q-learning
+0158	http://arxiv.org/abs/1602.07714v2	Learning values across many orders of magnitude
+0159	http://arxiv.org/abs/1511.06581v3	Dueling Network Architectures for Deep Reinforcement Learning
+0160	http://arxiv.org/abs/1511.05952v4	Prioritized Experience Replay
+0161	http://arxiv.org/abs/1602.04621v3	Deep Exploration via Bootstrapped DQN
+0162	http://arxiv.org/abs/1207.4708v2	The Arcade Learning Environment: An Evaluation Platform for General Agents
+0163	http://arxiv.org/abs/1507.04296v2	Massively Parallel Methods for Deep Reinforcement Learning
+0164	http://arxiv.org/abs/1703.03864v2	Evolution Strategies as a Scalable Alternative to Reinforcement Learning
+0165	http://arxiv.org/abs/1602.01783v2	Asynchronous Methods for Deep Reinforcement Learning
+0166	http://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html	Second-Order Attention Network for Single Image Super-Resolution
+0167	http://arxiv.org/abs/1809.00219v2	ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
+0168	http://arxiv.org/abs/1804.02900v2	A Fully Progressive Approach to Single-Image Super-Resolution
+0169	http://arxiv.org/abs/1807.02758v2	Image Super-Resolution Using Very Deep Residual Channel Attention Networks
+0170	https://arxiv.org/abs/1907.04253v2	Gated Multiple Feedback Network for Image Super-Resolution
+0171	http://arxiv.org/abs/1802.08797v2	Residual Dense Network for Image Super-Resolution
+0172	https://arxiv.org/abs/1903.09814v2	Feedback Network for Image Super-Resolution
+0173	http://arxiv.org/abs/1803.02735v1	Deep Back-Projection Networks For Super-Resolution
+0174	http://arxiv.org/abs/1707.02921v1	Enhanced Deep Residual Networks for Single Image Super-Resolution
+0175	http://arxiv.org/abs/1611.06345v4	Beyond Deep Residual Learning for Image Restoration: Persistent Homology-Guided Manifold Simplification
+0176	http://arxiv.org/abs/1805.07071v2	Multi-level Wavelet-CNN for Image Restoration
+0177	http://arxiv.org/abs/1609.04802v5	Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+0178	http://arxiv.org/abs/1803.08664v5	Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network
+0179	http://arxiv.org/abs/1811.12546v1	Lightweight and Efficient Image Super-Resolution with Block State-based Recursive Network
+0180	http://arxiv.org/abs/1811.12043v1	RAM: Residual Attention Module for Single Image Super-Resolution
+0181	http://arxiv.org/abs/1612.07919v2	EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis
+0182	http://arxiv.org/abs/1712.06116v2	Learning a Single Convolutional Super-Resolution Network for Multiple Degradations
+0183	http://arxiv.org/abs/1806.02919v2	Non-Local Recurrent Network for Image Restoration
+0184	http://arxiv.org/abs/1812.11950v1	Image Super-Resolution via RL-CSC: When Residual Learning Meets Convolutional Sparse Coding
+0185	http://arxiv.org/abs/1801.10319v1	SESR: Single Image Super Resolution with Recursive Squeeze and Excitation Networks
+0186	http://arxiv.org/abs/1803.09454v1	Fast and Accurate Single Image Super-Resolution via Information Distillation Network
+0187	http://arxiv.org/abs/1603.09056v2	Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections
+0188	http://arxiv.org/abs/1708.02209v1	MemNet: A Persistent Memory Network for Image Restoration
+0189	http://arxiv.org/abs/1704.03915v2	Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution
+0190	http://arxiv.org/abs/1805.02704v1	Image Super-Resolution via Dual-State Recurrent Networks
+0191	http://arxiv.org/abs/1511.04491v2	Deeply-Recursive Convolutional Network for Image Super-Resolution
+0192	http://arxiv.org/abs/1511.02228v1	Seven ways to improve example-based single image super resolution
+0193	http://arxiv.org/abs/1712.06087v1	"Zero-Shot" Super-Resolution using Deep Internal Learning
+0194	http://arxiv.org/abs/1609.05158v2	Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
+0195	http://arxiv.org/abs/1712.05248v1	Image Super-resolution via Feature-augmented Random Forest
+0196	http://arxiv.org/abs/1501.00092v3	Image Super-Resolution Using Deep Convolutional Networks
+0197	http://arxiv.org/abs/1708.09200v1	Joint Maximum Purity Forest with Application to Image Super-Resolution
+0198	http://arxiv.org/abs/1809.04789v2	Deep Learning-based Image Super-Resolution Considering Quantitative and Perceptual Quality
+0199	http://arxiv.org/abs/1804.02815v1	Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform
+0200	http://arxiv.org/abs/1603.08155v1	Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+0201	https://arxiv.org/abs/1909.05305v1	Edge-Informed Single Image Super-Resolution
+0202	http://arxiv.org/abs/1804.00079v1	Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning
+0203	http://arxiv.org/abs/1705.02364v5	Supervised Learning of Universal Sentence Representations from Natural Language Inference Data
+0204	http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.html	d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding
+0205	https://arxiv.org/abs/1904.08082v4	Self-Attention Graph Pooling
+0206	https://dl.acm.org/citation.cfm?id=2832747.2832773	Graph Invariant Kernels
+0207	http://arxiv.org/abs/1805.04855v1	Covariance Pooling For Facial Expression Recognition
+0208	https://arxiv.org/abs/1907.05737v1	PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search
+0209	https://arxiv.org/abs/1906.12320v3	PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows
+0210	http://arxiv.org/abs/1901.09891v2	See Better Before Looking Closer: Weakly Supervised Data Augmentation Network for Fine-Grained Visual Classification
+0211	http://arxiv.org/abs/1712.01034v2	Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization
+0212	http://arxiv.org/abs/1805.09501v3	AutoAugment: Learning Augmentation Policies from Data
+0213	https://arxiv.org/abs/1906.01210v1	Attributed Graph Clustering via Adaptive Graph Convolution
+0214	https://arxiv.org/abs/1908.04003v1	RWR-GAE: Random Walk Regularization for Graph Auto Encoders
+0215	http://arxiv.org/abs/1802.04407v2	Adversarially Regularized Graph Autoencoder for Graph Embedding
+0216	http://arxiv.org/abs/1611.07308v1	Variational Graph Auto-Encoders
+0217	https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423	Deep neural networks for learning graph representations
+0218	http://arxiv.org/abs/1710.03476v1	MoNoise: Modeling Noise Using a Modular Normalization System
+0219	https://blog.openai.com/block-sparse-gpu-kernels/	GPU Kernels for Block-Sparse Weights
+0220	https://arxiv.org/abs/1906.02174v3	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks
+0221	http://arxiv.org/abs/1901.01484v1	LanczosNet: Multi-Scale Deep Graph Convolutional Networks
+0222	http://arxiv.org/abs/1511.02136v6	Diffusion-Convolutional Neural Networks
+0223	http://arxiv.org/abs/1511.05493v4	Gated Graph Sequence Neural Networks
+0224	http://arxiv.org/abs/1509.09292v2	Convolutional Networks on Graphs for Learning Molecular Fingerprints
+0225	http://arxiv.org/abs/1704.01212v2	Neural Message Passing for Quantum Chemistry
+0226	http://arxiv.org/abs/1706.02216v4	Inductive Representation Learning on Large Graphs
+0227	https://arxiv.org/abs/1904.04365v4	CODAH: An Adversarially Authored Question-Answer Dataset for Common Sense
+0228	http://arxiv.org/abs/1903.07291v1	Semantic Image Synthesis with Spatially-Adaptive Normalization
+0229	http://arxiv.org/abs/1707.09405v1	Photographic Image Synthesis with Cascaded Refinement Networks
+0230	http://arxiv.org/abs/1711.11585v2	High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
+0231	http://arxiv.org/abs/1903.00757v1	GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding
+0232	https://link.springer.com/article/10.1007/s00500-016-2317-5	Automatic support vector data description
+0233	https://arxiv.org/abs/1907.08322v1	MIMIC-Extract: A Data Extraction, Preprocessing, and Representation Pipeline for MIMIC-III
+0234	http://arxiv.org/abs/1709.08624v2	Long Text Generation via Adversarial Training with Leaked Information
+0235	http://arxiv.org/abs/1705.11001v3	Adversarial Ranking for Language Generation
+0236	http://arxiv.org/abs/1609.05473v6	SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
+0237	http://arxiv.org/abs/1507.00814v3	Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models
+0238	http://arxiv.org/abs/1312.5602v1	Playing Atari with Deep Reinforcement Learning
+0239	http://arxiv.org/abs/1706.08090v1	Count-Based Exploration in Feature Space for Reinforcement Learning
+0240	https://arxiv.org/abs/1905.07853v1	Learning Video Representations from Correspondence Proposals
+0241	https://arxiv.org/abs/1908.02486v2	STM: SpatioTemporal and Motion Encoding for Action Recognition
+0242	http://arxiv.org/abs/1711.08496v2	Temporal Relational Reasoning in Videos
+0243	https://arxiv.org/abs/1904.02422v4	Resource Efficient 3D Convolutional Neural Networks
+0244	http://arxiv.org/abs/1806.01484v2	3D Human Pose Estimation with 2D Marginal Heatmaps
+0245	https://arxiv.org/abs/1907.00837v1	XNect: Real-time Multi-person 3D Human Pose Estimation with a Single RGB Camera
+0246	http://arxiv.org/abs/1902.09868v2	RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation
+0247	http://arxiv.org/abs/1705.01583v1	VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera
+0248	http://arxiv.org/abs/1904.04812v1	Unsupervised 3D Pose Estimation with Geometric Self-Supervision
+0249	http://arxiv.org/abs/1804.08460v1	Mixing Context Granularities for Improved Entity Linking on Question Answering Data across Entity Categories
+0250	https://arxiv.org/abs/1905.07953v2	Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks
+0251	http://arxiv.org/abs/1803.07294v1	GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs
+0252	https://arxiv.org/abs/1907.04931v1	GraphSAINT: Graph Sampling Based Inductive Learning Method
+0253	http://arxiv.org/abs/1806.03536v2	Representation Learning on Graphs with Jumping Knowledge Networks
+0254	http://arxiv.org/abs/1705.02494v3	Learning Distributed Representations of Texts and Entities from Knowledge Base
+0255	http://arxiv.org/abs/1601.01343v4	Joint Learning of the Embedding of Words and Entities for Named Entity Disambiguation
+0256	https://arxiv.org/abs/1909.05235v1	SoftTriple Loss: Deep Metric Learning Without Triplet Sampling
+0257	http://arxiv.org/abs/1903.05503v1	Hardness-Aware Deep Metric Learning
+0258	http://openaccess.thecvf.com/content_ECCV_2018/html/Gilles_Simon_A_Contrario_Horizon-First_ECCV_2018_paper.html	A-Contrario Horizon-First Vanishing Point Detection Using Second-Order Grouping Laws
+0259	http://arxiv.org/abs/1608.05684v1	Detecting Vanishing Points using Global Image Context in a Non-Manhattan World
+0260	http://arxiv.org/abs/1707.02427v2	Deep Learning for Vanishing Point Detection Using an Inverse Gnomonic Projection
+0261	http://arxiv.org/abs/1809.01272v1	Unsupervised Statistical Machine Translation
+0262	https://arxiv.org/abs/1811.08264v4	Transferable Interactiveness Knowledge for Human-Object Interaction Detection
+0263	http://arxiv.org/abs/1808.10437v1	iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection
+0264	http://arxiv.org/abs/1808.07962v1	Learning Human-Object Interactions by Graph Parsing Neural Networks
+0265	http://arxiv.org/abs/1704.07333v3	Detecting and Recognizing Human-Object Interactions
+0266	https://arxiv.org/abs/1904.12848	Unsupervised Data Augmentation
+0267	https://www.semanticscholar.org/paper/Revisiting-LSTM-Networks-for-Semi-Supervised-Text-Sachan-Petuum/c3f89364aecd661eb032840d2fe3efd0f6d1698c	Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function
+0268	http://arxiv.org/abs/1801.06146v5	Universal Language Model Fine-tuning for Text Classification
+0269	https://www.aclweb.org/anthology/papers/P/P18/P18-1215/	Disconnected Recurrent Neural Networks for Text Categorization
+0270	http://arxiv.org/abs/1602.02373v2	Supervised and Semi-Supervised Text Categorization using LSTM for Region Embeddings
+0271	https://www.aclweb.org/anthology/papers/P/P17/P17-1052/	Deep Pyramid Convolutional Neural Networks for Text Categorization
+0272	http://arxiv.org/abs/1805.04174v1	Joint Embedding of Words and Labels for Text Classification
+0273	http://arxiv.org/abs/1811.09386v1	Explicit Interaction Model towards Text Classification
+0274	http://arxiv.org/abs/1709.08294v3	Learning Context-Sensitive Convolutional Filters for Text Processing
+0275	http://arxiv.org/abs/1808.09644v1	On Tree-Based Neural Sentence Modeling
+0276	http://arxiv.org/abs/1810.09177v3	Compositional coding capsule network with k-means routing for text classification
+0277	http://arxiv.org/abs/1606.01781v2	Very Deep Convolutional Networks for Text Classification
+0278	http://arxiv.org/abs/1607.01759v3	Bag of Tricks for Efficient Text Classification
+0279	http://arxiv.org/abs/1509.01626v3	Character-level Convolutional Networks for Text Classification
+0280	https://arxiv.org/abs/1805.07745v5	Abstractive Text Classification Using Sequence-to-convolution Neural Networks
+0281	http://arxiv.org/abs/1609.05600v2	Graph-Structured Representations for Visual Question Answering
+0282	https://shaohua0116.github.io/Multiview2Novelview/	Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence
+0283	http://arxiv.org/abs/1807.02291v1	Sliced Recurrent Neural Networks
+0284	https://arxiv.org/abs/1905.02822v1	LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
+0285	http://arxiv.org/abs/1902.09212v1	Deep High-Resolution Representation Learning for Human Pose Estimation
+0286	http://arxiv.org/abs/1712.09184v2	Detect-and-Track: Efficient Pose Estimation in Videos
+0287	http://arxiv.org/abs/1802.00977v2	Pose Flow: Efficient Online Pose Tracking
+0288	http://arxiv.org/abs/1901.06882v1	Skeleton-based Action Recognition of People Handling Objects
+0289	http://arxiv.org/abs/1801.07455v2	Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
+0290	http://arxiv.org/abs/1812.05770v2	Action Machine: Rethinking Action Recognition in Trimmed Videos
+0291	https://arxiv.org/abs/1907.00193v2	Frame attention networks for facial expression recognition in videos
+0292	http://arxiv.org/abs/1808.03731v2	From POS tagging to dependency parsing for biomedical event extraction
+0293	https://arxiv.org/abs/1903.10676v3	SciBERT: A Pretrained Language Model for Scientific Text
+0294	http://arxiv.org/abs/1811.11482v1	Image Reconstruction with Predictive Filter Flow
+0295	http://arxiv.org/abs/1810.12575v1	Neural Nearest Neighbors Networks
+0296	http://arxiv.org/abs/1707.07128v1	Single Image Super-Resolution with Dilated Convolution based Multi-Scale Information Learning Inception Module
+0297	http://arxiv.org/abs/1704.02738v1	Detail-revealing Deep Video Super-resolution
+0298	http://arxiv.org/abs/1508.02848v2	Trainable Nonlinear Reaction Diffusion: A Flexible Framework for Fast and Effective Image Restoration
+0299	http://arxiv.org/abs/1709.03749v2	Deep Mean-Shift Priors for Image Restoration
+0300	https://arxiv.org/abs/1904.12848v2	Unsupervised Data Augmentation for Consistency Training
+0301	https://arxiv.org/abs/1802.03997	GEMSEC: Graph Embedding with Self Clustering
+0302	http://arxiv.org/abs/1804.02142v1	Motion Segmentation by Exploiting Complementary Geometric Models
+0303	https://openai.com/blog/sparse-transformer/	Generating Long Sequences with Sparse Transformers
+0304	http://arxiv.org/abs/1711.07399v3	V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map
+0305	https://arxiv.org/abs/1908.09999v1	A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image
+0306	http://arxiv.org/abs/1708.03416v2	Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation
+0307	http://arxiv.org/abs/1711.08996v1	Dense 3D Regression for Hand Pose Estimation
+0308	http://arxiv.org/abs/1702.02447v2	Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation
+0309	http://arxiv.org/abs/1708.08325v1	DeepPrior++: Improving Fast and Accurate 3D Hand Pose Estimation
+0310	http://arxiv.org/abs/1812.10464v1	Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond
+0311	https://arxiv.org/abs/1811.01136v2	Margin-based Parallel Corpus Mining with Multilingual Sentence Embeddings
+0312	http://arxiv.org/abs/1511.06709v4	Improving Neural Machine Translation Models with Monolingual Data
+0313	http://arxiv.org/abs/1703.02136v1	English Conversational Telephone Speech Recognition by Humans and Machines
+0314	http://arxiv.org/abs/1609.03528v2	The Microsoft 2016 Conversational Speech Recognition System
+0315	http://arxiv.org/abs/1604.08242v2	The IBM 2016 English Conversational Telephone Speech Recognition System
+0316	http://arxiv.org/abs/1412.5567v2	Deep Speech: Scaling up end-to-end speech recognition
+0317	http://arxiv.org/abs/1406.7806v2	Building DNN Acoustic Models for Large Vocabulary Speech Recognition
+0318	http://arxiv.org/abs/1709.03741v2	Learning Graph-Level Representation for Drug Discovery
+0319	https://arxiv.org/abs/1906.03158v1	Matching the Blanks: Distributional Similarity for Relation Learning
+0320	https://arxiv.org/abs/1906.07510v3	Attention Guided Graph Convolutional Networks for Relation Extraction
+0321	http://arxiv.org/abs/1809.10185v1	Graph Convolution over Pruned Dependency Trees Improves Relation Extraction
+0322	https://arxiv.org/abs/1905.07129v3	ERNIE: Enhanced Language Representation with Informative Entities
+0323	http://arxiv.org/abs/1904.05255v1	Simple BERT Models for Relation Extraction and Semantic Role Labeling
+0324	https://www.ijcai.org/proceedings/2019/750	Beyond Word Attention: Using Segment Attention in Neural Relation Extraction
+0325	https://openreview.net/forum?id=BJgrxbqp67	Improving Relation Extraction by Pre-trained Language Representations
+0326	https://www.aclweb.org/anthology/papers/D/D17/D17-1004/	Position-aware Attention and Supervised Data Improve Slot Filling
+0327	https://arxiv.org/abs/1908.05760v1	BioFLAIR: Pretrained Pooled Contextualized Embeddings for Biomedical Sequence Labeling Tasks
+0328	https://arxiv.org/abs/1908.02111	Point Cloud Super Resolution with Adversarial Residual Graph Networks
+0329	http://arxiv.org/abs/1801.06761v2	PU-Net: Point Cloud Upsampling Network
+0330	http://arxiv.org/abs/1610.05256v2	Achieving Human Parity in Conversational Speech Recognition
+0331	https://arxiv.org/abs/1904.08779v2	SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition
+0332	http://arxiv.org/abs/1505.05899v1	The IBM 2015 English Conversational Telephone Speech Recognition System
+0333	http://arxiv.org/abs/1509.08967v2	Very Deep Multilingual Convolutional Neural Networks for LVCSR
+0334	http://arxiv.org/abs/1710.04026v2	FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising
+0335	http://arxiv.org/abs/1704.03264v1	Learning Deep CNN Denoiser Prior for Image Restoration
+0336	https://arxiv.org/abs/1901.02860v3	Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
+0337	http://arxiv.org/abs/1809.10853v3	Adaptive Input Representations for Neural Language Modeling
+0338	http://arxiv.org/abs/1811.02084v1	Mesh-TensorFlow: Deep Learning for Supercomputers
+0339	http://arxiv.org/abs/1901.10430v2	Pay Less Attention with Lightweight and Dynamic Convolutions
+0340	http://arxiv.org/abs/1701.06538v1	Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
+0341	http://arxiv.org/abs/1602.02410v2	Exploring the Limits of Language Modeling
+0342	http://arxiv.org/abs/1612.08083v3	Language Modeling with Gated Convolutional Networks
+0343	http://arxiv.org/abs/1703.10722v3	Factorization tricks for LSTM networks
+0344	https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf	Language Models are Unsupervised Multitask Learners
+0345	http://arxiv.org/abs/1312.3005v3	One Billion Word Benchmark for Measuring Progress in Statistical Language Modeling
+0346	http://arxiv.org/abs/1412.1454v2	Skip-gram Language Modeling Using Sparse Non-negative Matrix Probability Estimation
+0347	http://arxiv.org/abs/1810.08392v1	Impact of Corpora Quality on Neural Machine Translation
+0348	http://arxiv.org/abs/1812.04361v2	RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information
+0349	http://arxiv.org/abs/1804.06987v1	Improving Distantly Supervised Relation Extraction using Word and Entity Based Attention
+0350	https://www.aclweb.org/anthology/papers/P16-1200/p16-1200	Neural Relation Extraction with Selective Attention over Instances
+0351	https://www.aclweb.org/anthology/papers/D/D15/D15-1203/	Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks
+0352	http://arxiv.org/abs/1808.06738v2	Neural Relation Extraction via Inner-Sentence Noise Reduction and Transfer Learning
+0353	https://arxiv.org/abs/1901.00603v2	Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering
+0354	http://arxiv.org/abs/1804.05922v1	Neural Models for Reasoning over Multiple Mentions using Coreference
+0355	https://arxiv.org/abs/1809.06309v3	Commonsense for Generative Multi-Hop Question Answering Tasks
+0356	http://arxiv.org/abs/1710.06481v2	Constructing Datasets for Multi-hop Reading Comprehension Across Documents
+0357	http://arxiv.org/abs/1808.09602v1	Multi-Task Identification of Entities, Relations, and Coreference for Scientific Knowledge Graph Construction
+0358	https://arxiv.org/abs/1810.04805v2	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+0359	http://arxiv.org/abs/1705.02798v6	Reinforced Mnemonic Reader for Machine Reading Comprehension
+0360	http://arxiv.org/abs/1802.05365v2	Deep contextualized word representations
+0361	https://www.aclweb.org/anthology/papers/W/W18/W18-2603/	A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension
+0362	http://arxiv.org/abs/1712.03556v2	Stochastic Answer Networks for Machine Reading Comprehension
+0363	http://arxiv.org/abs/1711.07341v2	FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension
+0364	http://arxiv.org/abs/1711.00106v2	DCN+: Mixed Objective and Deep Residual Coattention for Question Answering
+0365	http://arxiv.org/abs/1707.09098v1	MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension
+0366	http://arxiv.org/abs/1712.03609v4	Contextualized Word Representations for Reading Comprehension
+0367	http://arxiv.org/abs/1710.10504v2	Phase Conductor on Multi-layered Attentions for Machine Comprehension
+0368	https://www.aclweb.org/anthology/papers/P/P17/P17-1018/	Gated Self-Matching Networks for Reading Comprehension and Question Answering
+0369	http://arxiv.org/abs/1804.09541v1	QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension
+0370	https://arxiv.org/abs/1809.03449v3	Explicit Utilization of General Knowledge in Machine Reading Comprehension
+0371	http://arxiv.org/abs/1609.05284v3	ReasoNet: Learning to Stop Reading in Machine Comprehension
+0372	http://arxiv.org/abs/1703.00572v3	Structural Embedding of Syntactic Trees for Machine Comprehension
+0373	http://arxiv.org/abs/1612.04211v1	Multi-Perspective Context Matching for Machine Comprehension
+0374	http://arxiv.org/abs/1611.01603v6	Bidirectional Attention Flow for Machine Comprehension
+0375	http://arxiv.org/abs/1703.04617v2	Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering
+0376	http://arxiv.org/abs/1710.10723v2	Simple and Effective Multi-Paragraph Reading Comprehension
+0377	http://arxiv.org/abs/1611.01604v4	Dynamic Coattention Networks For Question Answering
+0378	http://arxiv.org/abs/1710.02772v1	Smarnet: Teaching Machines to Read and Comprehend Like Human
+0379	http://arxiv.org/abs/1709.02755v5	Simple Recurrent Units for Highly Parallelizable Recurrence
+0380	http://arxiv.org/abs/1708.00107v2	Learned in Translation: Contextualized Word Vectors
+0381	http://arxiv.org/abs/1703.04816v3	Making Neural QA as Simple as Possible but not Simpler
+0382	http://arxiv.org/abs/1611.01436v2	Learning Recurrent Span Representations for Extractive Question Answering
+0383	http://arxiv.org/abs/1704.00051v2	Reading Wikipedia to Answer Open-Domain Questions
+0384	http://arxiv.org/abs/1704.07415v1	Ruminating Reader: Reasoning with Gated Multi-Hop Attention
+0385	http://arxiv.org/abs/1608.07905v2	Machine Comprehension Using Match-LSTM and Answer Pointer
+0386	http://arxiv.org/abs/1810.09580v1	A Fully Attention-Based Information Retriever
+0387	http://arxiv.org/abs/1706.00286v3	Learning to Compute Word Embeddings On the Fly
+0388	http://arxiv.org/abs/1610.09996v2	End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension
+0389	http://arxiv.org/abs/1611.01724v2	Words or Characters? Fine-grained Gating for Reading Comprehension
+0390	http://arxiv.org/abs/1812.01840v2	Attention Boosted Sequential Inference Model
+0391	http://arxiv.org/abs/1904.12640v2	TextCohesion: Detecting Text for Arbitrary Shapes
+0392	http://arxiv.org/abs/1807.02242v2	Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes
+0393	http://arxiv.org/abs/1901.03546v1	Retrieving Similar E-Commerce Images Using Deep Learning
+0394	http://arxiv.org/abs/1903.00905v2	MILDNet: A Lightweight Single Scaled Deep Ranking Architecture
+0395	http://arxiv.org/abs/1903.00179v2	Pyramid Feature Attention Network for Saliency detection
+0396	http://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html	MARS: Motion-Augmented RGB Stream for Action Recognition
+0397	http://arxiv.org/abs/1702.06925v3	Regularizing Face Verification Nets For Pain Intensity Regression
+0398	http://arxiv.org/abs/1808.04444v2	Character-Level Language Modeling with Deeper Self-Attention
+0399	http://arxiv.org/abs/1709.07432v2	Dynamic Evaluation of Neural Sequence Models
+0400	http://arxiv.org/abs/1803.08240v1	An Analysis of Neural Language Modeling at Multiple Scales
+0401	http://arxiv.org/abs/1609.07959v3	Multiplicative LSTM for sequence modelling
+0402	http://arxiv.org/abs/1705.08639v2	Fast-Slow Recurrent Neural Networks
+0403	http://arxiv.org/abs/1607.03474v5	Recurrent Highway Networks
+0404	http://arxiv.org/abs/1611.04717v3	#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning
+0405	http://arxiv.org/abs/1610.08871v1	Detecting People in Artwork with CNNs
+0406	https://arxiv.org/abs/1812.02122	Learning Attraction Field Representation for Robust Line Segment Detection
+0407	https://arxiv.org/abs/1909.02151v1	KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning
+0408	http://arxiv.org/abs/1801.09321v3	Document Image Classification with Intra-Domain Transfer Learning and Stacked Generalization of Deep Convolutional Neural Networks
+0409	http://arxiv.org/abs/1704.03557v1	Cutting the Error by Half: Investigation of Very Deep CNN and Advanced Training Strategies for Document Image Classification
+0410	http://arxiv.org/abs/1708.03273v1	Analysis of Convolutional Neural Networks for Document Image Classification
+0411	http://arxiv.org/abs/1502.07058v1	Evaluation of Deep Convolutional Nets for Document Image Classification and Retrieval
+0412	https://doi.org/10.1038/s41598-019-48786-x	Deeper Profiles and Cascaded Recurrent and Convolutional Neural Networks for state-of-the-art Protein Secondary Structure Prediction
+0413	http://arxiv.org/abs/1508.07909v5	Neural Machine Translation of Rare Words with Subword Units
+0414	http://arxiv.org/abs/1606.07947v4	Sequence-Level Knowledge Distillation
+0415	http://arxiv.org/abs/1609.08675v1	YouTube-8M: A Large-Scale Video Classification Benchmark
+0416	http://arxiv.org/abs/1512.07155v1	Do Less and Achieve More: Training CNNs for Action Recognition Utilizing Action Images from the Web
+0417	http://arxiv.org/abs/1803.08460v1	Towards Universal Representation for Unseen Action Recognition
+0418	http://arxiv.org/abs/1409.4842v1	Going Deeper with Convolutions
+0419	http://arxiv.org/abs/1312.6229v4	OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
+0420	http://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html	Neural Sign Language Translation
+0421	https://arxiv.org/abs/1905.04579v2	Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification
+0422	http://arxiv.org/abs/1807.02653v1	When Work Matters: Transforming Classical Network Structures to Graph CNN
+0423	https://arxiv.org/abs/1904.13107v2	Graph Convolutional Networks with EigenPooling
+0424	http://arxiv.org/abs/1811.04393v1	Gaussian-Induced Convolution for Graphs
+0425	http://arxiv.org/abs/1811.09595v1	Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules
+0426	https://arxiv.org/abs/1904.01543v2	Towards a practical $k$-dimensional Weisfeiler-Leman algorithm
+0427	http://arxiv.org/abs/1904.02278v1	DAGCN: Dual Attention Graph Convolutional Networks
+0428	https://openreview.net/forum?id=Byl8BnRcYm	Capsule Graph Neural Network
+0429	https://www.semanticscholar.org/paper/Deep-Graph-Kernels-Yanardag-Vishwanathan/8ccd0adb1a00358ede79f1d9bdcce472dc1cb8d4	Deep Graph Kernels
+0430	https://hal.archives-ouvertes.fr/hal-02093451/	SPI-GCN: A Simple Permutation-Invariant Graph Convolutional Network
+0431	https://arxiv.org/abs/1811.03508v2	A simple yet effective baseline for non-attributed graph classification
+0432	https://arxiv.org/abs/1909.03287v1	A Non-Negative Factorization approach to node pooling in Graph Convolutional Neural Networks
+0433	http://arxiv.org/abs/1810.02245v1	A Span Selection Model for Semantic Role Labeling
+0434	http://arxiv.org/abs/1901.05280v1	Dependency or Span, End-to-End Uniform Semantic Role Labeling
+0435	http://arxiv.org/abs/1804.08199v3	Linguistically-Informed Self-Attention for Semantic Role Labeling
+0436	http://arxiv.org/abs/1808.08644v1	Predicting Semantic Relations using Global Graph Properties
+0437	https://arxiv.org/abs/1901.09590v2	TuckER: Tensor Factorization for Knowledge Graph Completion
+0438	https://arxiv.org/abs/1808.07018v5	Hypernetwork Knowledge Graph Embeddings
+0439	http://arxiv.org/abs/1802.04394v5	M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search
+0440	http://arxiv.org/abs/1712.02121v2	A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network
+0441	http://arxiv.org/abs/1703.02620v1	Linguistic Knowledge as Memory for Recurrent Neural Networks
+0442	http://arxiv.org/abs/1606.01549v3	Gated-Attention Readers for Text Comprehension
+0443	http://arxiv.org/abs/1606.02858v2	A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task
+0444	http://arxiv.org/abs/1606.02245v4	Iterative Alternating Neural Attention for Machine Reading
+0445	http://arxiv.org/abs/1603.01547v2	Text Understanding with the Attention Sum Reader Network
+0446	http://arxiv.org/abs/1607.04423v4	Attention-over-Attention Neural Networks for Reading Comprehension
+0447	http://arxiv.org/abs/1606.02270v2	Natural Language Comprehension with the EpiReader
+0448	https://www.aclweb.org/anthology/papers/N/N16/N16-1099/	Dynamic Entity Representation with Max-pooling Improves Machine Reading
+0449	http://arxiv.org/abs/1506.03340v3	Teaching Machines to Read and Comprehend
+0450	http://arxiv.org/abs/1606.08921v3	Image Restoration Using Convolutional Auto-encoders with Symmetric Skip Connections
+0451	https://arxiv.org/abs/1908.07490v2	LXMERT: Learning Cross-Modality Encoder Representations from Transformers
+0452	https://arxiv.org/abs/1908.03557v1	VisualBERT: A Simple and Performant Baseline for Vision and Language
+0453	http://arxiv.org/abs/1901.05534v2	Lagging Inference Networks and Posterior Collapse in Variational Autoencoders
+0454	http://arxiv.org/abs/1802.02550v7	Semi-Amortized Variational Autoencoders
+0455	http://arxiv.org/abs/1702.08139v2	Improved Variational Autoencoders for Text Modeling using Dilated Convolutions
+0456	http://arxiv.org/abs/1805.02473v3	A Graph-to-Sequence Model for AMR-to-Text Generation
+0457	https://arxiv.org/abs/1908.06926v1	Neural Architectures for Nested NER through Linearization
+0458	https://arxiv.org/abs/1909.02250v1	Nested Named Entity Recognition via Second-best Sequence Learning and Decoding
+0459	https://arxiv.org/abs/1907.00464v1	Merge and Label: A novel neural network architecture for nested NER
+0460	https://arxiv.org/abs/1906.08449v1	Multi-Grained Named Entity Recognition
+0461	https://arxiv.org/abs/1906.03783v1	Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks
+0462	http://arxiv.org/abs/1810.01817v1	Neural Segmental Hypergraphs for Overlapping Mention Recognition
+0463	http://arxiv.org/abs/1810.01808v1	A Neural Transition-based Model for Nested Mention Recognition
+0464	https://www.aclweb.org/anthology/papers/N/N18/N18-1131/	A Neural Layered Model for Nested Named Entity Recognition
+0465	https://doi.org/10.1145/3132847.3132967	Marginalized graph autoencoder for graph clustering
+0466	http://arxiv.org/abs/1603.08884v1	A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data
+0467	https://arxiv.org/abs/1904.02811v3	Video Classification with Channel-Separated Convolutional Networks
+0468	https://arxiv.org/abs/1905.12681v3	What Makes Training Multi-Modal Networks Hard?
+0469	http://arxiv.org/abs/1711.11248v3	A Closer Look at Spatiotemporal Convolutions for Action Recognition
+0470	http://arxiv.org/abs/1503.08909v2	Beyond Short Snippets: Deep Networks for Video Classification
+0471	http://arxiv.org/abs/1711.10305v1	Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks
+0472	https://doi.org/10.1109/CVPR.2014.223	Large-Scale Video Classification with Convolutional Neural Networks
+0473	http://arxiv.org/abs/1412.0767v4	Learning Spatiotemporal Features with 3D Convolutional Networks
+0474	http://arxiv.org/abs/1603.07076v3	Towards Viewpoint Invariant 3D Human Pose Estimation
+0475	https://arxiv.org/abs/1907.00390v1	A Novel Bi-directional Interrelated Model for Joint Intent Detection and Slot Filling
+0476	https://arxiv.org/abs/1812.09471v2	Joint Slot Filling and Intent Detection via Capsule Neural Networks
+0477	https://arxiv.org/abs/1905.11946v2	EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+0478	http://arxiv.org/abs/1807.00734v3	The relativistic discriminator: a key element missing from standard GAN
+0479	http://arxiv.org/abs/1704.00028v3	Improved Training of Wasserstein GANs
+0480	http://arxiv.org/abs/1812.00332v2	ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware
+0481	http://arxiv.org/abs/1802.01548v7	Regularized Evolution for Image Classifier Architecture Search
+0482	http://arxiv.org/abs/1806.02639v1	Path-Level Network Transformation for Efficient Architecture Search
+0483	http://arxiv.org/abs/1611.01578v2	Neural Architecture Search with Reinforcement Learning
+0484	http://arxiv.org/abs/1708.06519v1	Learning Efficient Convolutional Networks through Network Slimming
+0485	http://arxiv.org/abs/1802.03268v2	Efficient Neural Architecture Search via Parameter Sharing
+0486	https://www.aclweb.org/anthology/papers/S/S18/S18-1116/	CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery
+0487	https://www.aclweb.org/anthology/papers/S/S18/S18-1152/	300-sparsans at SemEval-2018 Task 9: Hypernymy as interaction of sparse attributes
+0488	https://www.aclweb.org/anthology/papers/D/D16/D16-1041/	Supervised Distributional Hypernym Discovery via Domain Adaptation
+0489	https://www.aclweb.org/anthology/papers/S/S18/S18-1150/	EXPR at SemEval-2018 Task 9: A Combined Approach for Hypernym Discovery
+0490	https://www.aclweb.org/anthology/papers/S/S18/S18-1147/	SJTU-NLP at SemEval-2018 Task 9: Neural Hypernym Discovery with Term Embeddings
+0491	https://www.aclweb.org/anthology/papers/S/S18/S18-1151/	ADAPT at SemEval-2018 Task 9: Skip-Gram Word Embeddings for Unsupervised Hypernym Discovery in Specialised Corpora
+0492	http://arxiv.org/abs/1612.04460v2	Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection
+0493	https://arxiv.org/abs/1909.01259	Neural Attentive Bag-of-Entities Model for Text Classification
+0494	http://arxiv.org/abs/1812.03593v5	SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering
+0495	http://arxiv.org/abs/1810.06683v3	FlowQA: Grasping Flow in History for Conversational Machine Comprehension
+0496	https://arxiv.org/abs/1809.10735v2	A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC
+0497	http://arxiv.org/abs/1808.07042v2	CoQA: A Conversational Question Answering Challenge
+0498	https://www.researchgate.net/publication/301417811_GraRep	GraRep: Learning Graph Representations with Global Structural Information
+0499	http://arxiv.org/abs/1901.09821v1	Squeezed Very Deep Convolutional Neural Networks for Text Classification
+0500	http://arxiv.org/abs/1803.05170v3	xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems
+0501	http://arxiv.org/abs/1703.04247v1	DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
+0502	http://arxiv.org/abs/1611.00144v1	Product-based Neural Networks for User Response Prediction
+0503	http://arxiv.org/abs/1606.07792v1	Wide & Deep Learning for Recommender Systems
+0504	http://arxiv.org/abs/1810.03505v1	CINIC-10 is not ImageNet or CIFAR-10
+0505	https://arxiv.org/abs/1909.04273v2	Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy
+0506	https://www.aaai.org/ojs/index.php/AAAI/article/view/4591	Joint extraction of entities and overlapping relations using position-attentive sequence labeling
+0507	http://arxiv.org/abs/1706.05075v1	Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme
+0508	https://arxiv.org/abs/1811.06965v5	GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism
+0509	https://arxiv.org/abs/1709.01507v4	Squeeze-and-Excitation Networks
+0510	http://arxiv.org/abs/1901.09321v2	Fixup Initialization: Residual Learning Without Normalization
+0511	https://arxiv.org/abs/1806.05236v7	Manifold Mixup: Better Representations by Interpolating Hidden States
+0512	http://arxiv.org/abs/1710.09412v2	mixup: Beyond Empirical Risk Minimization
+0513	http://arxiv.org/abs/1803.05407v3	Averaging Weights Leads to Wider Optima and Better Generalization
+0514	https://arxiv.org/abs/1907.06916v2	Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems
+0515	http://arxiv.org/abs/1610.02915v4	Deep Pyramidal Residual Networks
+0516	http://arxiv.org/abs/1709.10282v1	Deep Competitive Pathway Networks
+0517	http://arxiv.org/abs/1608.06993v5	Densely Connected Convolutional Networks
+0518	http://arxiv.org/abs/1903.06586v2	Selective Kernel Networks
+0519	http://arxiv.org/abs/1412.6071v4	Fractional Max-Pooling
+0520	https://arxiv.org/abs/1901.06656v2	Training Neural Networks with Local Error Signals
+0521	http://arxiv.org/abs/1802.06205v1	Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet
+0522	http://arxiv.org/abs/1605.07146v4	Wide Residual Networks
+0523	http://arxiv.org/abs/1412.6806v3	Striving for Simplicity: The All Convolutional Net
+0524	http://arxiv.org/abs/1703.01041v2	Large-Scale Evolution of Image Classifiers
+0525	http://arxiv.org/abs/1608.06037v7	Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures
+0526	http://arxiv.org/abs/1603.05027v3	Identity Mappings in Deep Residual Networks
+0527	http://arxiv.org/abs/1903.10829v1	SRM : A Style-based Recalibration Module for Convolutional Neural Networks
+0528	http://arxiv.org/abs/1603.09382v3	Deep Networks with Stochastic Depth
+0529	http://arxiv.org/abs/1707.04873v2	Efficient Architecture Search by Network Transformation
+0530	http://arxiv.org/abs/1604.04112v4	Deep Residual Networks with Exponential Linear Unit
+0531	http://arxiv.org/abs/1705.09792v4	Deep Complex Networks
+0532	http://arxiv.org/abs/1511.06422v7	All you need is a good init
+0533	http://arxiv.org/abs/1509.08985v2	Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree
+0534	http://arxiv.org/abs/1409.6070v1	Spatially-sparse convolutional neural networks
+0535	http://arxiv.org/abs/1502.05700v2	Scalable Bayesian Optimization Using Deep Neural Networks
+0536	http://arxiv.org/abs/1512.03385v1	Deep Residual Learning for Image Recognition
+0537	http://arxiv.org/abs/1511.07289v5	Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)
+0538	http://arxiv.org/abs/1511.02583v1	Batch-normalized Maxout Network in Network
+0539	http://arxiv.org/abs/1511.03719v7	Universum Prescription: Regularization using Unlabeled Data
+0540	http://arxiv.org/abs/1511.05635v1	Competitive Multi-scale Convolution
+0541	http://arxiv.org/abs/1412.6830v3	Learning Activation Functions to Improve Deep Neural Networks
+0542	http://arxiv.org/abs/1507.06228v2	Training Very Deep Networks
+0543	http://arxiv.org/abs/1506.02351v8	Stacked What-Where Auto-encoders
+0544	http://arxiv.org/abs/1409.5185v2	Deeply-Supervised Nets
+0545	http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-binary-weights-during-propagations	BinaryConnect: Training Deep Neural Networks with binary weights during propagations
+0546	http://arxiv.org/abs/1701.06264v6	Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities
+0547	http://arxiv.org/abs/1508.00330v2	On the Importance of Normalisation Layers in Deep Learning with Piecewise Linear Activation Units
+0548	http://papers.nips.cc/paper/5649-spectral-representations-for-convolutional-neural-networks	Spectral Representations for Convolutional Neural Networks
+0549	http://arxiv.org/abs/1805.01890v2	RMDL: Random Multimodel Deep Learning for Classification
+0550	http://arxiv.org/abs/1312.4400v3	Network In Network
+0551	http://papers.nips.cc/paper/5276-deep-networks-with-internal-selective-attention-through-feedback-connections	Deep Networks with Internal Selective Attention through Feedback Connections
+0552	http://arxiv.org/abs/1302.4389v4	Maxout Networks
+0553	http://arxiv.org/abs/1312.6116v2	Improving Deep Neural Networks with Probabilistic Maxout Units
+0554	http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms	Practical Bayesian Optimization of Machine Learning Algorithms
+0555	http://arxiv.org/abs/1505.03229v1	APAC: Augmented PAttern Classification with Neural Networks
+0556	http://arxiv.org/abs/1710.02286v1	Deep Convolutional Neural Networks as Generic Feature Extractors
+0557	http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks	ImageNet Classification with Deep Convolutional Neural Networks
+0558	http://arxiv.org/abs/1202.2745v1	Multi-column Deep Neural Networks for Image Classification
+0559	http://arxiv.org/abs/1505.00853v2	Empirical Evaluation of Rectified Activations in Convolutional Network
+0560	http://arxiv.org/abs/1505.00393v3	ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks
+0561	http://arxiv.org/abs/1412.6597v4	An Analysis of Unsupervised Pre-training in Light of Recent Advances
+0562	http://arxiv.org/abs/1301.3557v1	Stochastic Pooling for Regularization of Deep Convolutional Neural Networks
+0563	http://arxiv.org/abs/1207.0580v1	Improving neural networks by preventing co-adaptation of feature detectors
+0564	http://arxiv.org/abs/1406.3332v2	Convolutional Kernel Networks
+0565	http://papers.nips.cc/paper/5548-discriminative-unsupervised-feature-learning-with-convolutional-neural-networks	Discriminative Unsupervised Feature Learning with Convolutional Neural Networks
+0566	http://papers.nips.cc/paper/4747-learning-with-recursive-perceptual-representations	Learning with Recursive Perceptual Representations
+0567	http://arxiv.org/abs/1404.3606v2	PCANet: A Simple Deep Learning Baseline for Image Classification?
+0568	http://arxiv.org/abs/1503.04596v3	Enhanced Image Classification With a Fast-Learning Shallow Convolutional Neural Network
+0569	https://arxiv.org/abs/1905.02450v5	MASS: Masked Sequence to Sequence Pre-training for Language Generation
+0570	http://arxiv.org/abs/1901.07291v1	Cross-lingual Language Model Pretraining
+0571	http://arxiv.org/abs/1809.01797v2	Describing a Knowledge Base
+0572	http://arxiv.org/abs/1404.4326v1	Open Question Answering with Weakly Supervised Embedding Models
+0573	http://arxiv.org/abs/1506.02075v1	Large-scale Simple Question Answering with Memory Networks
+0574	http://arxiv.org/abs/1903.07785v1	Cloze-driven Pretraining of Self-attention Networks
+0575	https://arxiv.org/abs/1906.02437v1	GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling
+0576	https://www.aclweb.org/anthology/papers/P/P19/P19-1527/	Neural Architectures for Nested NER through Linearization
+0577	https://www.aclweb.org/anthology/papers/N/N19/N19-1078/	Pooled Contextualized Embeddings for Named Entity Recognition
+0578	https://www.aclweb.org/anthology/papers/C/C18/C18-1139/	Contextual String Embeddings for Sequence Labeling
+0579	https://www.aclweb.org/anthology/papers/P/P19/P19-1524/	Towards Improving Neural Named Entity Recognition with Gazetteers
+0580	http://arxiv.org/abs/1809.08370v1	Semi-Supervised Sequence Modeling with Cross-View Training
+0581	https://arxiv.org/abs/1907.08243v1	Joint Learning of Named Entity Recognition and Entity Linking
+0582	https://arxiv.org/abs/1907.05611v2	GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition
+0583	http://arxiv.org/abs/1808.09075v1	Evaluating the Utility of Hand-crafted Features in Sequence Labelling
+0584	http://arxiv.org/abs/1804.07827v2	Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling
+0585	http://arxiv.org/abs/1705.00108v1	Semi-supervised sequence tagging with bidirectional language models
+0586	https://www.aclweb.org/anthology/papers/P/P19/P19-1532/	A Prism Module for Semantic Disentanglement in Name Entity Recognition
+0587	http://arxiv.org/abs/1810.12443v1	Learning Better Internal Structure of Words for Sequence Labeling
+0588	http://arxiv.org/abs/1811.03873v1	Long Short-Term Memory with Dynamic Skip Connections
+0589	https://www.aclweb.org/anthology/papers/P/P18/P18-2038/	Hybrid semi-Markov CRF for Neural Sequence Labeling
+0590	http://arxiv.org/abs/1409.3660v4	10,000+ Times Accelerated Robust Subset Selection (ARSS)
+0591	http://arxiv.org/abs/1703.06345v1	Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks
+0592	http://arxiv.org/abs/1709.04109v4	Empower Sequence Labeling with Task-Aware Neural Language Model
+0593	http://arxiv.org/abs/1603.01354v5	End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
+0594	http://arxiv.org/abs/1603.06318v5	Harnessing Deep Neural Networks with Logic Rules
+0595	http://arxiv.org/abs/1603.01360v3	Neural Architectures for Named Entity Recognition
+0596	https://www.aclweb.org/anthology/papers/D/D18/D18-1020/	Variational Sequential Labelers for Semi-Supervised Learning
+0597	http://arxiv.org/abs/1812.01969v2	Summarizing Videos with Attention
+0598	http://arxiv.org/abs/1708.09545v2	Video Summarization with Attention-Based Encoder-Decoder Networks
+0599	https://doi.org/10.1007/978-3-030-30508-6_1	Unsharp Masking Layer: Injecting Prior Knowledge in Convolutional Networks for Image Classification
+0600	https://arxiv.org/abs/1811.02480v3	Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments
+0601	https://arxiv.org/abs/1908.10432	EEG Signal Dimensionality Reduction and Classification using Tensor Decomposition and Deep Convolutional Neural Networks
+0602	https://www.aclweb.org/anthology/papers/L/L18/L18-1595/	Training and Adapting Multilingual NMT for Less-resourced and Morphologically Rich Languages
+0603	http://arxiv.org/abs/1901.08634v2	A BERT Baseline for the Natural Questions
+0604	https://arxiv.org/abs/1811.10636v2	Evolving Space-Time Neural Architectures for Videos
+0605	https://arxiv.org/abs/1810.01455v3	Representation Flow for Action Recognition
+0606	http://arxiv.org/abs/1705.07750v3	Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset
+0607	http://arxiv.org/abs/1605.08140v3	Learning Latent Sub-events in Activity Videos Using Temporal Attention Filters
+0608	http://arxiv.org/abs/1903.05631v1	ST-UNet: A Spatio-Temporal U-Network for Graph-structured Time Series Modeling
+0609	http://arxiv.org/abs/1903.00919v1	3D Graph Convolutional Networks with Temporal Graphs: A Spatial Information Free Framework For Traffic Forecasting
+0610	http://arxiv.org/abs/1707.01926v3	Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting
+0611	http://arxiv.org/abs/1709.04875v4	Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting
+0612	http://arxiv.org/abs/1409.3215v3	Sequence to Sequence Learning with Neural Networks
+0613	http://arxiv.org/abs/1811.10907v2	Efficient Image Retrieval via Decoupling Diffusion into Online and Offline Processing
+0614	http://arxiv.org/abs/1612.06321v4	Large-Scale Image Retrieval with Attentive Deep Local Features
+0615	http://arxiv.org/abs/1604.01325v2	Deep Image Retrieval: Learning global representations for image search
+0616	http://arxiv.org/abs/1604.02426v3	CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples
+0617	http://arxiv.org/abs/1808.09419v1	Identifying Well-formed Natural Language Questions
+0618	http://arxiv.org/abs/1812.01608v1	Generating High Fidelity Images with Subscale Pixel Networks and Multidimensional Upscaling
+0619	http://arxiv.org/abs/1612.08185v4	PixelCNN Models with Auxiliary Variables for Natural Image Modeling
+0620	http://arxiv.org/abs/1703.03664v1	Parallel Multiscale Autoregressive Density Estimation
+0621	https://arxiv.org/abs/1906.02735v3	Residual Flows for Invertible Generative Modeling
+0622	http://arxiv.org/abs/1807.03039v2	Glow: Generative Flow with Invertible 1x1 Convolutions
+0623	https://arxiv.org/abs/1907.02544v1	Large Scale Adversarial Representation Learning
+0624	http://arxiv.org/abs/1601.03333v1	A Score-level Fusion Method for Eye Movement Biometrics
+0625	https://arxiv.org/abs/1908.07625v1	Action recognition with spatial-temporal discriminative filter banks
+0626	http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Collaborative_Spatiotemporal_Feature_Learning_for_Video_Action_Recognition_CVPR_2019_paper.html	Collaborative Spatiotemporal Feature Learning for Video Action Recognition
+0627	http://arxiv.org/abs/1904.11451v1	Holistic Large Scale Video Understanding
+0628	https://arxiv.org/abs/1908.00497v1	Two-Stream Video Classification with Cross-Modality Attention
+0629	https://arxiv.org/abs/1906.04226v2	FASTER Recurrent Networks for Efficient Video Classification
+0630	https://arxiv.org/abs/1711.08588v2	SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation
+0631	https://arxiv.org/abs/1907.00494v1	The University of Sydney's Machine Translation System for WMT19
+0632	http://arxiv.org/abs/1707.01780v3	On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis
+0633	http://arxiv.org/abs/1810.12894v1	Exploration by Random Network Distillation
+0634	http://arxiv.org/abs/1811.01483v3	Contingency-Aware Exploration in Reinforcement Learning
+0635	http://arxiv.org/abs/1703.01310v2	Count-Based Exploration with Neural Density Models
+0636	http://arxiv.org/abs/1606.01868v2	Unifying Count-Based Exploration and Intrinsic Motivation
+0637	http://arxiv.org/abs/1807.11622v3	Count-Based Exploration with the Successor Representation
+0638	https://arxiv.org/abs/1905.06596v1	Joint Source-Target Self Attention with Locality Constraints
+0639	https://arxiv.org/abs/1908.05968v4	N2D:(Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding
+0640	http://arxiv.org/abs/1812.04287v1	Deep Density-based Image Clustering
+0641	http://arxiv.org/abs/1208.5092v1	Graph Degree Linkage: Agglomerative Clustering on a Directed Graph
+0642	http://arxiv.org/abs/1604.03628v3	Joint Unsupervised Learning of Deep Representations and Image Clusters
+0643	http://openaccess.thecvf.com/content_CVPR_2019/html/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.html	Balanced Self-Paced Learning for Generative Adversarial Clustering Network
+0644	http://arxiv.org/abs/1809.10851v2	Encoding Robust Representation for Graph Generation
+0645	https://www.researchgate.net/publication/328688614_Binarized_Attributed_Network_Embedding	Binarized Attributed Network Embedding
+0646	https://www.aclweb.org/anthology/papers/C/C18/C18-1172/	Task-oriented Word Embedding for Text Classification
+0647	http://arxiv.org/abs/1806.02750v1	Evaluating surgical skills from kinematic data using convolutional neural networks
+0648	https://www.aclweb.org/anthology/papers/N/N18/N18-2046/	Near Human-Level Performance in Grammatical Error Correction with Hybrid Machine Translation
+0649	https://www.aclweb.org/anthology/papers/D/D18/D18-1274/	Neural Quality Estimation of Grammatical Error Correction
+0650	https://www.aclweb.org/anthology/papers/N/N18/N18-1055/	Approaching Neural Grammatical Error Correction as a Low-Resource Machine Translation Task
+0651	http://arxiv.org/abs/1801.08831v1	A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction
+0652	https://arxiv.org/abs/1905.06393v1	IPC: A Benchmark Data Set for Learning with Graph-Structured Data
+0653	https://www.aclweb.org/anthology/papers/S/S16/S16-1027/	UNIMELB at SemEval-2016 Tasks 4A and 4B: An Ensemble of Neural Networks and a Word2Vec Based Model for Sentiment Classification
+0654	https://www.aclweb.org/anthology/papers/D/D17/D17-1168/	Story Comprehension for Predicting What Happens Next
+0655	https://www.aclweb.org/anthology/papers/N/N18/N18-2015/	A Simple and Effective Approach to the Story Cloze Test
+0656	https://arxiv.org/abs/1904.06472v2	A Repository of Conversational Datasets
+0657	http://arxiv.org/abs/1504.05070v2	Self-Adaptive Hierarchical Sentence Model
+0658	http://arxiv.org/abs/1806.05516v1	Translations as Additional Contexts for Sentence Classification
+0659	http://arxiv.org/abs/1704.01444v2	Learning to Generate Reviews and Discovering Sentiment
+0660	https://arxiv.org/abs/1909.04800v1	Probabilistic framework for solving Visual Dialog
+0661	https://www.aclweb.org/anthology/papers/P/P19/P19-2057/	Sentiment Classification Using Document Embeddings Trained with Cosine Similarity
+0662	http://arxiv.org/abs/1605.07725v3	Adversarial Training Methods for Semi-Supervised Text Classification
+0663	http://arxiv.org/abs/1412.1058v2	Effective Use of Word Order for Text Categorization with Convolutional Neural Networks
+0664	http://arxiv.org/abs/1806.01501v1	Information Aggregation via Dynamic Routing for Sequence Encoding
+0665	http://arxiv.org/abs/1804.10992v1	Semi-parametric Image Synthesis
+0666	https://arxiv.org/abs/1903.11410v2	Structural Neural Encoders for AMR-to-text Generation
+0667	http://arxiv.org/abs/1611.09010v1	3D Human Pose Estimation from a Single Image via Distance Matrix Regression
+0668	http://arxiv.org/abs/1810.06682v2	Trellis Networks for Sequence Modeling
+0669	http://arxiv.org/abs/1808.05908v4	Improved Language Modeling by Decoding the Past
+0670	http://arxiv.org/abs/1609.09106v4	HyperNetworks
+0671	https://arxiv.org/abs/1907.05572v1	R-Transformer: Recurrent Neural Network Enhanced Transformer
+0672	http://arxiv.org/abs/1803.01271v2	An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
+0673	https://arxiv.org/abs/1905.10347v1	Discrete Flows: Invertible Generative Models of Discrete Data
+0674	http://arxiv.org/abs/1706.06978v4	Deep Interest Network for Click-Through Rate Prediction
+0675	http://arxiv.org/abs/1705.03098v2	A simple yet effective baseline for 3d human pose estimation
+0676	https://arxiv.org/abs/1905.07718v1	Geometric Pose Affordance: 3D Human Pose with Scene Constraints
+0677	http://arxiv.org/abs/1704.02447v2	Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach
+0678	http://arxiv.org/abs/1904.04514v1	High-Resolution Representations for Labeling Pixels and Regions
+0679	http://arxiv.org/abs/1511.00561v3	SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+0680	http://arxiv.org/abs/1810.09311v1	Revisiting Distributional Correspondence Indexing: A Python Reimplementation and New Experiments
+0681	http://arxiv.org/abs/1804.09530v1	Strong Baselines for Neural Semi-supervised Learning under Domain Shift
+0682	http://arxiv.org/abs/1511.00830v6	The Variational Fair Autoencoder
+0683	http://arxiv.org/abs/1702.08400v3	Asymmetric Tri-training for Unsupervised Domain Adaptation
+0684	http://arxiv.org/abs/1505.07818v4	Domain-Adversarial Training of Neural Networks
+0685	http://arxiv.org/abs/1708.02711v1	Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge
+0686	http://arxiv.org/abs/1807.09956v2	Pythia v0.1: the Winning Entry to the VQA Challenge 2018
+0687	http://arxiv.org/abs/1805.07932v2	Bilinear Attention Networks
+0688	https://arxiv.org/abs/1906.00513v2	Generating Question Relevant Captions to Aid Visual Question Answering
+0689	https://arxiv.org/abs/1904.08920v2	Towards VQA Models That Can Read
+0690	http://arxiv.org/abs/1705.06676v1	MUTAN: Multimodal Tucker Fusion for Visual Question Answering
+0691	http://arxiv.org/abs/1612.00837v3	Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering
+0692	http://arxiv.org/abs/1903.09022v2	Subgraph Networks with Application to Structural Feature Space Expansion
+0693	https://arxiv.org/abs/1904.12189	Learning metrics for persistence-based summaries and applications for graph classification
+0694	http://arxiv.org/abs/1810.00826v3	How Powerful are Graph Neural Networks?
+0695	http://arxiv.org/abs/1805.11921v3	Anonymous Walk Embeddings
+0696	http://arxiv.org/abs/1810.02244v2	Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks
+0697	http://arxiv.org/abs/1805.08090v4	Graph Capsule Convolutional Neural Networks
+0698	http://arxiv.org/abs/1605.05273v4	Learning Convolutional Neural Networks for Graphs
+0699	https://arxiv.org/abs/1708.02218v4	Graph Classification with 2D Convolutional Neural Networks
+0700	https://arxiv.org/abs/1905.10006v2	Graph Representations for Higher-Order Logic and Theorem Proving
+0701	https://arxiv.org/abs/1904.03241v2	HOList: An Environment for Machine Learning of Higher-Order Theorem Proving
+0702	https://arxiv.org/abs/1905.10501v2	Learning to Reason in Large Theories without Imitation
+0703	http://arxiv.org/abs/1603.06937v2	Stacked Hourglass Networks for Human Pose Estimation
+0704	http://arxiv.org/abs/1602.00134v4	Convolutional Pose Machines
+0705	https://arxiv.org/abs/1907.08610v1	Lookahead Optimizer: k steps forward, 1 step back
+0706	https://www.aclweb.org/anthology/papers/N/N18/N18-1140/	CliCR: a Dataset of Clinical Case Reports for Machine Reading Comprehension
+0707	http://arxiv.org/abs/1801.01900v1	Knowledge-based Word Sense Disambiguation using Topic Models
+0708	https://arxiv.org/abs/1906.06423v2	Fixing the train-test resolution discrepancy
+0709	http://arxiv.org/abs/1705.08016v3	Pairwise Confusion for Fine-Grained Visual Classification
+0710	http://arxiv.org/abs/1807.07258v2	Visual Domain Adaptation with Manifold Embedded Distribution Alignment
+0711	http://arxiv.org/abs/1904.01341v1	Looking back at Labels: A Class based Domain Adaptation Technique
+0712	https://www.aclweb.org/anthology/papers/N/N16/N16-1026/	LSTM CCG Parsing
+0713	https://arxiv.org/abs/1908.08676v2	Hierarchically-Refined Label Attention Network for Sequence Labeling
+0714	https://www.aclweb.org/anthology/papers/N/N16/N16-1027/	Supertagging With LSTMs
+0715	https://www.aclweb.org/anthology/papers/P/P16/P16-2038/	Deep multi-task learning with low level tasks supervised at lower layers
+0716	http://arxiv.org/abs/1903.10146v1	PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain
+0717	http://arxiv.org/abs/1805.00932v1	Exploring the Limits of Weakly Supervised Pretraining
+0718	http://arxiv.org/abs/1902.05509v2	MultiGrain: a unified image embedding for classes and instances
+0719	https://arxiv.org/abs/1904.05049v3	Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution
+0720	http://arxiv.org/abs/1712.00559v3	Progressive Neural Architecture Search
+0721	http://arxiv.org/abs/1707.07012v4	Learning Transferable Architectures for Scalable Image Recognition
+0722	http://arxiv.org/abs/1707.01629v2	Dual Path Networks
+0723	http://arxiv.org/abs/1611.05725v2	PolyNet: A Pursuit of Structural Diversity in Very Deep Networks
+0724	http://arxiv.org/abs/1611.05431v2	Aggregated Residual Transformations for Deep Neural Networks
+0725	http://arxiv.org/abs/1602.07261v2	Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+0726	http://arxiv.org/abs/1904.01569v2	Exploring Randomly Wired Neural Networks for Image Recognition
+0727	http://arxiv.org/abs/1904.09460v1	Data-Driven Neuron Allocation for Scale Aggregation Networks
+0728	https://arxiv.org/abs/1904.01169v2	Res2Net: A New Multi-scale Backbone Architecture
+0729	https://arxiv.org/abs/1904.09925v3	Attention Augmented Convolutional Networks
+0730	http://arxiv.org/abs/1610.02357v3	Xception: Deep Learning with Depthwise Separable Convolutions
+0731	https://arxiv.org/abs/1907.09595v2	MixConv: Mixed Depthwise Convolutional Kernels
+0732	http://arxiv.org/abs/1512.00567v3	Rethinking the Inception Architecture for Computer Vision
+0733	https://arxiv.org/abs/1905.09646v2	Spatial Group-wise Enhance: Improving Semantic Feature Learning in Convolutional Networks
+0734	https://arxiv.org/abs/1905.04899v2	CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features
+0735	http://arxiv.org/abs/1812.01187v2	Bag of Tricks for Image Classification with Convolutional Neural Networks
+0736	https://arxiv.org/abs/1908.06022v3	ScarletNAS: Bridging the Gap Between Scalability and Fairness in Neural Architecture Search
+0737	https://arxiv.org/abs/1807.11626v3	MnasNet: Platform-Aware Neural Architecture Search for Mobile
+0738	https://arxiv.org/abs/1906.09607v1	Densely Connected Search Space for More Flexible Neural Architecture Search
+0739	http://arxiv.org/abs/1605.07648v4	FractalNet: Ultra-Deep Neural Networks without Residuals
+0740	http://arxiv.org/abs/1807.03247v2	An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution
+0741	http://arxiv.org/abs/1502.01852v1	Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
+0742	https://arxiv.org/abs/1904.11491	Local Relation Networks for Image Recognition
+0743	http://arxiv.org/abs/1807.11164v1	ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
+0744	https://arxiv.org/abs/1905.02244v4	Searching for MobileNetV3
+0745	https://arxiv.org/abs/1906.03516v1	DiCENet: Dimension-wise Convolutions for Efficient Networks
+0746	http://arxiv.org/abs/1904.02877v1	Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours
+0747	https://arxiv.org/abs/1812.03443v3	FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search
+0748	http://arxiv.org/abs/1502.03167v3	Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+0749	http://arxiv.org/abs/1801.04381v4	MobileNetV2: Inverted Residuals and Linear Bottlenecks
+0750	http://arxiv.org/abs/1409.1556v6	Very Deep Convolutional Networks for Large-Scale Image Recognition
+0751	https://arxiv.org/abs/1907.09665v3	Compact Global Descriptor for Neural Networks
+0752	http://arxiv.org/abs/1406.4729v4	Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+0753	http://arxiv.org/abs/1707.01083v2	ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+0754	http://arxiv.org/abs/1704.04861v1	MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+0755	http://arxiv.org/abs/1312.5402v1	Some Improvements on Deep Convolutional Neural Network Based Image Classification
+0756	http://arxiv.org/abs/1311.2901v3	Visualizing and Understanding Convolutional Networks
+0757	http://arxiv.org/abs/1711.09724v1	Table-to-text Generation by Structure-aware Seq2seq Learning
+0758	http://arxiv.org/abs/1603.07771v3	Neural Text Generation from Structured Data with Application to the Biography Domain
+0759	http://arxiv.org/abs/1810.10220v3	DSFD: Dual Shot Face Detector
+0760	http://arxiv.org/abs/1709.05256v2	Detecting Faces Using Region-based Fully Convolutional Networks
+0761	http://arxiv.org/abs/1809.02693v1	Selective Refinement Network for High Performance Face Detection
+0762	http://arxiv.org/abs/1811.11662v1	Robust Face Detection via Learning Small Faces on Hard Images
+0763	http://arxiv.org/abs/1803.07737v2	PyramidBox: A Context-assisted Single Shot Face Detector
+0764	http://arxiv.org/abs/1708.05237v3	S$^3$FD: Single Shot Scale-invariant Face Detector
+0765	https://arxiv.org/abs/1904.10633v3	LFFD: A Light and Fast Face Detector for Edge Devices
+0766	http://arxiv.org/abs/1708.05234v4	FaceBoxes: A CPU Real-time Face Detector with High Accuracy
+0767	http://arxiv.org/abs/1603.01249v3	HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition
+0768	https://arxiv.org/abs/1408.1656v3	A Fast and Accurate Unconstrained Face Detector
+0769	https://arxiv.org/abs/1909.08053v2	Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism
+0770	http://arxiv.org/abs/1904.08378v1	Dynamic Evaluation of Transformer Language Models
+0771	https://arxiv.org/abs/1907.01470v1	Augmenting Self-attention with Persistent Memory
+0772	https://arxiv.org/abs/1909.01377v1	Deep Equilibrium Models
+0773	http://arxiv.org/abs/1803.10049v1	Fast Parametric Learning with Activation Memorization
+0774	http://arxiv.org/abs/1806.01822v2	Relational recurrent neural networks
+0775	http://arxiv.org/abs/1612.04426v1	Improving Neural Language Models with a Continuous Cache
+0776	https://openreview.net/forum?id=rk8wKk-R-	Convolutional Sequence Modeling Revisited
+0777	http://arxiv.org/abs/1808.06876v3	Adversarial training for multi-context joint entity and relation extraction
+0778	http://arxiv.org/abs/1804.07847v3	Joint entity recognition and relation extraction as a multi-head selection problem
+0779	http://arxiv.org/abs/1706.03762v5	Attention Is All You Need
+0780	http://arxiv.org/abs/1808.03867v3	Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction
+0781	http://arxiv.org/abs/1706.05565v8	Towards Neural Phrase-based Machine Translation
+0782	http://arxiv.org/abs/1607.07086v3	An Actor-Critic Algorithm for Sequence Prediction
+0783	https://arxiv.org/abs/1905.08704v2	AMR Parsing as Sequence-to-Graph Transduction
+0784	http://arxiv.org/abs/1810.03541v1	An AMR Aligner Tuned by Transition-based Parser
+0785	https://www.aclweb.org/anthology/papers/D/D16/D16-1065/	AMR Parsing with an Incremental Joint Model
+0786	https://www.aclweb.org/anthology/papers/P/P16/P16-1001/	Noise reduction and targeted exploration in imitation learning for Abstract Meaning Representation parsing
+0787	http://arxiv.org/abs/1707.05251v2	Aesthetic-Driven Image Enhancement by Adversarial Learning
+0788	http://arxiv.org/abs/1705.02426v2	Analogical Inference for Multi-Relational Embeddings
+0789	http://arxiv.org/abs/1802.04868v2	SimplE Embedding for Link Prediction in Knowledge Graphs
+0790	http://arxiv.org/abs/1606.06357v1	Complex Embeddings for Simple Link Prediction
+0791	http://arxiv.org/abs/1412.6575v4	Embedding Entities and Relations for Learning and Inference in Knowledge Bases
+0792	http://arxiv.org/abs/1610.09369v1	Discriminative Gaifman Models
+0793	http://arxiv.org/abs/1606.01141v3	On Valid Optimal Assignment Kernels and Applications to Graph Classification
+0794	http://arxiv.org/abs/1904.12218v1	Graph Kernels: A Survey
+0795	https://doi.org/10.1007/s10994-015-5517-9	Propagation kernels: efficient graph kernels from propagated information
+0796	http://arxiv.org/abs/1707.05005v1	graph2vec: Learning Distributed Representations of Graphs
+0797	http://arxiv.org/abs/1904.09671v1	DDGK: Learning Graph Representations for Deep Divergence Graph Kernels
+0798	https://www.kdd.org/kdd2018/accepted-papers/view/graph-classification-using-structural-attention	Graph Classification using Structural Attention
+0799	https://arxiv.org/abs/1907.07794	Generating Correctness Proofs with Neural Networks
+0800	https://doi.org/10.1145/3289600.3290967	SimGNN: A Neural Network Approach to Fast Graph Similarity Computation
+0801	https://www.aclweb.org/anthology/papers/W/W18/W18-6423/	Tilde's Machine Translation Systems for WMT 2018
+0802	https://arxiv.org/abs/1808.03833v3	Self-Supervised Model Adaptation for Multimodal Semantic Segmentation
+0803	https://arxiv.org/abs/1908.08345v2	Text Summarization with Pretrained Encoders
+0804	https://arxiv.org/abs/1909.01953v1	Mixture Content Selection for Diverse Sequence Generation
+0805	http://arxiv.org/abs/1704.04368v2	Get To The Point: Summarization with Pointer-Generator Networks
+0806	https://www.aclweb.org/anthology/papers/N/N18/N18-1127/	Modeling Noisiness to Recognize Named Entities using Multitask Neural Networks on Social Media
+0807	https://arxiv.org/abs/1908.11046v1	Remedying BiLSTM-CNN Deficiency in Modeling Cross-Context for NER
+0808	https://www.aclweb.org/anthology/papers/W/W17/W17-4422/	Transfer Learning and Sentence Level Features for Named Entity Recognition on Tweets
+0809	https://www.aclweb.org/anthology/papers/W/W19/W19-4621/	Mazajak: An Online Arabic Sentiment Analyser
+0810	http://arxiv.org/abs/1406.3676v3	Question Answering with Subgraph Embeddings
+0811	http://arxiv.org/abs/1705.09759v1	CASENet: Deep Category-Aware Semantic Edge Detection
+0812	http://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html	X2Face: A network for controlling face generation using images, audio, and pose codes
+0813	https://arxiv.org/abs/1901.11504v2	Multi-Task Deep Neural Networks for Natural Language Understanding
+0814	https://arxiv.org/abs/1808.08762v2	Sentence Embeddings in NLI with Iterative Refinement Encoders
+0815	https://www.aclweb.org/anthology/papers/P/P19/P19-1465/	Simple and Effective Text Matching with Richer Alignment Features
+0816	http://arxiv.org/abs/1801.00102v2	Compare, Compress and Propagate: Enhancing Neural Architectures with Alignment Factorization for Natural Language Inference
+0817	http://arxiv.org/abs/1611.07004v3	Image-to-Image Translation with Conditional Adversarial Networks
+0818	http://arxiv.org/abs/1703.10593v6	Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+0819	http://arxiv.org/abs/1606.07536v2	Coupled Generative Adversarial Networks
+0820	http://arxiv.org/abs/1612.07828v2	Learning from Simulated and Unsupervised Images through Adversarial Training
+0821	http://arxiv.org/abs/1606.00704v3	Adversarially Learned Inference
+0822	http://openaccess.thecvf.com/content_cvpr_2018/html/Choutas_PoTion_Pose_MoTion_CVPR_2018_paper.html	PoTion: Pose MoTion Representation for Action Recognition
+0823	https://doi.org/10.3390/s19061382	Contextual Action Cues from Camera Sensor for Multi-Stream Action Recognition
+0824	https://arxiv.org/abs/1908.10136v1	Cooperative Cross-Stream Network for Discriminative Action Representation
+0825	http://arxiv.org/abs/1904.03249v1	Paying More Attention to Motion: Attention Distillation for Learning Video Representations
+0826	https://doi.org/10.1088/1757-899X/569/3/032035	I3D-LSTM: A New Model for Human Action Recognition
+0827	http://arxiv.org/abs/1711.09577v2	Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?
+0828	https://doi.org/10.1109/ACCESS.2019.2923651	R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition
+0829	http://arxiv.org/abs/1809.03669v1	Temporal-Spatial Mapping for Action Recognition
+0830	https://doi.org/10.1007/978-3-319-46493-0_45	Multi-region two-stream R-CNN for action detection
+0831	https://arxiv.org/abs/1901.09244v2	DistInit: Learning Video Representations Without a Single Labeled Video
+0832	http://arxiv.org/abs/1904.03597v1	Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics
+0833	http://arxiv.org/abs/1212.0402v1	UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild
+0834	https://arxiv.org/abs/1905.05529v4	Entity-Relation Extraction as Multi-Turn Question Answering
+0835	https://www.aclweb.org/anthology/papers/D/D14/D14-1200/	Modeling Joint Entity and Relation Extraction with Table Representation
+0836	http://arxiv.org/abs/1812.11275v1	End-to-end neural relation extraction using deep biaffine attention
+0837	http://arxiv.org/abs/1704.05579v4	A Large Self-Annotated Corpus for Sarcasm
+0838	http://arxiv.org/abs/1805.06413v1	CASCADE: Contextual Sarcasm Detection in Online Discussion Forums
+0839	http://arxiv.org/abs/1704.06125v1	BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs
+0840	https://www.aclweb.org/anthology/papers/S/S17/S17-2126/	DataStories at SemEval-2017 Task 4: Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis
+0841	https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-019-0694-y	GNE: a deep learning framework for gene network inference by aggregating biological information
+0842	https://www.researchgate.net/publication/317325599_Unsupervised_real-time_anomaly_detection_for_streaming_data	Unsupervised real-time anomaly detection for streaming data
+0843	http://arxiv.org/abs/1510.03336v4	Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark
+0844	http://arxiv.org/abs/1607.02480v1	Real-Time Anomaly Detection for Streaming Analytics
+0845	https://arxiv.org/abs/1904.04289v2	SCSampler: Sampling Salient Clips from Video for Efficient Action Recognition
+0846	http://arxiv.org/abs/1512.02325v5	SSD: Single Shot MultiBox Detector
+0847	https://arxiv.org/abs/1905.13209v1	AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures
+0848	http://arxiv.org/abs/1705.02953v1	Temporal Segment Networks for Action Recognition in Videos
+0849	http://openaccess.thecvf.com/content_ECCV_2018/html/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.html	RT-GENE: Real-Time Eye Gaze Estimation in Natural Environments
+0850	https://arxiv.org/abs/1812.01593v3	Improving Semantic Segmentation via Video Propagation and Label Relaxation
+0851	https://arxiv.org/abs/1907.05740v1	Gated-SCNN: Gated Shape CNNs for Semantic Segmentation
+0852	http://arxiv.org/abs/1904.01803v1	GFF: Gated Fully Fusion for Semantic Segmentation
+0853	http://arxiv.org/abs/1712.02616v3	In-Place Activated BatchNorm for Memory-Optimized Training of DNNs
+0854	http://arxiv.org/abs/1809.00916v3	OCNet: Object Context Network for Scene Parsing
+0855	http://arxiv.org/abs/1811.11721v1	CCNet: Criss-Cross Attention for Semantic Segmentation
+0856	http://arxiv.org/abs/1808.00897v1	BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
+0857	http://arxiv.org/abs/1903.08469v2	In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images
+0858	http://arxiv.org/abs/1611.08323v2	Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes
+0859	https://arxiv.org/abs/1906.09826v1	ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation
+0860	http://arxiv.org/abs/1704.08545v2	ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+0861	https://arxiv.org/abs/1905.02423v3	LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation
+0862	http://arxiv.org/abs/1904.08095v1	TextCaps : Handwritten Character Recognition with Very Small Datasets
+0863	http://arxiv.org/abs/1412.7259v3	Unsupervised Feature Learning with C-SVDDNet
+0864	http://arxiv.org/abs/1502.00702v2	Hybrid Orthogonal Projection and Estimation (HOPE): A New Framework to Probe and Learn Neural Networks
+0865	https://arxiv.org/abs/1908.03190v1	NeuPDE: Neural Network Based Ordinary and Partial Differential Equations for Modeling Time-Dependent Data
+0866	https://arxiv.org/abs/1905.11528v1	Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization
+0867	http://arxiv.org/abs/1412.7149v4	Deep Fried Convnets
+0868	http://arxiv.org/abs/1603.08367v1	Sparse Activity and Sparse Connectivity in Supervised Learning
+0869	http://arxiv.org/abs/1412.6572v3	Explaining and Harnessing Adversarial Examples
+0870	https://arxiv.org/abs/1907.04840v2	Sparse Networks from Scratch: Faster Training without Losing Performance
+0871	http://arxiv.org/abs/1511.06241v2	Convolutional Clustering for Unsupervised Learning
+0872	http://arxiv.org/abs/1708.00630v2	ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections
+0873	https://arxiv.org/abs/1908.02441v1	Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning
+0874	http://arxiv.org/abs/1806.06193v1	Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning
+0875	http://arxiv.org/abs/1801.09057v4	Aligned to the Object, not to the Image: A Unified Pose-aligned Representation for Fine-grained Recognition
+0876	http://arxiv.org/abs/1808.04505v1	Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding
+0877	http://arxiv.org/abs/1901.00392v1	Attribute-Aware Attention Model for Fine-grained Representation Learning
+0878	http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html	Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-Grained Image Recognition
+0879	http://openaccess.thecvf.com/content_iccv_2015/html/Lin_Bilinear_CNN_Models_ICCV_2015_paper.html	Bilinear CNN Models for Fine-Grained Visual Recognition
+0880	http://arxiv.org/abs/1512.08086v1	Part-Stacked CNN for Fine-Grained Visual Categorization
+0881	http://arxiv.org/abs/1407.3867v1	Part-based R-CNNs for Fine-grained Category Detection
+0882	https://arxiv.org/abs/1907.10830v1	U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
+0883	http://arxiv.org/abs/1810.08393v2	DGC-Net: Dense Geometric Correspondence Network
+0884	http://arxiv.org/abs/1709.02371v3	PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume
+0885	http://arxiv.org/abs/1506.07656v2	DeepMatching: Hierarchical Deformable Dense Matching
+0886	http://arxiv.org/abs/1612.01925v1	FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
+0887	http://arxiv.org/abs/1611.00850v2	Optical Flow Estimation using a Spatial Pyramid Network
+0888	https://arxiv.org/abs/1904.03446v3	Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion
+0889	http://arxiv.org/abs/1804.00823v4	Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks
+0890	https://arxiv.org/abs/1811.04551v5	Learning Latent Dynamics for Planning from Pixels
+0891	https://arxiv.org/abs/1906.01704	A Novel Bi-hemispheric Discrepancy Model for EEG Emotion Recognition
+0892	https://doi.org/10.1109/taffc.2018.2817622	EEG emotion recognition using dynamical graph convolutional neural networks
+0893	https://doi.org/10.1109/TAMD.2015.2431497	Investigating critical frequency bands and channels for EEG-based emotion recognition with deep neural networks
+0894	https://arxiv.org/abs/1907.07835v2	EEG-Based Emotion Recognition Using Regularized Graph Neural Networks
+0895	http://arxiv.org/abs/1903.12212v1	All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation
+0896	http://arxiv.org/abs/1812.09953v3	A Curriculum Domain Adaptation Approach to the Semantic Segmentation of Urban Scenes
+0897	http://arxiv.org/abs/1612.02649v1	FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation
+0898	http://arxiv.org/abs/1711.08267v1	GraphGAN: Graph Representation Learning with Generative Adversarial Nets
+0899	http://arxiv.org/abs/1704.03165v3	struc2vec: Learning Node Representations from Structural Identity
+0900	http://arxiv.org/abs/1607.00653v1	node2vec: Scalable Feature Learning for Networks
+0901	http://arxiv.org/abs/1503.03578v1	LINE: Large-scale Information Network Embedding
+0902	https://arxiv.org/abs/1905.02716v1	EDVR: Video Restoration with Enhanced Deformable Convolutional Networks
+0903	http://arxiv.org/abs/1711.07064v4	DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks
+0904	http://arxiv.org/abs/1806.04558v4	Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis
+0905	https://arxiv.org/abs/1905.09263v4	FastSpeech: Fast, Robust and Controllable Text to Speech
+0906	https://doi.org/10.1016/j.patcog.2018.11.002	Quantum-based subgraph convolutional neural networks
+0907	https://arxiv.org/abs/1907.04652v1	Graph Representation Learning via Hard and Channel-Wise Attention Networks
+0908	https://arxiv.org/abs/1906.01277v1	Wasserstein Weisfeiler-Lehman Graph Kernels
+0909	https://doi.org/10.1109/ICBK.2018.00033	Discriminative Graph Autoencoder
+0910	http://arxiv.org/abs/1904.05003v1	Semi-Supervised Graph Classification: A Hierarchical Graph Perspective
+0911	https://arxiv.org/abs/1905.02850v2	Understanding Attention and Generalization in Graph Neural Networks
+0912	http://arxiv.org/abs/1603.06186v2	The Multiscale Laplacian Graph Kernel
+0913	http://proceedings.mlr.press/v97/rieck19a.html	A Persistent Weisfeiler–Lehman Procedure for Graph Classification
+0914	https://arxiv.org/abs/1905.03046v1	PiNet: A Permutation Invariant Graph Neural Network for Graph Classification
+0915	https://doi.org/10.1016/S0022-2836(03)00628-4	Distinguishing Enzyme Structures from Non-enzymes Without Alignments
+0916	http://arxiv.org/abs/1902.08399v1	Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations
+0917	https://arxiv.org/abs/1905.10990v1	Edge Contraction Pooling for Graph Neural Networks
+0918	https://arxiv.org/abs/1905.06259v1	Function Space Pooling For Graph Convolutional Networks
+0919	http://proceedings.mlr.press/v5/shervashidze09a.html	Efficient graphlet kernels for large graph comparison
+0920	https://arxiv.org/abs/1808.06354	Signed Graph Convolutional Network
+0921	http://arxiv.org/abs/1805.01052v1	Constituency Parsing with a Self-Attentive Encoder
+0922	http://arxiv.org/abs/1707.03058v1	Improving Neural Parsing by Disentangling Model Combination and Reranking Effects
+0923	http://arxiv.org/abs/1808.10143v2	Direct Output Connection for a High-Rank Language Model
+0924	https://www.aclweb.org/anthology/papers/P/P18/P18-2097/	An Empirical Study of Building a Strong Baseline for Constituency Parsing
+0925	https://www.aclweb.org/anthology/papers/Q/Q17/Q17-1029/	In-Order Transition-based Constituent Parsing
+0926	https://www.aclweb.org/anthology/papers/D/D16/D16-1257/	Parsing as Language Modeling
+0927	http://arxiv.org/abs/1611.05774v2	What Do Recurrent Neural Network Grammars Learn About Syntax?
+0928	http://arxiv.org/abs/1412.7449v3	Grammar as a Foreign Language
+0929	http://arxiv.org/abs/1602.07776v4	Recurrent Neural Network Grammars
+0930	https://arxiv.org/abs/1904.00284v3	COCO-GAN: Generation by Parts via Conditional Coordinating
+0931	http://arxiv.org/abs/1904.05408v2	Sliced Wasserstein Generative Models
+0932	http://arxiv.org/abs/1710.10196v3	Progressive Growing of GANs for Improved Quality, Stability, and Variation
+0933	http://arxiv.org/abs/1706.08500v6	GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium
+0934	http://arxiv.org/abs/1802.04591v2	First Order Generative Adversarial Networks
+0935	http://arxiv.org/abs/1710.10916v3	StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks
+0936	https://arxiv.org/abs/1904.06539v5	HAKE: Human Activity Knowledge Engine
+0937	http://arxiv.org/abs/1807.10889v1	Pairwise Body-Part Attention for Recognizing Human-Object Interactions
+0938	http://arxiv.org/abs/1604.04808v2	Learning Models for Actions and Person-Object Interactions with Transfer to Question Answering
+0939	http://arxiv.org/abs/1711.01467v3	Attentional Pooling for Action Recognition
+0940	http://arxiv.org/abs/1505.01197v3	Contextual Action Recognition with R*CNN
+0941	http://arxiv.org/abs/1808.03986v1	Multimodal Differential Network for Visual Question Generation
+0942	http://papers.nips.cc/paper/6612-dual-agent-gans-for-photorealistic-and-identity-preserving-profile-face-synthesis	Dual-Agent GANs for Photorealistic and Identity Preserving Profile Face Synthesis
+0943	http://arxiv.org/abs/1810.09951v1	GhostVLAD for set-based face recognition
+0944	http://arxiv.org/abs/1703.09507v3	L2-constrained Softmax Loss for Discriminative Face Verification
+0945	http://arxiv.org/abs/1803.00839v1	Pose-Robust Face Recognition via Deep Residual Equivariant Mapping
+0946	http://arxiv.org/abs/1603.05474v4	Neural Aggregation Network for Video Face Recognition
+0947	http://arxiv.org/abs/1603.03958v3	Template Adaptation for Face Verification and Identification
+0948	http://arxiv.org/abs/1611.00851v1	An All-In-One Convolutional Neural Network for Face Analysis
+0949	http://arxiv.org/abs/1708.07517v2	FacePoseNet: Making a Case for Landmark-Free Face Alignment
+0950	http://arxiv.org/abs/1604.05417v3	Triplet Probabilistic Embedding for Face Verification and Clustering
+0951	http://arxiv.org/abs/1603.07057v2	Do We Really Need to Collect Millions of Faces for Effective Face Recognition?
+0952	http://arxiv.org/abs/1508.01722v2	Unconstrained Face Verification using Deep CNN Features
+0953	http://arxiv.org/abs/1603.07388v1	Face Recognition Using Deep Multi-Pose Representations
+0954	http://arxiv.org/abs/1507.07242v2	Face Search at Scale: 80 Million Gallery
+0955	http://arxiv.org/abs/1805.08237v1	Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings
+0956	http://arxiv.org/abs/1508.02096v2	Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation
+0957	http://arxiv.org/abs/1711.04903v2	Robust Multilingual Part-of-Speech Tagging via Adversarial Training
+0958	http://arxiv.org/abs/1806.05626v2	NCRF++: An Open-source Neural Sequence Labeling Toolkit
+0959	http://arxiv.org/abs/1704.07156v1	Semi-supervised Multitask Learning for Sequence Labeling
+0960	http://arxiv.org/abs/1611.04361v1	Attending to Characters in Neural Sequence Labeling Models
+0961	http://arxiv.org/abs/1604.05529v3	Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss
+0962	https://arxiv.org/abs/1803.06316v6	Temporal Gaussian Mixture Layer for Videos
+0963	http://arxiv.org/abs/1712.01938v2	Learning Latent Super-Events to Detect Multiple Activities in Videos
+0964	http://arxiv.org/abs/1803.09074v1	Multi-range Reasoning for Machine Comprehension
+0965	https://arxiv.org/abs/1905.03072v3	RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation
+0966	https://arxiv.org/abs/1904.03288v3	Jasper: An End-to-End Convolutional Neural Acoustic Model
+0967	https://www.cs.jhu.edu/~hxu/neural-network-language.pdf	Neural Network Language Modeling with Letter-based Features and Importance Sampling
+0968	http://arxiv.org/abs/1812.06864v2	Fully Convolutional Speech Recognition
+0969	https://arxiv.org/abs/1902.01955v2	On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition
+0970	http://arxiv.org/abs/1805.03294v1	Improved training of end-to-end attention models for speech recognition
+0971	http://arxiv.org/abs/1712.09444v2	Letter-Based Speech Recognition with Gated ConvNets
+0972	http://arxiv.org/abs/1512.02595v1	Deep Speech 2: End-to-End Speech Recognition in English and Mandarin
+0973	http://arxiv.org/abs/1712.07101v1	Improving End-to-End Speech Recognition with Policy Learning
+0974	http://arxiv.org/abs/1811.07453v2	The PyTorch-Kaldi Speech Recognition Toolkit
+0975	http://arxiv.org/abs/1805.10190v3	Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces
+0976	http://arxiv.org/abs/1711.03213v3	CyCADA: Cycle-Consistent Adversarial Domain Adaptation
+0977	http://arxiv.org/abs/1708.04896v2	Random Erasing Data Augmentation
+0978	http://arxiv.org/abs/1509.05371v2	DeXpression: Deep Convolutional Neural Network for Expression Recognition
+0979	https://arxiv.org/abs/1905.09998v1	Self-Critical Reasoning for Robust Visual Question Answering
+0980	http://arxiv.org/abs/1804.06208v2	Simple Baselines for Human Pose Estimation and Tracking
+0981	http://arxiv.org/abs/1812.03595v3	PoseFix: Model-agnostic General Human Pose Refinement Network
+0982	http://arxiv.org/abs/1610.10099v2	Neural Machine Translation in Linear Time
+0983	http://arxiv.org/abs/1603.06147v4	A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation
+0984	http://arxiv.org/abs/1710.11041v2	Unsupervised Neural Machine Translation
+0985	http://arxiv.org/abs/1808.09381v2	Understanding Back-Translation at Scale
+0986	https://arxiv.org/abs/1907.01968v1	Depth Growing for Neural Machine Translation
+0987	http://arxiv.org/abs/1806.00187v3	Scaling Neural Machine Translation
+0988	https://arxiv.org/abs/1809.09296v2	Fast and Simple Mixture of Softmaxes with BPE and Hybrid-LightRNN for Language Generation
+0989	http://arxiv.org/abs/1803.02155v2	Self-Attention with Relative Position Representations
+0990	http://arxiv.org/abs/1711.02132v1	Weighted Transformer Network for Machine Translation
+0991	https://arxiv.org/abs/1901.11117v4	The Evolved Transformer
+0992	http://arxiv.org/abs/1609.08144v2	Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
+0993	http://arxiv.org/abs/1606.04199v3	Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation
+0994	http://arxiv.org/abs/1410.8206v4	Addressing the Rare Word Problem in Neural Machine Translation
+0995	http://arxiv.org/abs/1409.0473v7	Neural Machine Translation by Jointly Learning to Align and Translate
+0996	http://arxiv.org/abs/1406.1078v3	Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
+0997	http://arxiv.org/abs/1409.2329v5	Recurrent Neural Network Regularization
+0998	http://arxiv.org/abs/1610.08613v2	Can Active Memory Replace Attention?
+0999	http://arxiv.org/abs/1804.09849v2	The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation
+1000	https://arxiv.org/abs/1909.03227v1	A Novel Hierarchical Binary Tagging Framework for Joint Extraction of Entities and Relations
+1001	https://www.aclweb.org/anthology/papers/P/P19/P19-1136/	GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction
+1002	https://www.aclweb.org/anthology/papers/P/P18/P18-1047/	Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism
+1003	http://arxiv.org/abs/1512.00843v3	Protein secondary structure prediction using deep convolutional neural fields
+1004	https://www.aclweb.org/anthology/papers/D/D18/D18-1237/	MemoReader: Large-Scale Reading Comprehension through Neural Memory Controller
+1005	http://arxiv.org/abs/1706.02596v3	Dynamic Integration of Background Knowledge in Neural NLU Systems
+1006	http://arxiv.org/abs/1802.09127v1	Deep Bayesian Bandits Showdown: An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling
+1007	http://arxiv.org/abs/1801.07698v3	ArcFace: Additive Angular Margin Loss for Deep Face Recognition
+1008	http://arxiv.org/abs/1801.09414v2	CosFace: Large Margin Cosine Loss for Deep Face Recognition
+1009	http://arxiv.org/abs/1704.08063v4	SphereFace: Deep Hypersphere Embedding for Face Recognition
+1010	http://arxiv.org/abs/1503.03832v3	FaceNet: A Unified Embedding for Face Recognition and Clustering
+1011	http://arxiv.org/abs/1511.02683v4	A Light CNN for Deep Face Representation with Noisy Labels
+1012	http://arxiv.org/abs/1709.07809v1	Neural Machine Translation
+1013	http://arxiv.org/abs/1508.04025v5	Effective Approaches to Attention-based Neural Machine Translation
+1014	http://arxiv.org/abs/1601.02376v1	Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction
+1015	https://arxiv.org/abs/1902.03748v3	Peeking into the Future: Predicting Future Person Activities and Locations in Videos
+1016	https://www.aclweb.org/anthology/papers/K/K17/K17-1009/	Tell Me Why: Using Question Answering as Distant Supervision for Answer Justification
+1017	http://arxiv.org/abs/1904.07418v1	Positional Encoding to Control Output Sequence Length
+1018	https://www.aclweb.org/anthology/papers/E/E17/E17-2047/	Cutting-off Redundant Repeating Generations for Neural Abstractive Summarization
+1019	https://www.aclweb.org/anthology/papers/D/D17/D17-1222/	Deep Recurrent Generative Decoder for Abstractive Text Summarization
+1020	https://www.aclweb.org/anthology/papers/C/C18/C18-1121/	Ensure the Correctness of the Summary: Incorporate Entailment Knowledge into Abstractive Sentence Summarization
+1021	https://www.aclweb.org/anthology/papers/P/P17/P17-1101/	Selective Encoding for Abstractive Sentence Summarization
+1022	https://www.aclweb.org/anthology/papers/N/N16/N16-1012/	Abstractive Sentence Summarization with Attentive Recurrent Neural Networks
+1023	http://arxiv.org/abs/1602.06023v5	Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond
+1024	https://www.aclweb.org/anthology/papers/C/C16/C16-1116/	High Accuracy Rule-based Question Classification using Question Syntax and Semantics
+1025	http://arxiv.org/abs/1712.05884v2	Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions
+1026	http://arxiv.org/abs/1609.03499v2	WaveNet: A Generative Model for Raw Audio
+1027	http://arxiv.org/abs/1703.10135v2	Tacotron: Towards End-to-End Speech Synthesis
+1028	http://arxiv.org/abs/1811.12596v1	Parsing R-CNN for Instance-Level Human Analysis
+1029	http://arxiv.org/abs/1803.04108v4	Style Aggregated Network for Facial Landmark Detection
+1030	https://arxiv.org/abs/1903.10318v2	Fine-tune BERT for Extractive Summarization
+1031	https://arxiv.org/abs/1809.10324v2	Iterative Document Representation Learning Towards Summarization with Polishing
+1032	https://arxiv.org/abs/1907.12743v6	Temporal Attentive Alignment for Large-Scale Video Domain Adaptation
+1033	http://arxiv.org/abs/1708.04552v2	Improved Regularization of Convolutional Neural Networks with Cutout
+1034	https://arxiv.org/abs/1811.05850v4	Drop-Activation: Implicit Parameter Reduction and Harmonic Regularization
+1035	http://arxiv.org/abs/1709.07634v2	EraseReLU: A Simple Way to Ease the Training of Deep Convolution Neural Networks
+1036	http://arxiv.org/abs/1608.02908v2	Residual Networks of Residual Networks: Multilevel Residual Networks
+1037	http://arxiv.org/abs/1312.6082v4	Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
+1038	https://arxiv.org/abs/1907.11346	Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image
+1039	http://arxiv.org/abs/1806.02847v1	A Simple Method for Commonsense Reasoning
+1040	http://arxiv.org/abs/1806.02199v7	SOM-VAE: Interpretable Discrete Representation Learning on Time Series
+1041	https://arxiv.org/abs/1902.06667v4	Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification
+1042	https://www.aclweb.org/anthology/papers/N/N12/N12-4001/	100 Things You Always Wanted to Know about Linguistics But Were Afraid to Ask*
+1043	https://arxiv.org/abs/1906.02371v3	Omnidirectional Scene Text Detection with Sequential-free Box Discretization
+1044	https://ieeexplore.ieee.org/document/8639145	Person Retrieval in Surveillance Video using Height, Color and Gender
+1045	http://arxiv.org/abs/1904.09507v2	Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories with GANs
+1046	https://arxiv.org/abs/1906.04560	EdMot: An Edge Enhancement Approach for Motif-aware Community Detection
+1047	https://arxiv.org/abs/1905.09381v1	Learning to Prove Theorems via Interacting with Proof Assistants
+1048	http://arxiv.org/abs/1805.09300v3	SNIPER: Efficient Multi-Scale Training
+1049	http://arxiv.org/abs/1711.06897v3	Single-Shot Refinement Neural Network for Object Detection
+1050	http://arxiv.org/abs/1708.02863v1	CoupleNet: Coupling Global Structure with Local Parts for Object Detection
+1051	http://arxiv.org/abs/1708.02813v1	BlitzNet: A Real-Time Deep Network for Scene Understanding
+1052	http://arxiv.org/abs/1605.06409v2	R-FCN: Object Detection via Region-based Fully Convolutional Networks
+1053	http://arxiv.org/abs/1604.03540v1	Training Region-based Object Detectors with Online Hard Example Mining
+1054	https://arxiv.org/abs/1906.11172v1	Learning Data Augmentation Strategies for Object Detection
+1055	http://arxiv.org/abs/1612.08242v1	YOLO9000: Better, Faster, Stronger
+1056	https://arxiv.org/abs/1903.11752v2	ThunderNet: Towards Real-time Generic Object Detection
+1057	http://arxiv.org/abs/1703.10295v3	DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling
+1058	http://arxiv.org/abs/1704.03414v1	A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection
+1059	http://arxiv.org/abs/1506.01497v3	Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+1060	http://arxiv.org/abs/1809.08545v3	Bounding Box Regression with Uncertainty for Accurate Object Detection
+1061	http://arxiv.org/abs/1504.08083v2	Fast R-CNN
+1062	http://arxiv.org/abs/1604.04693v3	Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection
+1063	http://arxiv.org/abs/1506.02640v5	You Only Look Once: Unified, Real-Time Object Detection
+1064	http://arxiv.org/abs/1809.00338v2	Look Across Elapse: Disentangled Representation Learning and Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition
+1065	http://arxiv.org/abs/1807.09192v1	Multicolumn Networks for Face Recognition
+1066	http://arxiv.org/abs/1506.08959v2	A Large-Scale Car Dataset for Fine-Grained Categorization and Verification
+1067	http://arxiv.org/abs/1707.09531v2	Recurrent Scale Approximation for Object Detection in CNN
+1068	http://arxiv.org/abs/1607.05477v1	Supervised Transformer Network for Efficient Face Detection
+1069	http://arxiv.org/abs/1606.00850v3	Face Detection with End-to-End Integration of a ConvNet and a 3D Model
+1070	http://arxiv.org/abs/1904.05304v1	Evaluation of a Dual Convolutional Neural Network Architecture for Object-wise Anomaly Detection in Cluttered X-ray Security Imagery
+1071	https://arxiv.org/abs/1905.00641v2	RetinaFace: Single-stage Dense Face Localisation in the Wild
+1072	https://arxiv.org/abs/1905.01585v3	Accurate Face Detection for High Performance
+1073	http://arxiv.org/abs/1802.02142v1	Face Detection Using Improved Faster RCNN
+1074	https://arxiv.org/abs/1904.13300v3	Segmentation is All You Need
+1075	https://arxiv.org/abs/1906.06579v2	EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse
+1076	http://arxiv.org/abs/1612.04402v2	Finding Tiny Faces
+1077	http://arxiv.org/abs/1607.07155v1	A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection
+1078	http://arxiv.org/abs/1606.05413v1	CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection
+1079	http://arxiv.org/abs/1604.02878v1	Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks
+1080	http://arxiv.org/abs/1701.01692v1	To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection
+1081	http://arxiv.org/abs/1511.06523v1	WIDER FACE: A Face Detection Benchmark
+1082	https://arxiv.org/abs/1407.4023v2	Aggregate channel features for multi-view face detection
+1083	http://arxiv.org/abs/1802.00434v1	DensePose: Dense Human Pose Estimation In The Wild
+1084	http://arxiv.org/abs/1805.09707v1	Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation
+1085	http://arxiv.org/abs/1708.01101v1	Learning Feature Pyramids for Human Pose Estimation
+1086	http://arxiv.org/abs/1705.02407v2	Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation
+1087	http://arxiv.org/abs/1702.07432v1	Multi-Context Attention for Human Pose Estimation
+1088	http://arxiv.org/abs/1811.05419v2	Fast Human Pose Estimation
+1089	http://arxiv.org/abs/1710.02322v1	Human Pose Regression by Combining Indirect Part Detection and Contextual Information
+1090	http://arxiv.org/abs/1605.03170v3	DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model
+1091	http://arxiv.org/abs/1509.02649v2	Shape Interaction Matrix Revisited and Robustified: Efficient Subspace Clustering with Corrupted and Incomplete Data
+1092	http://arxiv.org/abs/1708.00111v2	A Continuous Relaxation of Beam Search for End-to-end Training of Neural Sequence Models
+1093	http://arxiv.org/abs/1203.1005v3	Sparse Subspace Clustering: Algorithm, Theory, and Applications
+1094	http://arxiv.org/abs/1706.03358v3	Sliced Wasserstein Kernel for Persistence Diagrams
+1095	http://arxiv.org/abs/1507.06217v3	Persistence Images: A Stable Vector Representation of Persistent Homology
+1096	http://arxiv.org/abs/1706.03472v1	Kernel method for persistence diagrams via kernel embedding and weight factor
+1097	https://arxiv.org/abs/1905.03678v1	What Do Single-view 3D Reconstruction Networks Learn?
+1098	https://doi.org/10.24963/ijcai.2019/369	CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
+1099	https://arxiv.org/abs/1905.10671v2	DIANet: Dense-and-Implicit Attention Network
+1100	http://arxiv.org/abs/1706.02003v2	Deep Convolutional Decision Jungle for Image Classification
+1101	http://arxiv.org/abs/1410.0736v4	HD-CNN: Hierarchical Deep Convolutional Neural Network for Large Scale Visual Recognition
+1102	http://papers.nips.cc/paper/5029-discriminative-transfer-learning-with-tree-based-priors	Discriminative Transfer Learning with Tree-based Priors
+1103	http://arxiv.org/abs/1803.06524v2	SeqFace: Make full use of sequence information for face recognition
+1104	http://arxiv.org/abs/1704.03373v1	Quality Aware Network for Set to Set Recognition
+1105	http://arxiv.org/abs/1807.08512v4	Git Loss for Deep Face Recognition
+1106	https://arxiv.org/abs/1412.1265v1	Deeply learned face representations are sparse, selective, and robust
+1107	http://arxiv.org/abs/1612.04904v1	Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network
+1108	https://arxiv.org/abs/1909.04538v1	DeepPrivacy: A Generative Adversarial Network for Face Anonymization
+1109	http://arxiv.org/abs/1712.01815v1	Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
+1110	http://arxiv.org/abs/1710.09829v2	Dynamic Routing Between Capsules
+1111	http://arxiv.org/abs/1902.03283v1	Machine learning and chord based feature engineering for genre prediction in popular Brazilian music
+1112	https://arxiv.org/abs/1905.13343v2	All SMILES Variational Autoencoder
+1113	http://arxiv.org/abs/1806.04449v1	ToxicBlend: Virtual Screening of Toxic Compounds with Ensemble Predictors
+1114	http://arxiv.org/abs/1706.02515v5	Self-Normalizing Neural Networks
+1115	http://arxiv.org/abs/1811.11187v1	Scan2CAD: Learning CAD Model Alignment in RGB-D Scans
+1116	http://arxiv.org/abs/1603.08182v3	3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions
+1117	https://www.aclweb.org/anthology/papers/C/C18/C18-1230/	Learning Semantic Sentence Embeddings using Sequential Pair-wise Discriminator
+1118	http://arxiv.org/abs/1809.02279v1	Cell-aware Stacked LSTMs for Modeling Sentences
+1119	http://arxiv.org/abs/1808.09315v1	Convolutional Neural Networks with Recurrent Neural Filters
+1120	http://arxiv.org/abs/1812.01527v1	Leveraging Multi-grained Sentiment Lexicon Information for Neural Sequence Models
+1121	https://www.aclweb.org/anthology/papers/P/P14/P14-1022/	Less Grammar, More Features
+1122	http://arxiv.org/abs/1511.08630v2	A C-LSTM Neural Network for Text Classification
+1123	https://www.aclweb.org/anthology/papers/D/D13/D13-1170/	Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank
+1124	https://www.aclweb.org/anthology/papers/W/W17/W17-5535/	Exploring Joint Neural Model for Sentence Level Discourse Parsing and Sentiment Analysis
+1125	http://arxiv.org/abs/1809.04505v1	Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training
+1126	https://arxiv.org/abs/1903.01888v3	Gated Graph Convolutional Recurrent Neural Networks
+1127	http://arxiv.org/abs/1904.03758v2	Meta-Learning with Differentiable Convex Optimization
+1128	http://arxiv.org/abs/1812.02391v3	Meta-Transfer Learning for Few-Shot Learning
+1129	http://arxiv.org/abs/1806.04734v3	Delta-encoder: an effective sample synthesis method for few-shot object recognition
+1130	http://arxiv.org/abs/1711.06025v2	Learning to Compare: Relation Network for Few-Shot Learning
+1131	http://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Visual_Tracking_via_Adaptive_Spatially-Regularized_Correlation_Filters_CVPR_2019_paper.html	Visual Tracking via Adaptive Spatially-Regularized Correlation Filters
+1132	https://www.isca-speech.org/archive/Interspeech_2018/abstracts/1423.html	End-to-end speech recognition using lattice-free MMI
+1133	http://arxiv.org/abs/1710.04087v3	Word Translation Without Parallel Data
+1134	http://arxiv.org/abs/1511.06038v4	Neural Variational Inference for Text Processing
+1135	http://arxiv.org/abs/1412.1632v1	Deep Learning for Answer Sentence Selection
+1136	http://arxiv.org/abs/1405.4053v2	Distributed Representations of Sentences and Documents
+1137	http://arxiv.org/abs/1807.01270v5	Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study
+1138	http://arxiv.org/abs/1803.10225v1	Light Gated Recurrent Units for Speech Recognition
+1139	http://arxiv.org/abs/1603.00223v2	Segmental Recurrent Neural Networks for End-to-end Speech Recognition
+1140	http://arxiv.org/abs/1506.07503v1	Attention-Based Models for Speech Recognition
+1141	http://arxiv.org/abs/1303.5778v1	Speech Recognition with Deep Recurrent Neural Networks
+1142	http://arxiv.org/abs/1806.07789v1	Quaternion Convolutional Neural Networks for End-to-End Automatic Speech Recognition
+1143	http://arxiv.org/abs/1704.00784v2	Online and Linear-Time Attention by Enforcing Monotonic Alignments
+1144	https://arxiv.org/abs/1907.01914v1	Attention model for articulatory features detection
+1145	http://arxiv.org/abs/1805.03064v3	Recurrent CNN for 3D Gaze Estimation using Appearance and Shape Cues
+1146	https://arxiv.org/abs/1905.07799v2	Adaptive Attention Span in Transformers
+1147	http://arxiv.org/abs/1609.01704v7	Hierarchical Multiscale Recurrent Neural Networks
+1148	https://arxiv.org/abs/1902.07837v3	Cascade Feature Aggregation for Human Pose Estimation
+1149	http://arxiv.org/abs/1901.01760v1	Human Pose Estimation with Spatial Contextual Information
+1150	http://arxiv.org/abs/1803.09894v3	Multi-Scale Structure-Aware Network for Human Pose Estimation
+1151	http://arxiv.org/abs/1808.02194v2	Quantized Densely Connected U-Nets for Efficient Landmark Localization
+1152	http://arxiv.org/abs/1711.08229v4	Integral Human Pose Regression
+1153	http://arxiv.org/abs/1808.06521v1	CU-Net: Coupled U-Nets
+1154	http://arxiv.org/abs/1904.02698v1	T-Net: Parametrizing Fully Convolutional Nets with a Single High-Order Tensor
+1155	http://arxiv.org/abs/1511.06645v2	DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation
+1156	http://arxiv.org/abs/1808.08703v2	Generating Text through Adversarial Training using Skip-Thought Vectors
+1157	http://arxiv.org/abs/1807.10418v3	W-TALC: Weakly-supervised Temporal Activity Localization and Classification
+1158	http://openaccess.thecvf.com/content_ECCV_2018/html/Zheng_Shou_AutoLoc_Weakly-supervised_Temporal_ECCV_2018_paper.html	AutoLoc: Weakly-supervised Temporal Action Localization in Untrimmed Videos
+1159	http://arxiv.org/abs/1712.05080v2	Weakly Supervised Action Localization by Sparse Temporal Pooling Network
+1160	http://arxiv.org/abs/1703.03329v2	UntrimmedNets for Weakly Supervised Action Recognition and Detection
+1161	http://arxiv.org/abs/1803.00933v1	Distributed Prioritized Experience Replay
+1162	http://arxiv.org/abs/1802.01561v3	IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures
+1163	http://arxiv.org/abs/1704.04651v2	The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning
+1164	http://arxiv.org/abs/1704.01792v3	Neural Question Generation from Text: A Preliminary Study
+1165	http://arxiv.org/abs/1708.00524v2	Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm
+1166	http://arxiv.org/abs/1808.07374v2	Learning When to Concentrate or Divert Attention: Self-Adaptive Attention Temperature for Neural Machine Translation
+1167	https://arxiv.org/abs/1905.02878v1	Syntax-Enhanced Neural Machine Translation with Syntax-Aware Word Representations
+1168	http://arxiv.org/abs/1806.03692v1	Deconvolution-Based Global Decoding for Neural Machine Translation
+1169	https://arxiv.org/abs/1809.07950v2	CollaboNet: collaboration of deep neural networks for biomedical named entity recognition
+1170	http://arxiv.org/abs/1505.04597v1	U-Net: Convolutional Networks for Biomedical Image Segmentation
+1171	https://arxiv.org/abs/1901.02262v2	Multi-style Generative Reading Comprehension
+1172	https://www.aclweb.org/anthology/papers/D/D18/D18-1054/	Cut to the Chase: A Context Zoom-in Network for Reading Comprehension
+1173	http://arxiv.org/abs/1811.04210v2	Densely Connected Attention Propagation for Reading Comprehension
+1174	https://www.aclweb.org/anthology/papers/D/D18/D18-1238/	Multi-Granular Sequence Encoding via Dilated Compositional Units for Reading Comprehension
+1175	http://arxiv.org/abs/1712.07040v1	The NarrativeQA Reading Comprehension Challenge
+1176	http://arxiv.org/abs/1902.09513v2	FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation
+1177	http://arxiv.org/abs/1711.04434v1	Faithful to the Original: Fact Aware Neural Abstractive Summarization
+1178	https://www.aclweb.org/anthology/papers/P/P18/P18-1015/	Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization
+1179	https://www.aclweb.org/anthology/papers/N/N18/N18-1064/	Entity Commonsense Representation for Neural Abstractive Summarization
+1180	https://www.aclweb.org/anthology/papers/P/P18/P18-2027/	Global Encoding for Abstractive Summarization
+1181	https://www.aclweb.org/anthology/papers/P/P18/P18-1064/	Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation
+1182	https://www.aclweb.org/anthology/papers/C/C18/C18-1146/	Structure-Infused Copy Mechanisms for Abstractive Summarization
+1183	http://arxiv.org/abs/1611.09326v3	The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation
+1184	http://arxiv.org/abs/1511.07053v3	ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation
+1185	http://arxiv.org/abs/1804.00382v2	Attention-based Ensemble for Deep Metric Learning
+1186	https://arxiv.org/abs/1909.02164v2	TabFact: A Large-scale Dataset for Table-based Fact Verification
+1187	https://drive.google.com/file/d/1i2jl5M0ddr-STAma0a2Bsr5rOMtcCSyB/view	Jointly Learning Convolutional Representations to Compress Radiological Images and Classify Thoracic Diseases in the Compressed Domain
+1188	http://arxiv.org/abs/1711.05225v3	CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning
+1189	http://arxiv.org/abs/1706.02413v1	PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
+1190	http://arxiv.org/abs/1904.09117v1	SelFlow: Self-Supervised Learning of Optical Flow
+1191	http://arxiv.org/abs/1809.05571v1	Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation
+1192	http://arxiv.org/abs/1904.05290v1	Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation
+1193	http://arxiv.org/abs/1902.00153v1	Deep Triplet Quantization
+1194	http://arxiv.org/abs/1812.03982v2	SlowFast Networks for Video Recognition
+1195	http://arxiv.org/abs/1812.05038v2	Long-Term Feature Banks for Detailed Video Understanding
+1196	http://arxiv.org/abs/1806.01810v2	Videos as Space-Time Region Graphs
+1197	http://arxiv.org/abs/1612.06371v2	Asynchronous Temporal Fields for Action Recognition
+1198	http://arxiv.org/abs/1712.00636v2	Compressed Video Action Recognition
+1199	http://arxiv.org/abs/1406.2199v2	Two-Stream Convolutional Networks for Action Recognition in Videos
+1200	http://arxiv.org/abs/1809.06079v1	An Integral Pose Regression System for the ECCV2018 PoseTrack Challenge
+1201	http://arxiv.org/abs/1711.09020v3	StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
+1202	http://arxiv.org/abs/1610.05586v2	Deep Identity-aware Transfer of Facial Attributes
+1203	http://arxiv.org/abs/1611.06355v1	Invertible Conditional GANs for image editing
+1204	http://arxiv.org/abs/1707.04412v1	Evaluating Semantic Parsing against a Simple Web-based Question Answering Model
+1205	http://arxiv.org/abs/1904.08745v1	edGNN: a Simple and Powerful GNN for Directed Labeled Graphs
+1206	https://hal-normandie-univ.archives-ouvertes.fr/hal-02053946/	Graph Kernels Based on Linear Patterns: Theoretical and Experimental Comparisons
+1207	https://arxiv.org/abs/1908.09995v1	Temporal Reasoning Graph for Activity Recognition
+1208	https://arxiv.org/abs/1906.11415v1	Few-Shot Video Classification via Temporal Alignment
+1209	http://arxiv.org/abs/1706.04261v2	The "something something" video database for learning and evaluating visual common sense
+1210	http://arxiv.org/abs/1707.06642v2	The iNaturalist Species Classification and Detection Dataset
+1211	http://arxiv.org/abs/1803.01534v4	Path Aggregation Network for Instance Segmentation
+1212	http://arxiv.org/abs/1903.00241v1	Mask Scoring R-CNN
+1213	http://arxiv.org/abs/1712.04837v1	MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features
+1214	https://arxiv.org/abs/1903.12174v2	TensorMask: A Foundation for Dense Object Segmentation
+1215	http://arxiv.org/abs/1904.02689v1	YOLACT: Real-time Instance Segmentation
+1216	http://arxiv.org/abs/1604.02135v2	A MultiPath Network for Object Detection
+1217	https://www.sciencedirect.com/science/article/pii/S001048251930160X	Sleep quality prediction in caregivers using physiological signals
+1218	http://arxiv.org/abs/1812.03282v1	Spatial-Temporal Person Re-identification
+1219	http://arxiv.org/abs/1903.07071v3	Bag of Tricks and A Strong Baseline for Deep Person Re-identification
+1220	https://arxiv.org/abs/1903.09776v4	Auto-ReID: Searching for a Part-aware ConvNet for Person Re-Identification
+1221	https://arxiv.org/abs/1904.07223v2	Joint Discriminative and Generative Learning for Person Re-identification
+1222	http://arxiv.org/abs/1811.12150v1	Parameter-Free Spatial Attention Network for Person Re-Identification
+1223	http://arxiv.org/abs/1807.05618v1	Improved Person Re-Identification Based on Saliency and Semantic Parsing with Deep Neural Network Models
+1224	https://arxiv.org/abs/1908.01114v3	ABD-Net: Attentive but Diverse Person Re-Identification
+1225	http://arxiv.org/abs/1804.01438v3	Learning Discriminative Features with Multiple Granularities for Person Re-Identification
+1226	https://arxiv.org/abs/1905.00953v5	Omni-Scale Feature Learning for Person Re-Identification
+1227	http://arxiv.org/abs/1804.05275v4	Horizontal Pyramid Matching for Person Re-identification
+1228	http://arxiv.org/abs/1711.09349v3	Beyond Part Models: Person Retrieval with Refined Part Pooling (and a Strong Convolutional Baseline)
+1229	http://arxiv.org/abs/1810.02936v2	FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification
+1230	http://arxiv.org/abs/1709.04329v1	GLAD: Global-Local-Alignment Descriptor for Pedestrian Retrieval
+1231	https://arxiv.org/abs/1808.06281v5	Incremental Learning in Person Re-Identification
+1232	http://arxiv.org/abs/1711.10295v2	Camera Style Adaptation for Person Re-identification
+1233	http://arxiv.org/abs/1707.00798v2	Deep Representation Learning with Part Loss for Person Re-Identification
+1234	http://arxiv.org/abs/1703.07737v4	In Defense of the Triplet Loss for Person Re-Identification
+1235	http://arxiv.org/abs/1703.08359v1	Scalable Person Re-identification on Supervised Smoothed Manifold
+1236	http://arxiv.org/abs/1701.07717v5	Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro
+1237	http://arxiv.org/abs/1705.04724v2	Person Re-Identification by Deep Joint Learning of Multi-Loss Classification
+1238	http://arxiv.org/abs/1701.08398v4	Re-ranking Person Re-identification with k-reciprocal Encoding
+1239	http://arxiv.org/abs/1709.08325v1	Pose-driven Deep Convolutional Model for Person Re-identification
+1240	http://arxiv.org/abs/1707.07256v1	Deeply-Learned Part-Aligned Representations for Person Re-Identification
+1241	http://arxiv.org/abs/1703.05693v4	SVDNet for Pedestrian Retrieval
+1242	http://arxiv.org/abs/1611.05666v2	A Discriminatively Learned CNN Embedding for Person Re-identification
+1243	http://arxiv.org/abs/1710.06555v1	Learning Deep Context-aware Features over Body and Latent Parts for Person Re-identification
+1244	http://arxiv.org/abs/1610.02984v1	Person Re-identification: Past, Present and Future
+1245	http://arxiv.org/abs/1603.02139v1	Learning a Discriminative Null Space for Person Re-identification
+1246	http://arxiv.org/abs/1406.4216v2	Person Re-identification by Local Maximal Occurrence Representation and Metric Learning
+1247	http://openaccess.thecvf.com/content_iccv_2015/html/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.html	Scalable Person Re-Identification: A Benchmark
+1248	http://arxiv.org/abs/1904.01376v2	Easy Transfer Learning By Exploiting Intra-domain Structures
+1249	https://arxiv.org/abs/1906.05910v2	Hallucinating IDT Descriptors and I3D Optical Flow Features for Action Recognition with CNNs
+1250	http://arxiv.org/abs/1807.09380v2	Learning Discriminative Video Representations Using Adversarial Perturbations
+1251	http://openaccess.thecvf.com/content_cvpr_2017/html/Feichtenhofer_Spatiotemporal_Multiplier_Networks_CVPR_2017_paper.html	Spatiotemporal Multiplier Networks for Video Action Recognition
+1252	https://arxiv.org/abs/1905.12462v1	Hierarchical Feature Aggregation Networks for Video Action Recognition
+1253	http://arxiv.org/abs/1812.00722v2	SUSiNet: See, Understand and Summarize it
+1254	http://arxiv.org/abs/1611.02200v1	Unsupervised Cross-Domain Image Generation
+1255	http://arxiv.org/abs/1702.05464v1	Adversarial Discriminative Domain Adaptation
+1256	http://arxiv.org/abs/1409.7495v2	Unsupervised Domain Adaptation by Backpropagation
+1257	http://arxiv.org/abs/1806.05645v1	Grounded Textual Entailment
+1258	https://arxiv.org/abs/1904.06991v2	Improved Precision and Recall Metric for Assessing Generative Models
+1259	http://arxiv.org/abs/1812.04948v3	A Style-Based Generator Architecture for Generative Adversarial Networks
+1260	http://arxiv.org/abs/1804.02967v2	HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation
+1261	https://arxiv.org/abs/1907.07945v1	MintNet: Building Invertible Neural Networks with Masked Convolutions
+1262	https://arxiv.org/abs/1901.07261	Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search
+1263	https://arxiv.org/pdf/1906.02849.pdf	Multi-scale guided attention for medical image segmentation
+1264	https://doi.org/10.1109/BIGCOMP.2019.8679157	Learning Representations from Healthcare Time Series Data for Unsupervised Anomaly Detection
+1265	http://arxiv.org/abs/1709.05206v1	LSTM Fully Convolutional Networks for Time Series Classification
+1266	http://arxiv.org/abs/1607.00148v2	LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection
+1267	http://arxiv.org/abs/1801.03150v3	Moments in Time Dataset: one million videos for event understanding
+1268	http://arxiv.org/abs/1712.04851v2	Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification
+1269	http://arxiv.org/abs/1804.09066v2	ECO: Efficient Convolutional Network for Online Video Understanding
+1270	http://arxiv.org/abs/1807.10037v2	Motion Feature Network: Fixed Motion Filter for Action Recognition
+1271	http://arxiv.org/abs/1902.07623v1	advertorch v0.1: An Adversarial Robustness Toolbox based on PyTorch
+1272	https://arxiv.org/abs/1909.03625v1	CBNet: A Novel Composite Backbone Network Architecture for Object Detection
+1273	http://arxiv.org/abs/1711.08189v2	An Analysis of Scale Invariance in Object Detection - SNIP
+1274	https://arxiv.org/abs/1909.02466v1	FreeAnchor: Learning to Match Anchors for Visual Object Detection
+1275	https://arxiv.org/abs/1906.09756v1	Cascade R-CNN: High Quality Object Detection and Instance Segmentation
+1276	http://arxiv.org/abs/1708.02002v2	Focal Loss for Dense Object Detection
+1277	http://arxiv.org/abs/1807.11590v1	Acquisition of Localization Confidence for Accurate Object Detection
+1278	http://arxiv.org/abs/1708.08169v1	ChainerCV: a Library for Deep Learning in Computer Vision
+1279	http://arxiv.org/abs/1612.06851v2	Beyond Skip Connections: Top-Down Modulation for Object Detection
+1280	http://arxiv.org/abs/1612.03144v2	Feature Pyramid Networks for Object Detection
+1281	http://arxiv.org/abs/1611.10012v3	Speed/accuracy trade-offs for modern convolutional object detectors
+1282	http://arxiv.org/abs/1804.02767v1	YOLOv3: An Incremental Improvement
+1283	https://arxiv.org/abs/1812.02707v2	Video Action Transformer Network
+1284	http://arxiv.org/abs/1807.10982v1	Actor-Centric Relation Network
+1285	http://arxiv.org/abs/1803.06589v2	Early hospital mortality prediction using vital signals
+1286	http://openaccess.thecvf.com/content_cvpr_2014/html/Zhu_Saliency_Optimization_from_2014_CVPR_paper.html	Saliency Optimization from Robust Background Detection
+1287	https://arxiv.org/abs/1805.03473v2	Learning representations for multivariate time series with missing data using Temporal Kernelized Autoencoders
+1288	http://arxiv.org/abs/1809.05343v3	Adaptive Sampling Towards Fast Graph Representation Learning
+1289	https://arxiv.org/abs/1909.01315v1	Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs
+1290	http://arxiv.org/abs/1804.00099v2	Graph Convolutional Neural Networks via Scattering
+1291	http://www.stat.ucla.edu/~jxie/personalpage_file/publications/3dpose_pami19.pdf	Learning Pose Grammar for Monocular 3D Pose Estimation
+1292	http://openaccess.thecvf.com/content_ECCV_2018/html/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.html	Exploiting temporal information for 3D human pose estimation
+1293	http://arxiv.org/abs/1611.07828v2	Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose
+1294	http://arxiv.org/abs/1509.06720v2	A Dual-Source Approach for 3D Pose Estimation from a Single Image
+1295	http://dx.doi.org/10.5244/C.28.80	Depth sweep regression forests for estimating 3d human pose from images
+1296	https://doi.org/10.1007/s11263-008-0204-y	Twin gaussian processes for structured prediction
+1297	https://arxiv.org/abs/1905.12897v2	A Compare-Aggregate Model with Latent Clustering for Answer Selection
+1298	http://arxiv.org/abs/1707.07847v3	Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering
+1299	https://www.aclweb.org/anthology/papers/N/N16/N16-1108/	Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement
+1300	http://arxiv.org/abs/1606.03126v2	Key-Value Memory Networks for Directly Reading Documents
+1301	http://arxiv.org/abs/1602.07019v2	Sentence Similarity Learning by Lexical Decomposition and Composition
+1302	http://arxiv.org/abs/1809.01812v1	Noise Contrastive Estimation and Negative Sampling for Conditional Models: Consistency and Statistical Efficiency
+1303	http://arxiv.org/abs/1602.03609v1	Attentive Pooling Networks
+1304	http://arxiv.org/abs/1607.04315v3	Neural Semantic Encoders
+1305	http://arxiv.org/abs/1904.03296v1	A General Framework for Information Extraction using Dynamic Span Graphs
+1306	http://arxiv.org/abs/1601.00770v3	End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures
+1307	https://www.aclweb.org/anthology/papers/P/P17/P17-1085/	Going out on a limb: Joint Extraction of Entity Mentions and Relations without Dependency Trees
+1308	https://www.aclweb.org/anthology/papers/P/P14/P14-1038/	Incremental Joint Extraction of Entity Mentions and Relations
+1309	http://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Recognizing_Human_Actions_CVPR_2018_paper.html	Recognizing Human Actions as the Evolution of Pose Estimation Maps
+1310	http://openaccess.thecvf.com/content_CVPR_2019/html/Perez-Rua_MFAS_Multimodal_Fusion_Architecture_Search_CVPR_2019_paper.html	MFAS: Multimodal Fusion Architecture Search
+1311	http://arxiv.org/abs/1802.07898v4	Glimpse Clouds: Human Activity Recognition from Unstructured Feature Points
+1312	http://arxiv.org/abs/1802.09232v2	2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning
+1313	https://arxiv.org/abs/1907.13025v1	SkeleMotion: A New Representation of Skeleton Joint Sequences Based on Motion Information for 3D Action Recognition
+1314	http://arxiv.org/abs/1603.07120v2	Deep Multimodal Feature Analysis for Action Recognition in RGB+D Videos
+1315	http://arxiv.org/abs/1808.08795v1	An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation
+1316	https://doi.org/10.1021/acs.jcim.9b00410	Molecule Property Prediction Based on Spatial Graph Embedding
+1317	http://arxiv.org/abs/1603.00856v3	Molecular Graph Convolutions: Moving Beyond Fingerprints
+1318	https://arxiv.org/abs/1906.11081v1	Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective
+1319	http://arxiv.org/abs/1901.01343v4	Graph Neural Networks with convolutional ARMA filters
+1320	http://arxiv.org/abs/1803.03735v1	Attention-based Graph Neural Network for Semi-supervised Learning
+1321	http://arxiv.org/abs/1801.09969v1	Sliding Line Point Regression for Shape Robust Scene Text Detection
+1322	http://arxiv.org/abs/1709.03272v4	Fused Text Segmentation Networks for Multi-oriented Scene Text Detection
+1323	http://arxiv.org/abs/1706.09579v2	R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection
+1324	http://arxiv.org/abs/1704.03155v2	EAST: An Efficient and Accurate Scene Text Detector
+1325	http://arxiv.org/abs/1708.06720v1	WordSup: Exploiting Word Annotations for Character based Text Detection
+1326	http://arxiv.org/abs/1709.00138v1	Single Shot Text Detector with Regional Attention
+1327	http://arxiv.org/abs/1703.06520v3	Detecting Oriented Text in Natural Images by Linking Segments
+1328	https://arxiv.org/abs/1806.01873v2	Focal Visual-Text Attention for Visual Question Answering
+1329	https://ieeexplore.ieee.org/document/8603827	Focal Visual-Text Attention for Memex Question Answering
+1330	https://www.aclweb.org/anthology/papers/P/P16/P16-1123/	Relation Classification via Multi-Level Attention CNNs
+1331	http://arxiv.org/abs/1901.08163v1	Semantic Relation Classification via Bidirectional LSTM Networks with Entity-aware Attention using Latent Entity Typing
+1332	https://arxiv.org/abs/1801.01641v2	aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model
+1333	http://arxiv.org/abs/1806.04185v1	A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature
+1334	http://arxiv.org/abs/1806.09828v1	Enhancing Sentence Embedding with Generalized Pooling
+1335	https://doi.org/10.1016/j.compenvurbsys.2012.06.001	Inferring hybrid transportation modes from sparse GPS data using a moving window SVM classification
+1336	http://arxiv.org/abs/1901.04085v4	Passage Re-ranking with BERT
+1337	http://arxiv.org/abs/1903.07666v1	An Updated Duet Model for Passage Re-ranking
+1338	https://arxiv.org/abs/1906.03805v2	Improving Neural Language Modeling via Adversarial Training
+1339	http://arxiv.org/abs/1809.06858v1	FRAGE: Frequency-Agnostic Word Representation
+1340	http://arxiv.org/abs/1711.03953v4	Breaking the Softmax Bottleneck: A High-Rank RNN Language Model
+1341	https://arxiv.org/abs/1903.04167	Partially Shuffling the Training Data to Improve Language Models
+1342	http://arxiv.org/abs/1708.02182v1	Regularizing and Optimizing LSTM Language Models
+1343	http://arxiv.org/abs/1903.04167v2	Partially Shuffling the Training Data to Improve Language Models
+1344	http://arxiv.org/abs/1805.09208v2	Pushing the bounds of dropout
+1345	http://arxiv.org/abs/1806.09055v2	DARTS: Differentiable Architecture Search
+1346	http://arxiv.org/abs/1711.00066v4	Fraternal Dropout
+1347	http://arxiv.org/abs/1611.01462v3	Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling
+1348	https://www.danielpovey.com/files/2016_interspeech_mmi.pdf	Purely sequence-trained neural networks for ASR based on lattice-free MMI
+1349	http://arxiv.org/abs/1504.01482v1	Deep Recurrent Neural Networks for Acoustic Modelling
+1350	https://www.aclweb.org/anthology/papers/D/D17/D17-1188/	Context-Aware Representations for Knowledge Base Relation Extraction
+1351	https://arxiv.org/abs/1906.05168v3	Attention-based Multi-Input Deep Learning Architecture for Biological Activity Prediction: An Application in EGFR Inhibitors
+1352	https://arxiv.org/abs/1908.05147v2	SG-Net: Syntax-Guided Machine Reading Comprehension
+1353	https://arxiv.org/abs/1909.02209v1	Semantics-aware BERT for Language Understanding
+1354	http://arxiv.org/abs/1808.05759v5	Read + Verify: Machine Reading Comprehension with Unanswerable Questions
+1355	http://arxiv.org/abs/1810.06638v1	U-Net: Machine Reading Comprehension with Unanswerable Questions
+1356	http://arxiv.org/abs/1702.06879v2	Knowledge Graph Completion via Complex Tensor Factorization
+1357	http://arxiv.org/abs/1901.07696v2	Product-Aware Answer Generation in E-Commerce Question-Answering
+1358	https://arxiv.org/abs/1907.05600v1	Generative Modeling by Estimating Gradients of the Data Distribution
+1359	https://arxiv.org/abs/1908.03835v1	AutoGAN: Neural Architecture Search for Generative Adversarial Networks
+1360	http://arxiv.org/abs/1812.09916v4	Improving MMD-GAN Training with Repulsive Loss Function
+1361	http://arxiv.org/abs/1802.05957v1	Spectral Normalization for Generative Adversarial Networks
+1362	http://arxiv.org/abs/1903.06048v2	MSG-GAN: Multi-Scale Gradient GAN for Stable Image Synthesis
+1363	http://arxiv.org/abs/1709.07359v2	Class-Splitting Generative Adversarial Networks
+1364	https://arxiv.org/abs/1906.09453v2	Image Synthesis with a Single (Robust) Classifier
+1365	http://arxiv.org/abs/1805.11565v4	On gradient regularizers for MMD GANs
+1366	http://arxiv.org/abs/1703.01560v3	LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation
+1367	http://arxiv.org/abs/1702.01691v2	Calibrating Energy-based Generative Adversarial Networks
+1368	http://arxiv.org/abs/1606.03498v1	Improved Techniques for Training GANs
+1369	http://arxiv.org/abs/1611.01673v3	Generative Multi-Adversarial Networks
+1370	http://arxiv.org/abs/1703.10717v4	BEGAN: Boundary Equilibrium Generative Adversarial Networks
+1371	http://arxiv.org/abs/1803.08887v3	Dist-GAN: An Improved GAN using Distance Constraints
+1372	https://arxiv.org/abs/1903.05628v6	Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis
+1373	http://arxiv.org/abs/1712.09763v1	PixelSNAIL: An Improved Autoregressive Generative Model
+1374	http://arxiv.org/abs/1802.05751v3	Image Transformer
+1375	http://arxiv.org/abs/1701.05517v1	PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications
+1376	http://arxiv.org/abs/1601.06759v3	Pixel Recurrent Neural Networks
+1377	http://arxiv.org/abs/1606.05328v2	Conditional Image Generation with PixelCNN Decoders
+1378	http://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow	Improved Variational Inference with Inverse Autoregressive Flow
+1379	https://arxiv.org/abs/1811.00995v3	Invertible Residual Networks
+1380	http://arxiv.org/abs/1506.03478v2	Generative Image Modeling Using Spatial LSTMs
+1381	http://arxiv.org/abs/1605.08803v3	Density estimation using Real NVP
+1382	http://arxiv.org/abs/1604.08772v1	Towards Conceptual Compression
+1383	http://papers.nips.cc/paper/5227-factoring-variations-in-natural-images-with-deep-gaussian-mixture-models	Factoring Variations in Natural Images with Deep Gaussian Mixture Models
+1384	http://arxiv.org/abs/1502.04623v2	DRAW: A Recurrent Neural Network For Image Generation
+1385	http://arxiv.org/abs/1410.8516v6	NICE: Non-linear Independent Components Estimation
+1386	https://arxiv.org/abs/1906.01195v1	Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs
+1387	http://arxiv.org/abs/1611.09978v1	Modeling Relationships in Referential Expressions with Compositional Modular Networks
+1388	http://arxiv.org/abs/1801.08290v1	A Question-Focused Multi-Factor Attention Network for Question Answering
+1389	http://arxiv.org/abs/1805.08092v1	Efficient and Robust Question Answering from Minimal Context over Documents
+1390	http://openaccess.thecvf.com/content_CVPR_2019/html/Yan_PA3D_Pose-Action_3D_Machine_for_Video_Recognition_CVPR_2019_paper.html	PA3D: Pose-Action 3D Machine for Video Recognition
+1391	https://openreview.net/forum?id=HyGhN2A5tm	Multi-Agent Dual Learning
+1392	http://arxiv.org/abs/1606.02892v2	Linguistic Input Features Improve Neural Machine Translation
+1393	http://arxiv.org/abs/1804.08313v1	Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
+1394	http://arxiv.org/abs/1804.09057v1	Unsupervised Neural Machine Translation with Weight Sharing
+1395	http://arxiv.org/abs/1711.00043v2	Unsupervised Machine Translation Using Monolingual Corpora Only
+1396	https://arxiv.org/abs/1904.00585v2	Using Similarity Measures to Select Pretraining Data for NER
+1397	http://arxiv.org/abs/1806.03489v1	Robust Lexical Features for Improved Neural Network Named-Entity Recognition
+1398	http://arxiv.org/abs/1702.02098v3	Fast and Accurate Entity Recognition with Iterated Dilated Convolutions
+1399	https://www.aclweb.org/anthology/papers/P/P19/P19-1525/	Span-Level Model for Relation Extraction
+1400	https://arxiv.org/abs/1909.01203v1	Cross View Fusion for 3D Human Pose Estimation
+1401	https://arxiv.org/abs/1907.06968v1	A Unified Deep Framework for Joint 3D Pose Estimation and Action Recognition from a Single RGB Camera
+1402	https://arxiv.org/abs/1904.03345v2	Semantic Graph Convolutional Networks for 3D Human Pose Regression
+1403	https://arxiv.org/abs/1908.09464v1	Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images
+1404	https://arxiv.org/abs/1908.08289v1	Trajectory Space Factorization for Deep Video-Based 3D Human Pose Estimation
+1405	http://arxiv.org/abs/1811.11742v2	3D human pose estimation in video with temporal convolutions and semi-supervised training
+1406	https://arxiv.org/abs/1908.03030v1	Semantic Estimation of 3D Body Shape and Pose using Minimal Cameras
+1407	http://arxiv.org/abs/1903.02330v2	Self-Supervised Learning of 3D Human Pose using Multi-view Geometry
+1408	http://arxiv.org/abs/1711.09250v2	Learning 3D Human Pose from Structure and Motion
+1409	http://openaccess.thecvf.com/content_ECCV_2018/html/Kyoungoh_Lee_Propagating_LSTM_3D_ECCV_2018_paper.html	Propagating LSTM: 3D Pose Estimation based on Joint Interdependency
+1410	http://arxiv.org/abs/1808.01525v1	Rethinking Pose in 3D: Multi-stage Refinement and Recovery for Markerless Motion Capture
+1411	http://arxiv.org/abs/1808.09316v2	How Robust is 3D Human Pose Estimation to Occlusion?
+1412	http://arxiv.org/abs/1704.04793v1	Harvesting Multiple Views for Marker-less 3D Human Pose Annotations
+1413	https://cvssp.org/projects/totalcapture/TotalCapture/	Total capture: 3D human pose estimation fusing video and inertial sensors
+1414	http://arxiv.org/abs/1808.05942v1	Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation
+1415	http://arxiv.org/abs/1711.08585v4	Exploiting temporal information for 3D pose estimation
+1416	http://arxiv.org/abs/1701.00295v4	Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image
+1417	http://arxiv.org/abs/1511.09439v2	Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video
+1418	https://arxiv.org/abs/1504.08200	Predicting people’s 3D poses from short sequences
+1419	https://doi.org/10.1109/TPAMI.2013.248	Human3.6m: Large scale datasets and predictive methods for 3D human sensing in natural environments
+1420	http://arxiv.org/abs/1806.00800v1	ProFlow: Learning to Predict Optical Flow
+1421	http://arxiv.org/abs/1805.07036v1	LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation
+1422	https://www.aclweb.org/anthology/papers/P/P18/P18-2058/	Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling
+1423	http://arxiv.org/abs/1712.01586v1	Deep Semantic Role Labeling with Self-Attention
+1424	https://www.aclweb.org/anthology/papers/P/P17/P17-1044/	Deep Semantic Role Labeling: What Works and What's Next
+1425	http://arxiv.org/abs/1808.05326v1	SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference
+1426	http://arxiv.org/abs/1809.02794v2	I Know What You Want: Semantic Learning for Text Comprehension
+1427	http://arxiv.org/abs/1805.11360v2	Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information
+1428	https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf	Improving Language Understanding by Generative Pre-Training
+1429	https://www.aclweb.org/anthology/papers/P/P18/P18-1091/	Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference
+1430	https://www.ijcai.org/proceedings/2018/0613	Multiway Attention Networks for Modeling Sentence Pairs
+1431	http://arxiv.org/abs/1802.05577v2	DR-BiLSTM: Dependent Reading Bidirectional LSTM for Natural Language Inference
+1432	http://arxiv.org/abs/1711.04289v3	Neural Natural Language Inference Models Enhanced with External Knowledge
+1433	http://arxiv.org/abs/1709.04348v2	Natural Language Inference over Interaction Space
+1434	http://arxiv.org/abs/1702.03814v3	Bilateral Multi-Perspective Matching for Natural Language Sentences
+1435	http://arxiv.org/abs/1609.06038v3	Enhanced LSTM for Natural Language Inference
+1436	http://arxiv.org/abs/1804.07888v2	Stochastic Answer Networks for Natural Language Inference
+1437	http://arxiv.org/abs/1808.07383v1	Dynamic Self-Attention : Computing Attention over Words Dynamically for Sentence Embedding
+1438	http://arxiv.org/abs/1607.04492v2	Neural Tree Indexers for Text Understanding
+1439	http://arxiv.org/abs/1606.01933v2	A Decomposable Attention Model for Natural Language Inference
+1440	http://arxiv.org/abs/1812.01216v1	Parameter Re-Initialization through Cyclical Batch Size Schedules
+1441	http://arxiv.org/abs/1804.07983v2	Dynamic Meta-Embeddings for Improved Sentence Representations
+1442	http://arxiv.org/abs/1801.10296v2	Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling
+1443	http://arxiv.org/abs/1712.02047v1	Distance-based Self-Attention Network for Natural Language Inference
+1444	http://arxiv.org/abs/1601.06733v7	Long Short-Term Memory-Networks for Machine Reading
+1445	http://arxiv.org/abs/1512.08849v2	Learning Natural Language Inference with LSTM
+1446	http://arxiv.org/abs/1707.02786v4	Learning to Compose Task-Specific Tree Structures
+1447	http://arxiv.org/abs/1708.02312v2	Shortcut-Stacked Sentence Encoders for Multi-Domain Inference
+1448	http://arxiv.org/abs/1709.04696v3	DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding
+1449	http://arxiv.org/abs/1708.01353v1	Recurrent Neural Network-Based Sentence Encoder with Gated Attention for Natural Language Inference
+1450	http://arxiv.org/abs/1605.05573v2	Modelling Interaction of Sentence Pair with coupled-LSTMs
+1451	http://arxiv.org/abs/1605.09090v1	Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention
+1452	https://www.aclweb.org/anthology/papers/P/P16/P16-1098/	Deep Fusion LSTMs for Text Semantic Matching
+1453	http://arxiv.org/abs/1509.06664v4	Reasoning about Entailment with Neural Attention
+1454	http://arxiv.org/abs/1603.06021v3	A Fast Unified Model for Parsing and Sentence Understanding
+1455	http://arxiv.org/abs/1512.08422v3	Natural Language Inference by Tree-Based Convolution and Heuristic Matching
+1456	http://arxiv.org/abs/1511.06361v6	Order-Embeddings of Images and Language
+1457	http://arxiv.org/abs/1508.05326v1	A large annotated corpus for learning natural language inference
+1458	http://arxiv.org/abs/1902.08009v1	Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks
+1459	http://arxiv.org/abs/1707.09700v2	Scene Graph Generation from Objects, Phrases and Region Captions
+1460	http://arxiv.org/abs/1807.03756v2	Latent Alignment and Variational Attention
+1461	http://arxiv.org/abs/1711.04956v5	Classical Structured Prediction Losses for Sequence to Sequence Learning
+1462	http://arxiv.org/abs/1711.01068v2	Compressing Word Embeddings via Deep Compositional Code Learning
+1463	http://arxiv.org/abs/1606.02960v2	Sequence-to-Sequence Learning as Beam-Search Optimization
+1464	http://arxiv.org/abs/1511.06732v7	Sequence Level Training with Recurrent Neural Networks
+1465	http://arxiv.org/abs/1611.01576v2	Quasi-Recurrent Neural Networks
+1466	http://arxiv.org/abs/1606.04582v6	Query-Reduction Networks for Question Answering
+1467	http://arxiv.org/abs/1612.03969v3	Tracking the World State with Recurrent Entity Networks
+1468	http://arxiv.org/abs/1607.00036v2	Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes
+1469	http://arxiv.org/abs/1503.08895v5	End-To-End Memory Networks
+1470	http://arxiv.org/abs/1710.09537v1	Rotational Unit of Memory
+1471	http://arxiv.org/abs/1706.02761v3	Gated Orthogonal Recurrent Units: On Learning to Forget
+1472	http://arxiv.org/abs/1610.09027v1	Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes
+1473	http://arxiv.org/abs/1711.08028v4	Recurrent Relational Networks
+1474	http://arxiv.org/abs/1801.08459v2	Finding ReMO (Related Memory Object): A Simple Neural Architecture for Text based Reasoning
+1475	https://arxiv.org/abs/1908.09091v3	BERT for Coreference Resolution: Baselines and Analysis
+1476	https://www.aclweb.org/anthology/papers/P/P19/P19-1066/	Coreference Resolution with Entity Equalization
+1477	https://www.aclweb.org/anthology/papers/P/P19/P19-1064/	End-to-end Deep Reinforcement Learning Based Coreference Resolution
+1478	http://arxiv.org/abs/1804.05392v1	Higher-order Coreference Resolution with Coarse-to-fine Inference
+1479	https://www.aclweb.org/anthology/papers/D/D18/D18-1518/	Learning Word Representations with Cross-Sentence Dependency for End-to-End Co-reference Resolution
+1480	http://arxiv.org/abs/1707.07045v2	End-to-end Neural Coreference Resolution
+1481	http://arxiv.org/abs/1609.08667v3	Deep Reinforcement Learning for Mention-Ranking Coreference Models
+1482	http://arxiv.org/abs/1606.01323v2	Improving Coreference Resolution by Learning Entity-Level Distributed Representations
+1483	http://arxiv.org/abs/1604.03035v1	Learning Global Features for Coreference Resolution
+1484	https://www.aclweb.org/anthology/papers/S/S16/S16-1138/	ConvKN at SemEval-2016 Task 3: Answer and Question Selection for Question Answering on Arabic and English Fora
+1485	http://arxiv.org/abs/1503.03244v1	Convolutional Neural Network Architectures for Matching Natural Language Sentences
+1486	https://www.aclweb.org/anthology/papers/S/S16/S16-1172/	KeLP at SemEval-2016 Task 3: Learning Semantic Relations between Questions and Answers
+1487	https://www.aclweb.org/anthology/papers/W/W18/W18-0524/	Context Based Approach for Second Language Acquisition
+1488	https://arxiv.org/abs/1905.02249v1	MixMatch: A Holistic Approach to Semi-Supervised Learning
+1489	http://arxiv.org/abs/1905.00135v1	Harmonic Networks with Limited Training Samples
+1490	https://arxiv.org/abs/1807.06653	Invariant Information Clustering for Unsupervised Image Classification and Segmentation
+1491	http://arxiv.org/abs/1611.06430v1	Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks
+1492	http://papers.nips.cc/paper/5086-multi-task-bayesian-optimization	Multi-Task Bayesian Optimization
+1493	http://arxiv.org/abs/1406.5947v1	Committees of deep feedforward networks trained with few data
+1494	http://arxiv.org/abs/1402.5766v1	No more meta-parameter tuning in unsupervised sparse feature learning
+1495	https://www.aclweb.org/anthology/papers/P/P17/P17-1127/	Can Syntax Help? Improving an LSTM-based Sentence Compression Model for New Domains
+1496	https://www.aclweb.org/anthology/papers/P/P18/P18-2028/	A Language Model based Evaluator for Sentence Compression
+1497	https://arxiv.org/abs/1906.00377v1	Hierarchical Video Frame Sequence Representation with Deep Convolutional Graph Network
+1498	http://arxiv.org/abs/1807.01511v1	Deep Autoencoder for Combined Human Pose Estimation and body Model Upscaling
+1499	http://arxiv.org/abs/1611.01734v3	Deep Biaffine Attention for Neural Dependency Parsing
+1500	http://arxiv.org/abs/1603.06042v2	Globally Normalized Transition-Based Neural Networks
+1501	http://arxiv.org/abs/1807.03955v2	An improved neural network model for joint POS tagging and dependency parsing
+1502	http://arxiv.org/abs/1609.07561v1	Distilling an Ensemble of Greedy Dependency Parsers into One MST Parser
+1503	http://arxiv.org/abs/1506.06158v1	Structured Training for Neural Network Transition-Based Parsing
+1504	http://arxiv.org/abs/1603.04351v3	Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations
+1505	http://arxiv.org/abs/1603.03793v2	Training with Exploration Improves a Greedy Stack-LSTM Parser
+1506	https://arxiv.org/abs/1904.00887v4	Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks
+1507	http://arxiv.org/abs/1704.02510v4	DualGAN: Unsupervised Dual Learning for Image-to-Image Translation
+1508	https://doi.org/10.4218/etrij.17.0116.0054	Extensible Hierarchical Method of Detecting Interactive Actions for Video Understanding
+1509	https://arxiv.org/abs/1703.07220v3	Improving Person Re-identification by Attribute and Identity Learning
+1510	http://arxiv.org/abs/1707.00408v1	Pedestrian Alignment Network for Large-scale Person Re-identification
+1511	http://arxiv.org/abs/1604.01850v3	Joint Detection and Identification Feature Learning for Person Search
+1512	http://arxiv.org/abs/1611.08303v2	Deep Watershed Transform for Instance Segmentation
+1513	http://arxiv.org/abs/1707.06286v1	Pose-Invariant Face Alignment with a Single CNN
+1514	https://arxiv.org/abs/1904.08755v4	4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks
+1515	http://arxiv.org/abs/1711.10275v1	3D Semantic Segmentation with Submanifold Sparse Convolutional Networks
+1516	http://arxiv.org/abs/1812.00020v2	TextureNet: Consistent Local Parametrizations for Learning from High-Resolution Signals on Meshes
+1517	http://arxiv.org/abs/1811.07246v2	PointConv: Deep Convolutional Networks on 3D Point Clouds
+1518	https://arxiv.org/abs/1903.01177v2	PanopticFusion: Online Volumetric Semantic Mapping at the Level of Stuff and Things
+1519	http://arxiv.org/abs/1803.10409v1	3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation
+1520	http://papers.nips.cc/paper/7362-pointcnn-convolution-on-x-transformed-points	PointCNN: Convolution On X-Transformed Points
+1521	http://arxiv.org/abs/1808.06840v1	Fully-Convolutional Point Networks for Large-Scale Point Clouds
+1522	http://arxiv.org/abs/1808.04952v1	Convolutional Neural Networks on 3D Surfaces Using Parallel Frames
+1523	http://arxiv.org/abs/1807.02443v1	Tangent Convolutions for Dense Prediction in 3D
+1524	http://arxiv.org/abs/1802.08275v4	SPLATNet: Sparse Lattice Networks for Point Cloud Processing
+1525	http://arxiv.org/abs/1702.04405v2	ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes
+1526	https://arxiv.org/abs/1901.11153v2	Pix2Vox: Context-aware 3D Reconstruction from Single and Multi-view Images
+1527	https://arxiv.org/abs/1808.00758v2	Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction
+1528	http://arxiv.org/abs/1612.00603v2	A Point Set Generation Network for 3D Object Reconstruction from a Single Image
+1529	http://arxiv.org/abs/1703.09438v3	Octree Generating Networks: Efficient Convolutional Architectures for High-resolution 3D Outputs
+1530	http://arxiv.org/abs/1604.00449v1	3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction
+1531	http://arxiv.org/abs/1709.09994v1	Premise Selection for Theorem Proving by Deep Graph Embedding
+1532	http://arxiv.org/abs/1703.00426v1	HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving
+1533	https://arxiv.org/abs/1812.06164v2	Inverse Cooking: Recipe Generation from Food Images
+1534	https://arxiv.org/abs/1902.06871	Predicting city safety perception based on visual image content
+1535	http://arxiv.org/abs/1611.06639v1	Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling
+1536	http://arxiv.org/abs/1504.01106v5	Discriminative Neural Sentence Modeling by Tree-Based Convolution
+1537	http://arxiv.org/abs/1704.07221v1	Turing at SemEval-2017 Task 8: Sequential Approach to Rumour Stance Classification with Branch-LSTM
+1538	https://www.aclweb.org/anthology/papers/S/S17/S17-2080/	UWaterloo at SemEval-2017 Task 8: Detecting Stance towards Rumours with Topic Independent Features
+1539	https://arxiv.org/abs/1905.04847v1	Synchronous Bidirectional Neural Machine Translation
+1540	http://arxiv.org/abs/1811.08541v1	Neural Machine Translation with Adequacy-Oriented Learning
+1541	http://arxiv.org/abs/1807.03819v3	Universal Transformers
+1542	https://arxiv.org/abs/1906.01604v1	KERMIT: Generative Insertion-Based Modeling for Sequences
+1543	http://arxiv.org/abs/1706.03059v2	Depthwise Separable Convolutions for Neural Machine Translation
+1544	http://arxiv.org/abs/1806.00722v2	Dense Information Flow for Neural Machine Translation
+1545	http://arxiv.org/abs/1812.01207v1	Practical Text Classification With Large Pre-Trained Language Models
+1546	https://www.aclweb.org/anthology/papers/P/P18/P18-1235/	A Helping Hand: Transfer Learning for Deep Sentiment Analysis
+1547	https://openreview.net/forum?id=rJedV3R5tm	RelGAN: Relational Generative Adversarial Networks for Text Generation
+1548	http://arxiv.org/abs/1804.07461v3	GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding
+1549	https://arxiv.org/abs/1811.12817v2	Practical Full Resolution Learned Lossless Image Compression
+1550	http://arxiv.org/abs/1711.04436v1	SQLNet: Generating Structured Queries From Natural Language Without Reinforcement Learning
+1551	https://arxiv.org/abs/1905.04132v2	Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses
+1552	http://arxiv.org/abs/1604.02129v2	Horizon Lines in the Wild
+1553	http://arxiv.org/abs/1809.08887v5	Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task
+1554	http://arxiv.org/abs/1707.07998v3	Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering
+1555	http://arxiv.org/abs/1705.08415v5	Supervised Community Detection with Line Graph Neural Networks
+1556	https://www.kdd.org/kdd2017/papers/view/ego-splitting-framework-from-non-overlapping-to-overlapping-clusters	Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters
+1557	https://arxiv.org/abs/1904.07094v3	CEDR: Contextualized Embeddings for Document Ranking
+1558	https://arxiv.org/abs/1905.09217v1	Deeper Text Understanding for IR with Contextual Neural Language Modeling
+1559	http://arxiv.org/abs/1809.01682v2	Deep Relevance Ranking Using Enhanced Document-Query Interactions
+1560	http://arxiv.org/abs/1810.12936v1	NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval
+1561	https://dl.acm.org/citation.cfm?id=3271800	From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing
+1562	http://arxiv.org/abs/1711.08611v1	A Deep Relevance Matching Model for Ad-hoc Retrieval
+1563	http://arxiv.org/abs/1903.10972v1	Simple Applications of BERT for Ad Hoc Document Retrieval
+1564	https://dl.acm.org/citation.cfm?id=3308781	The Neural Hype and Comparisons Against Weak Baselines
+1565	http://arxiv.org/abs/1704.08803v2	Neural Ranking Models with Weak Supervision
+1566	http://arxiv.org/abs/1803.00130v1	Ring loss: Convex Feature Normalization for Face Recognition
+1567	https://arxiv.org/abs/1406.4773v1	Deep Learning Face Representation by Joint Identification-Verification
+1568	https://arxiv.org/abs/1404.3840v3	Surpassing Human-Level Face Verification Performance on LFW with GaussianFace
+1569	https://arxiv.org/abs/1906.05264v2	GluonTS: Probabilistic Time Series Models in Python
+1570	http://arxiv.org/abs/1811.11374v1	A Deep Cascade Model for Multi-Document Reading Comprehension
+1571	http://arxiv.org/abs/1805.02220v2	Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification
+1572	http://arxiv.org/abs/1811.01602v1	Continual Occlusions and Optical Flow Estimation
+1573	https://www.aclweb.org/anthology/papers/S/S18/S18-1148/	NLP\_HZ at SemEval-2018 Task 9: a Nearest Neighbor Approach
+1574	https://www.aclweb.org/anthology/papers/S/S18/S18-1146/	Apollo at SemEval-2018 Task 9: Detecting Hypernymy Relations Using Syntactic Dependencies
+1575	https://arxiv.org/abs/1812.10775v2	3D Point Capsule Networks
+1576	https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Wang_A_Hierarchical_Context_2014_CVPR_paper.html	A Hierarchical Context Model for Event Recognition in Surveillance Video
+1577	https://arxiv.org/abs/1907.03907v1	Latent ODEs for Irregularly-Sampled Time Series
+1578	http://arxiv.org/abs/1606.01865v2	Recurrent Neural Networks for Multivariate Time Series with Missing Values
+1579	http://arxiv.org/abs/1603.09025v5	Recurrent Batch Normalization
+1580	https://arxiv.org/abs/1906.00121v1	Graph WaveNet for Deep Spatial-Temporal Graph Modeling
+1581	http://arxiv.org/abs/1704.04565v2	Neural Paraphrase Identification of Questions with Noisy Pretraining
+1582	https://www.aclweb.org/anthology/papers/W/W17/W17-4737/	Tilde's Machine Translation Systems for WMT 2017
+1583	http://arxiv.org/abs/1710.03743v1	Confidence through Attention
+1584	http://arxiv.org/abs/1808.02733v1	Debugging Neural Machine Translations
+1585	http://arxiv.org/abs/1808.00157v1	Instance-level Human Parsing via Part Grouping Network
+1586	http://arxiv.org/abs/1606.03976v5	Estimating individual treatment effect: generalization bounds and algorithms
+1587	http://arxiv.org/abs/1705.05952v2	A Novel Neural Network Model for Joint POS Tagging and Graph-based Dependency Parsing
+1588	https://arxiv.org/abs/1907.10628v1	Curriculum based Dropout Discriminator for Domain Adaptation
+1589	http://openaccess.thecvf.com/content_iccv_2017/html/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.html	SubUNets: End-To-End Hand Shape and Continuous Sign Language Recognition
+1590	http://arxiv.org/abs/1611.01587v5	A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks
+1591	https://arxiv.org/abs/1805.06939v2	Event2Mind: Commonsense Inference on Events, Intents, and Reactions
+1592	http://arxiv.org/abs/1811.11524v2	Multi-granularity Generator for Temporal Action Proposal
+1593	https://arxiv.org/abs/1906.02182v1	Two-Stream Region Convolutional 3D Network for Temporal Activity Detection
+1594	http://arxiv.org/abs/1704.06228v2	Temporal Action Detection with Structured Segment Networks
+1595	http://arxiv.org/abs/1904.01949v1	Automatic Diagnosis of the Short-Duration 12-Lead ECG using a Deep Neural Network: the CODE Study
+1596	http://arxiv.org/abs/1811.10092v2	Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation
+1597	http://arxiv.org/abs/1903.02547v2	Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation

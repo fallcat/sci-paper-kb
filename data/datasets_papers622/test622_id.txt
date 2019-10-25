@@ -1,0 +1,1023 @@
+Protein Secondary Structure Prediction	CullPDB	Protein secondary structure prediction using deep convolutional neural fields	http://arxiv.org/abs/1512.00843v3	1003
+Semantic Segmentation	PASCAL VOC 2012	Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation	http://arxiv.org/abs/1802.02611v3	0012
+Semantic Segmentation	PASCAL VOC 2012	ExFuse: Enhancing Feature Fusion for Semantic Segmentation	http://arxiv.org/abs/1804.03821v1	0013
+Semantic Segmentation	PASCAL VOC 2012	Searching for Efficient Multi-Scale Architectures for Dense Image Prediction	http://arxiv.org/abs/1809.04184v1	0014
+Semantic Segmentation	PASCAL VOC 2012	Rethinking Atrous Convolution for Semantic Image Segmentation	http://arxiv.org/abs/1706.05587v3	0015
+Semantic Segmentation	PASCAL VOC 2012	Learning a Discriminative Feature Network for Semantic Segmentation	http://arxiv.org/abs/1804.09337v1	0016
+Semantic Segmentation	PASCAL VOC 2012	Squeeze-and-Attention Networks for Semantic Segmentation	https://arxiv.org/abs/1909.03402v2	0017
+Semantic Segmentation	PASCAL VOC 2012	Context Encoding for Semantic Segmentation	http://arxiv.org/abs/1803.08904v1	0018
+Semantic Segmentation	PASCAL VOC 2012	Pyramid Scene Parsing Network	http://arxiv.org/abs/1612.01105v2	0019
+Semantic Segmentation	PASCAL VOC 2012	Wider or Deeper: Revisiting the ResNet Model for Visual Recognition	http://arxiv.org/abs/1611.10080v1	0020
+Semantic Segmentation	PASCAL VOC 2012	RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation	http://arxiv.org/abs/1611.06612v3	0021
+Semantic Segmentation	PASCAL VOC 2012	ShelfNet for Fast Semantic Segmentation	https://arxiv.org/abs/1811.11254v6	0022
+Semantic Segmentation	PASCAL VOC 2012	Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network	http://arxiv.org/abs/1703.02719v1	0023
+Semantic Segmentation	PASCAL VOC 2012	Squeeze-and-Attention Networks for Semantic Segmentation	https://arxiv.org/abs/1909.03402v2	0017
+Semantic Segmentation	PASCAL VOC 2012	Understanding Convolution for Semantic Segmentation	http://arxiv.org/abs/1702.08502v3	0024
+Semantic Segmentation	PASCAL VOC 2012	DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs	http://arxiv.org/abs/1606.00915v2	0025
+Semantic Segmentation	PASCAL VOC 2012	The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks	http://arxiv.org/abs/1705.08790v2	0026
+Semantic Segmentation	PASCAL VOC 2012	The Lovász-Softmax Loss: A Tractable Surrogate for the Optimization of the Intersection-Over-Union Measure in Neural Networks	https://ieeexplore.ieee.org/document/8578562	0027
+Semantic Segmentation	PASCAL VOC 2012	Revisiting Unreasonable Effectiveness of Data in Deep Learning Era	http://arxiv.org/abs/1707.02968v2	0028
+Semantic Segmentation	PASCAL VOC 2012	Conditional Random Fields as Recurrent Neural Networks	http://arxiv.org/abs/1502.03240v3	0029
+Semantic Segmentation	PASCAL VOC 2012	Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs	http://arxiv.org/abs/1412.7062v4	0030
+Semantic Segmentation	PASCAL VOC 2012	ParseNet: Looking Wider to See Better	http://arxiv.org/abs/1506.04579v2	0031
+Semantic Segmentation	PASCAL VOC 2012	Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation	http://arxiv.org/abs/1707.08254v3	0032
+Semantic Segmentation	PASCAL VOC 2012	ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network	http://arxiv.org/abs/1811.11431v3	0033
+Semantic Segmentation	PASCAL VOC 2012	Multi-Scale Context Aggregation by Dilated Convolutions	http://arxiv.org/abs/1511.07122v3	0034
+Semantic Segmentation	PASCAL VOC 2012	Fully Convolutional Networks for Semantic Segmentation	http://arxiv.org/abs/1605.06211v1	0035
+Semantic Segmentation	PASCAL VOC 2012	ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation	http://arxiv.org/abs/1803.06815v3	0036
+Image-to-Image Translation	SYNTHIA Fall-to-Winter	CyCADA: Cycle-Consistent Adversarial Domain Adaptation	http://arxiv.org/abs/1711.03213v3	0976
+Image-to-Image Translation	SYNTHIA Fall-to-Winter	FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation	http://arxiv.org/abs/1612.02649v1	0897
+Community Detection	Amazon	Supervised Community Detection with Line Graph Neural Networks	http://arxiv.org/abs/1705.08415v5	1555
+Community Detection	Amazon	Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters	https://www.kdd.org/kdd2017/papers/view/ego-splitting-framework-from-non-overlapping-to-overlapping-clusters	1556
+Image-to-Image Translation	Aerial-to-Map	Image-to-Image Translation with Conditional Adversarial Networks	http://arxiv.org/abs/1611.07004v3	0817
+Image-to-Image Translation	Aerial-to-Map	DualGAN: Unsupervised Dual Learning for Image-to-Image Translation	http://arxiv.org/abs/1704.02510v4	1507
+Pose Estimation	HANDS 2017	A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image	https://arxiv.org/abs/1908.09999v1	0305
+Speech Enhancement	TCD-TIMIT corpus (mixed-speech)	Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments	https://arxiv.org/abs/1811.02480v3	0600
+Machine Translation	IWSLT2015 Thai-English	Sequence-Level Knowledge Distillation	http://arxiv.org/abs/1606.07947v4	0414
+Common Sense Reasoning	Visual Dialog v1.0	Probabilistic framework for solving Visual Dialog	https://arxiv.org/abs/1909.04800v1	0660
+Graph Classification	NCI-83	Graph Classification using Structural Attention	https://www.kdd.org/kdd2018/accepted-papers/view/graph-classification-using-structural-attention	0798
+Birds Eye View Object Detection	KITTI Pedestrians Moderate	PointPillars: Fast Encoders for Object Detection from Point Clouds	https://arxiv.org/abs/1812.05784v2	0098
+Atari Games	Atari 2600 Ms. Pacman	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Ms. Pacman	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Ms. Pacman	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Ms. Pacman	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	Atari 2600 Ms. Pacman	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	Atari 2600 Ms. Pacman	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Ms. Pacman	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Ms. Pacman	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	Atari 2600 Ms. Pacman	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Ms. Pacman	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Ms. Pacman	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Ms. Pacman	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	Atari 2600 Ms. Pacman	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	Atari 2600 Ms. Pacman	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Ms. Pacman	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Ms. Pacman	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Ms. Pacman	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Ms. Pacman	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Ms. Pacman	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Query Wellformedness	Query Wellformedness	Identifying Well-formed Natural Language Questions	http://arxiv.org/abs/1808.09419v1	0617
+Atari Games	Atari 2600 Crazy Climber	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	Atari 2600 Crazy Climber	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Crazy Climber	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Crazy Climber	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Crazy Climber	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Crazy Climber	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Crazy Climber	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	Atari 2600 Crazy Climber	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Crazy Climber	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Crazy Climber	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Crazy Climber	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	Atari 2600 Crazy Climber	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Crazy Climber	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Crazy Climber	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Crazy Climber	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Crazy Climber	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Crazy Climber	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Crazy Climber	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	Atari 2600 Crazy Climber	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	Atari 2600 Crazy Climber	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+3D Multi-person Pose Estimation (absolute)	MuPoTS-3D	Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image	https://arxiv.org/abs/1907.11346	1038
+Machine Translation	IWSLT2014 German-English	Joint Source-Target Self Attention with Locality Constraints	https://arxiv.org/abs/1905.06596v1	0638
+3D Human Pose Estimation	MPI-INF-3DHP	3D Human Pose Estimation with 2D Marginal Heatmaps	http://arxiv.org/abs/1806.01484v2	0244
+3D Human Pose Estimation	MPI-INF-3DHP	3D Human Pose Estimation with 2D Marginal Heatmaps	http://arxiv.org/abs/1806.01484v2	0244
+3D Human Pose Estimation	MPI-INF-3DHP	3D Human Pose Estimation with 2D Marginal Heatmaps	http://arxiv.org/abs/1806.01484v2	0244
+3D Human Pose Estimation	MPI-INF-3DHP	3D Human Pose Estimation with 2D Marginal Heatmaps	http://arxiv.org/abs/1806.01484v2	0244
+3D Human Pose Estimation	MPI-INF-3DHP	XNect: Real-time Multi-person 3D Human Pose Estimation with a Single RGB Camera	https://arxiv.org/abs/1907.00837v1	0245
+3D Human Pose Estimation	MPI-INF-3DHP	RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation	http://arxiv.org/abs/1902.09868v2	0246
+3D Human Pose Estimation	MPI-INF-3DHP	RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation	http://arxiv.org/abs/1902.09868v2	0246
+3D Human Pose Estimation	MPI-INF-3DHP	VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera	http://arxiv.org/abs/1705.01583v1	0247
+3D Human Pose Estimation	MPI-INF-3DHP	Unsupervised 3D Pose Estimation with Geometric Self-Supervision	http://arxiv.org/abs/1904.04812v1	0248
+Atari Games	Atari 2600 Zaxxon	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Zaxxon	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Zaxxon	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Zaxxon	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	Atari 2600 Zaxxon	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Zaxxon	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Zaxxon	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	Atari 2600 Zaxxon	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Zaxxon	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	Atari 2600 Zaxxon	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Zaxxon	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Zaxxon	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Zaxxon	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Zaxxon	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Zaxxon	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	Atari 2600 Zaxxon	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	Atari 2600 Zaxxon	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Zaxxon	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Zaxxon	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	Atari 2600 Zaxxon	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Machine Translation	WMT2014 German-English	FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow	https://arxiv.org/abs/1909.02480v1	0138
+Machine Translation	WMT2014 German-English	FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow	https://arxiv.org/abs/1909.02480v1	0138
+Machine Translation	WMT2014 German-English	FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow	https://arxiv.org/abs/1909.02480v1	0138
+Machine Translation	WMT2014 German-English	Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement	http://arxiv.org/abs/1802.06901v3	0141
+Machine Translation	WMT2014 German-English	FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow	https://arxiv.org/abs/1909.02480v1	0138
+Machine Translation	WMT2014 German-English	FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow	https://arxiv.org/abs/1909.02480v1	0138
+Machine Translation	WMT2014 German-English	Non-Autoregressive Neural Machine Translation	http://arxiv.org/abs/1711.02281v2	0140
+Machine Translation	WMT2014 German-English	Unsupervised Statistical Machine Translation	http://arxiv.org/abs/1809.01272v1	0261
+Action Recognition In Videos	HMDB-51	Hallucinating IDT Descriptors and I3D Optical Flow Features for Action Recognition with CNNs	https://arxiv.org/abs/1906.05910v2	1249
+Action Recognition In Videos	HMDB-51	Cooperative Cross-Stream Network for Discriminative Action Representation	https://arxiv.org/abs/1908.10136v1	0824
+Action Recognition In Videos	HMDB-51	Contextual Action Cues from Camera Sensor for Multi-Stream Action Recognition	https://doi.org/10.3390/s19061382	0823
+Action Recognition In Videos	HMDB-51	MARS: Motion-Augmented RGB Stream for Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html	0396
+Action Recognition In Videos	HMDB-51	Holistic Large Scale Video Understanding	http://arxiv.org/abs/1904.11451v1	0627
+Action Recognition In Videos	HMDB-51	FASTER Recurrent Networks for Efficient Video Classification	https://arxiv.org/abs/1906.04226v2	0629
+Action Recognition In Videos	HMDB-51	Learning Discriminative Video Representations Using Adversarial Perturbations	http://arxiv.org/abs/1807.09380v2	1250
+Action Recognition In Videos	HMDB-51	Spatiotemporal Multiplier Networks for Video Action Recognition	http://openaccess.thecvf.com/content_cvpr_2017/html/Feichtenhofer_Spatiotemporal_Multiplier_Networks_CVPR_2017_paper.html	1251
+Action Recognition In Videos	HMDB-51	STM: SpatioTemporal and Motion Encoding for Action Recognition	https://arxiv.org/abs/1908.02486v2	0241
+Action Recognition In Videos	HMDB-51	Paying More Attention to Motion: Attention Distillation for Learning Video Representations	http://arxiv.org/abs/1904.03249v1	0825
+Action Recognition In Videos	HMDB-51	Hierarchical Feature Aggregation Networks for Video Action Recognition	https://arxiv.org/abs/1905.12462v1	1252
+Action Recognition In Videos	HMDB-51	R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition	https://doi.org/10.1109/ACCESS.2019.2923651	0828
+Action Recognition In Videos	HMDB-51	SUSiNet: See, Understand and Summarize it	http://arxiv.org/abs/1812.00722v2	1253
+Action Recognition In Videos	HMDB-51	R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition	https://doi.org/10.1109/ACCESS.2019.2923651	0828
+Action Recognition In Videos	HMDB-51	DistInit: Learning Video Representations Without a Single Labeled Video	https://arxiv.org/abs/1901.09244v2	0831
+Action Recognition In Videos	HMDB-51	Towards Universal Representation for Unseen Action Recognition	http://arxiv.org/abs/1803.08460v1	0417
+Action Recognition In Videos	HMDB-51	Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics	http://arxiv.org/abs/1904.03597v1	0832
+Node Classification	Amazon2M	Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks	https://arxiv.org/abs/1905.07953v2	0250
+Participant Intervention Comparison Outcome Extraction	EBM-NLP	SciBERT: A Pretrained Language Model for Scientific Text	https://arxiv.org/abs/1903.10676v3	0293
+Participant Intervention Comparison Outcome Extraction	EBM-NLP	SciBERT: A Pretrained Language Model for Scientific Text	https://arxiv.org/abs/1903.10676v3	0293
+Participant Intervention Comparison Outcome Extraction	EBM-NLP	A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature	http://arxiv.org/abs/1806.04185v1	1333
+Image Denoising	Urban100 sigma30	Residual Dense Network for Image Restoration	http://arxiv.org/abs/1812.10477v1	0151
+Image Denoising	Urban100 sigma30	Neural Nearest Neighbors Networks	http://arxiv.org/abs/1810.12575v1	0295
+Dependency Parsing	GENIA - LAS	From POS tagging to dependency parsing for biomedical event extraction	http://arxiv.org/abs/1808.03731v2	0292
+Dependency Parsing	GENIA - LAS	SciBERT: A Pretrained Language Model for Scientific Text	https://arxiv.org/abs/1903.10676v3	0293
+Dependency Parsing	GENIA - LAS	SciBERT: A Pretrained Language Model for Scientific Text	https://arxiv.org/abs/1903.10676v3	0293
+Instance Segmentation	Cityscapes	Mask R-CNN	http://arxiv.org/abs/1703.06870v3	0065
+Instance Segmentation	Cityscapes	Mask R-CNN	http://arxiv.org/abs/1703.06870v3	0065
+Instance Segmentation	Cityscapes	Deep Watershed Transform for Instance Segmentation	http://arxiv.org/abs/1611.08303v2	1512
+Question Answering	QASent	Neural Variational Inference for Text Processing	http://arxiv.org/abs/1511.06038v4	1134
+Question Answering	QASent	Neural Variational Inference for Text Processing	http://arxiv.org/abs/1511.06038v4	1134
+Question Answering	QASent	Deep Learning for Answer Sentence Selection	http://arxiv.org/abs/1412.1632v1	1135
+Question Answering	QASent	Distributed Representations of Sentences and Documents	http://arxiv.org/abs/1405.4053v2	1136
+Question Answering	QASent	Neural Variational Inference for Text Processing	http://arxiv.org/abs/1511.06038v4	1134
+Question Answering	QASent	Deep Learning for Answer Sentence Selection	http://arxiv.org/abs/1412.1632v1	1135
+Question Answering	QASent	Distributed Representations of Sentences and Documents	http://arxiv.org/abs/1405.4053v2	1136
+Dependency Parsing	GENIA - UAS	From POS tagging to dependency parsing for biomedical event extraction	http://arxiv.org/abs/1808.03731v2	0292
+Dependency Parsing	GENIA - UAS	SciBERT: A Pretrained Language Model for Scientific Text	https://arxiv.org/abs/1903.10676v3	0293
+Dependency Parsing	GENIA - UAS	SciBERT: A Pretrained Language Model for Scientific Text	https://arxiv.org/abs/1903.10676v3	0293
+Common Sense Reasoning	Event2Mind	Event2Mind: Commonsense Inference on Events, Intents, and Reactions	https://arxiv.org/abs/1805.06939v2	1591
+Common Sense Reasoning	Event2Mind	Event2Mind: Commonsense Inference on Events, Intents, and Reactions	https://arxiv.org/abs/1805.06939v2	1591
+Relation Extraction	ACE 2004	A General Framework for Information Extraction using Dynamic Span Graphs	http://arxiv.org/abs/1904.03296v1	1305
+Relation Extraction	ACE 2004	Entity-Relation Extraction as Multi-Turn Question Answering	https://arxiv.org/abs/1905.05529v4	0834
+Relation Extraction	ACE 2004	End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures	http://arxiv.org/abs/1601.00770v3	1306
+Relation Extraction	ACE 2004	Adversarial training for multi-context joint entity and relation extraction	http://arxiv.org/abs/1808.06876v3	0777
+Relation Extraction	ACE 2004	Joint entity recognition and relation extraction as a multi-head selection problem	http://arxiv.org/abs/1804.07847v3	0778
+Relation Extraction	ACE 2004	Going out on a limb: Joint Extraction of Entity Mentions and Relations without Dependency Trees	https://www.aclweb.org/anthology/papers/P/P17/P17-1085/	1307
+Relation Extraction	ACE 2004	Incremental Joint Extraction of Entity Mentions and Relations	https://www.aclweb.org/anthology/papers/P/P14/P14-1038/	1308
+Node Classification	PubMed (0.1%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	PubMed (0.1%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	PubMed (0.1%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	PubMed (0.1%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	PubMed (0.1%)	LanczosNet: Multi-Scale Deep Graph Convolutional Networks	http://arxiv.org/abs/1901.01484v1	0221
+Node Classification	PubMed (0.1%)	Diffusion-Convolutional Neural Networks	http://arxiv.org/abs/1511.02136v6	0222
+Node Classification	PubMed (0.1%)	Semi-Supervised Classification with Graph Convolutional Networks	http://arxiv.org/abs/1609.02907v4	0120
+Node Classification	PubMed (0.1%)	LanczosNet: Multi-Scale Deep Graph Convolutional Networks	http://arxiv.org/abs/1901.01484v1	0221
+Node Classification	PubMed (0.1%)	Gated Graph Sequence Neural Networks	http://arxiv.org/abs/1511.05493v4	0223
+Node Classification	PubMed (0.1%)	Convolutional Networks on Graphs for Learning Molecular Fingerprints	http://arxiv.org/abs/1509.09292v2	0224
+Node Classification	PubMed (0.1%)	Neural Message Passing for Quantum Chemistry	http://arxiv.org/abs/1704.01212v2	0225
+Node Classification	PubMed (0.1%)	Inductive Representation Learning on Large Graphs	http://arxiv.org/abs/1706.02216v4	0226
+Node Classification	PubMed (0.1%)	Graph Attention Networks	http://arxiv.org/abs/1710.10903v3	0111
+Node Classification	PubMed (0.1%)	Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering	http://arxiv.org/abs/1606.09375v3	0122
+Community Detection	Facebook Artists	GEMSEC: Graph Embedding with Self Clustering	https://arxiv.org/abs/1802.03997	0301
+Named Entity Recognition	NCBI-disease	BioFLAIR: Pretrained Pooled Contextualized Embeddings for Biomedical Sequence Labeling Tasks	https://arxiv.org/abs/1908.05760v1	0327
+Named Entity Recognition	NCBI-disease	SciBERT: A Pretrained Language Model for Scientific Text	https://arxiv.org/abs/1903.10676v3	0293
+Named Entity Recognition	NCBI-disease	SciBERT: A Pretrained Language Model for Scientific Text	https://arxiv.org/abs/1903.10676v3	0293
+Object Localization	KITTI Pedestrians Easy	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Object Localization	KITTI Pedestrians Easy	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Click-Through Rate Prediction	Dianping	xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems	http://arxiv.org/abs/1803.05170v3	0500
+Click-Through Rate Prediction	Dianping	DeepFM: A Factorization-Machine based Neural Network for CTR Prediction	http://arxiv.org/abs/1703.04247v1	0501
+Click-Through Rate Prediction	Dianping	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	Dianping	Wide & Deep Learning for Recommender Systems	http://arxiv.org/abs/1606.07792v1	0503
+Node Classification	PubMed (0.05%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	PubMed (0.05%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	PubMed (0.05%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	PubMed (0.05%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	PubMed (0.05%)	LanczosNet: Multi-Scale Deep Graph Convolutional Networks	http://arxiv.org/abs/1901.01484v1	0221
+Node Classification	PubMed (0.05%)	Diffusion-Convolutional Neural Networks	http://arxiv.org/abs/1511.02136v6	0222
+Node Classification	PubMed (0.05%)	LanczosNet: Multi-Scale Deep Graph Convolutional Networks	http://arxiv.org/abs/1901.01484v1	0221
+Node Classification	PubMed (0.05%)	Semi-Supervised Classification with Graph Convolutional Networks	http://arxiv.org/abs/1609.02907v4	0120
+Node Classification	PubMed (0.05%)	Gated Graph Sequence Neural Networks	http://arxiv.org/abs/1511.05493v4	0223
+Node Classification	PubMed (0.05%)	Convolutional Networks on Graphs for Learning Molecular Fingerprints	http://arxiv.org/abs/1509.09292v2	0224
+Node Classification	PubMed (0.05%)	Neural Message Passing for Quantum Chemistry	http://arxiv.org/abs/1704.01212v2	0225
+Node Classification	PubMed (0.05%)	Inductive Representation Learning on Large Graphs	http://arxiv.org/abs/1706.02216v4	0226
+Node Classification	PubMed (0.05%)	Graph Attention Networks	http://arxiv.org/abs/1710.10903v3	0111
+Node Classification	PubMed (0.05%)	Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering	http://arxiv.org/abs/1606.09375v3	0122
+Part-Of-Speech Tagging	Penn Treebank	Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings	http://arxiv.org/abs/1805.08237v1	0955
+Part-Of-Speech Tagging	Penn Treebank	Contextual String Embeddings for Sequence Labeling	https://www.aclweb.org/anthology/papers/C/C18/C18-1139/	0578
+Part-Of-Speech Tagging	Penn Treebank	Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation	http://arxiv.org/abs/1508.02096v2	0956
+Part-Of-Speech Tagging	Penn Treebank	Hierarchically-Refined Label Attention Network for Sequence Labeling	https://arxiv.org/abs/1908.08676v2	0713
+Part-Of-Speech Tagging	Penn Treebank	Robust Multilingual Part-of-Speech Tagging via Adversarial Training	http://arxiv.org/abs/1711.04903v2	0957
+Part-Of-Speech Tagging	Penn Treebank	Learning Better Internal Structure of Words for Sequence Labeling	http://arxiv.org/abs/1810.12443v1	0587
+Part-Of-Speech Tagging	Penn Treebank	Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks	http://arxiv.org/abs/1703.06345v1	0591
+Part-Of-Speech Tagging	Penn Treebank	End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF	http://arxiv.org/abs/1603.01354v5	0593
+Part-Of-Speech Tagging	Penn Treebank	Sentence-State LSTM for Text Representation	http://arxiv.org/abs/1805.02474v1	0010
+Part-Of-Speech Tagging	Penn Treebank	Empower Sequence Labeling with Task-Aware Neural Language Model	http://arxiv.org/abs/1709.04109v4	0592
+Part-Of-Speech Tagging	Penn Treebank	NCRF++: An Open-source Neural Sequence Labeling Toolkit	http://arxiv.org/abs/1806.05626v2	0958
+Part-Of-Speech Tagging	Penn Treebank	Semi-supervised Multitask Learning for Sequence Labeling	http://arxiv.org/abs/1704.07156v1	0959
+Part-Of-Speech Tagging	Penn Treebank	Supertagging With LSTMs	https://www.aclweb.org/anthology/papers/N/N16/N16-1027/	0714
+Part-Of-Speech Tagging	Penn Treebank	Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation	http://arxiv.org/abs/1508.02096v2	0956
+Part-Of-Speech Tagging	Penn Treebank	Attending to Characters in Neural Sequence Labeling Models	http://arxiv.org/abs/1611.04361v1	0960
+Part-Of-Speech Tagging	Penn Treebank	Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss	http://arxiv.org/abs/1604.05529v3	0961
+Image Retrieval	Par106k	Efficient Image Retrieval via Decoupling Diffusion into Online and Offline Processing	http://arxiv.org/abs/1811.10907v2	0613
+Image Retrieval	Par106k	Large-Scale Image Retrieval with Attentive Deep Local Features	http://arxiv.org/abs/1612.06321v4	0614
+Image Retrieval	Par106k	Deep Image Retrieval: Learning global representations for image search	http://arxiv.org/abs/1604.01325v2	0615
+Image Retrieval	Par106k	Large-Scale Image Retrieval with Attentive Deep Local Features	http://arxiv.org/abs/1612.06321v4	0614
+Image Retrieval	Par106k	CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples	http://arxiv.org/abs/1604.02426v3	0616
+Link Sign Prediction	Epinions	Signed Graph Convolutional Network	https://arxiv.org/abs/1808.06354	0920
+Semantic Role Labeling	CoNLL 2005	A Span Selection Model for Semantic Role Labeling	http://arxiv.org/abs/1810.02245v1	0433
+Semantic Role Labeling	CoNLL 2005	Dependency or Span, End-to-End Uniform Semantic Role Labeling	http://arxiv.org/abs/1901.05280v1	0434
+Semantic Role Labeling	CoNLL 2005	A Span Selection Model for Semantic Role Labeling	http://arxiv.org/abs/1810.02245v1	0433
+Semantic Role Labeling	CoNLL 2005	Linguistically-Informed Self-Attention for Semantic Role Labeling	http://arxiv.org/abs/1804.08199v3	0435
+Adversarial Defense	ImageNet	Feature Denoising for Improving Adversarial Robustness	http://arxiv.org/abs/1812.03411v2	0042
+Entity Disambiguation	AQUAINT	Pre-training of Deep Contextualized Embeddings of Words and Entities for Named Entity Disambiguation	https://arxiv.org/abs/1909.00426v1	0082
+Entity Disambiguation	AQUAINT	Deep Joint Entity Disambiguation with Local Neural Attention	http://arxiv.org/abs/1704.04920v3	0083
+Action Recognition In Videos	NTU RGB+D 120	SkeleMotion: A New Representation of Skeleton Joint Sequences Based on Motion Information for 3D Action Recognition	https://arxiv.org/abs/1907.13025v1	1313
+Subjectivity Analysis	SUBJ	Self-Adaptive Hierarchical Sentence Model	http://arxiv.org/abs/1504.05070v2	0657
+Subjectivity Analysis	SUBJ	Translations as Additional Contexts for Sentence Classification	http://arxiv.org/abs/1806.05516v1	0658
+Subjectivity Analysis	SUBJ	Learning to Generate Reviews and Discovering Sentiment	http://arxiv.org/abs/1704.01444v2	0659
+Subjectivity Analysis	SUBJ	Universal Sentence Encoder	http://arxiv.org/abs/1803.11175v2	0005
+Subjectivity Analysis	SUBJ	Investigating Capsule Networks with Dynamic Routing for Text Classification	http://arxiv.org/abs/1804.00538v4	0003
+Subjectivity Analysis	SUBJ	Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms	http://arxiv.org/abs/1805.09843v1	0007
+Subjectivity Analysis	SUBJ	All-but-the-Top: Simple and Effective Postprocessing for Word Representations	http://arxiv.org/abs/1702.01417v2	0006
+Sentiment Analysis	MPQA	Universal Sentence Encoder	http://arxiv.org/abs/1803.11175v2	0005
+Graph Classification	IPC-grounded	Semi-Supervised Classification with Graph Convolutional Networks	http://arxiv.org/abs/1609.02907v4	0120
+Graph Classification	IPC-grounded	Gated Graph Sequence Neural Networks	http://arxiv.org/abs/1511.05493v4	0223
+Graph Classification	IPC-grounded	IPC: A Benchmark Data Set for Learning with Graph-Structured Data	https://arxiv.org/abs/1905.06393v1	0652
+Scene Text Detection	MSRA-TD500	Character Region Awareness for Text Detection	http://arxiv.org/abs/1904.01941v1	0135
+Scene Text Detection	MSRA-TD500	Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation	http://arxiv.org/abs/1802.08948v2	0041
+Scene Text Detection	MSRA-TD500	PixelLink: Detecting Scene Text via Instance Segmentation	http://arxiv.org/abs/1801.01315v1	0136
+Scene Text Detection	MSRA-TD500	Rotation-Sensitive Regression for Oriented Scene Text Detection	http://arxiv.org/abs/1803.05265v1	0137
+Semantic Parsing	spider	Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task	http://arxiv.org/abs/1809.08887v5	1553
+Game of Shogi	ELO Ratings	Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm	http://arxiv.org/abs/1712.01815v1	1109
+Seizure Detection	CHB-MIT	EEG Signal Dimensionality Reduction and Classification using Tensor Decomposition and Deep Convolutional Neural Networks	https://arxiv.org/abs/1908.10432	0601
+Image Denoising	Urban100 sigma70	Residual Dense Network for Image Restoration	http://arxiv.org/abs/1812.10477v1	0151
+Image Denoising	Urban100 sigma70	Neural Nearest Neighbors Networks	http://arxiv.org/abs/1810.12575v1	0295
+Image Denoising	Urban100 sigma70	Image Restoration Using Convolutional Auto-encoders with Symmetric Skip Connections	http://arxiv.org/abs/1606.08921v3	0450
+Image Denoising	Urban100 sigma70	Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising	http://arxiv.org/abs/1608.03981v1	0152
+Atari Games	Atari 2600 Boxing	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Boxing	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Boxing	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	Atari 2600 Boxing	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Boxing	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	Atari 2600 Boxing	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Boxing	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	Atari 2600 Boxing	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Boxing	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Boxing	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Boxing	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Boxing	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	Atari 2600 Boxing	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Boxing	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Boxing	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Boxing	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Boxing	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	Atari 2600 Boxing	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	Atari 2600 Boxing	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Boxing	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+3D Multi-person Pose Estimation (root-relative)	MuPoTS-3D	Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image	https://arxiv.org/abs/1907.11346	1038
+Atari Games	Atari 2600 Pong	Playing Atari with Deep Reinforcement Learning	http://arxiv.org/abs/1312.5602v1	0238
+Atari Games	Atari 2600 Pong	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Pong	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	Atari 2600 Pong	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Pong	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Pong	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Pong	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	Atari 2600 Pong	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	Atari 2600 Pong	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Pong	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	Atari 2600 Pong	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Pong	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Pong	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Pong	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Pong	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Pong	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Pong	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	Atari 2600 Pong	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Pong	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Pong	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Pong	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Slot Filling	ATIS	A Novel Bi-directional Interrelated Model for Joint Intent Detection and Slot Filling	https://arxiv.org/abs/1907.00390v1	0475
+Slot Filling	ATIS	Joint Slot Filling and Intent Detection via Capsule Neural Networks	https://arxiv.org/abs/1812.09471v2	0476
+Word Alignment	fr-en	Word Translation Without Parallel Data	http://arxiv.org/abs/1710.04087v3	1133
+Slot Filling	SNIPS	A Novel Bi-directional Interrelated Model for Joint Intent Detection and Slot Filling	https://arxiv.org/abs/1907.00390v1	0475
+Slot Filling	SNIPS	Joint Slot Filling and Intent Detection via Capsule Neural Networks	https://arxiv.org/abs/1812.09471v2	0476
+Graph Clustering	Pubmed	Attributed Graph Clustering via Adaptive Graph Convolution	https://arxiv.org/abs/1906.01210v1	0213
+Graph Clustering	Pubmed	Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning	https://arxiv.org/abs/1908.02441v1	0873
+Graph Clustering	Pubmed	Variational Graph Auto-Encoders	http://arxiv.org/abs/1611.07308v1	0216
+Graph Clustering	Pubmed	Deep neural networks for learning graph representations	https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423	0217
+Graph Clustering	Pubmed	Marginalized graph autoencoder for graph clustering	https://doi.org/10.1145/3132847.3132967	0465
+Named Entity Recognition	BC5CDR	BioFLAIR: Pretrained Pooled Contextualized Embeddings for Biomedical Sequence Labeling Tasks	https://arxiv.org/abs/1908.05760v1	0327
+Named Entity Recognition	BC5CDR	SciBERT: A Pretrained Language Model for Scientific Text	https://arxiv.org/abs/1903.10676v3	0293
+Named Entity Recognition	BC5CDR	SciBERT: A Pretrained Language Model for Scientific Text	https://arxiv.org/abs/1903.10676v3	0293
+Named Entity Recognition	BC5CDR	CollaboNet: collaboration of deep neural networks for biomedical named entity recognition	https://arxiv.org/abs/1809.07950v2	1169
+Sarcasm Detection	SCv1	Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm	http://arxiv.org/abs/1708.00524v2	1165
+Text Classification	Sogou News	Compositional coding capsule network with k-means routing for text classification	http://arxiv.org/abs/1810.09177v3	0276
+Drug Discovery	ToxCast	Learning Graph-Level Representation for Drug Discovery	http://arxiv.org/abs/1709.03741v2	0318
+Drug Discovery	ToxCast	Convolutional Networks on Graphs for Learning Molecular Fingerprints	http://arxiv.org/abs/1509.09292v2	0224
+Node Classification	Cora (0.5%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	Cora (0.5%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	Cora (0.5%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	Cora (0.5%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	Cora (0.5%)	LanczosNet: Multi-Scale Deep Graph Convolutional Networks	http://arxiv.org/abs/1901.01484v1	0221
+Node Classification	Cora (0.5%)	Diffusion-Convolutional Neural Networks	http://arxiv.org/abs/1511.02136v6	0222
+Node Classification	Cora (0.5%)	LanczosNet: Multi-Scale Deep Graph Convolutional Networks	http://arxiv.org/abs/1901.01484v1	0221
+Node Classification	Cora (0.5%)	Semi-Supervised Classification with Graph Convolutional Networks	http://arxiv.org/abs/1609.02907v4	0120
+Node Classification	Cora (0.5%)	Convolutional Networks on Graphs for Learning Molecular Fingerprints	http://arxiv.org/abs/1509.09292v2	0224
+Node Classification	Cora (0.5%)	Gated Graph Sequence Neural Networks	http://arxiv.org/abs/1511.05493v4	0223
+Node Classification	Cora (0.5%)	Neural Message Passing for Quantum Chemistry	http://arxiv.org/abs/1704.01212v2	0225
+Node Classification	Cora (0.5%)	Graph Attention Networks	http://arxiv.org/abs/1710.10903v3	0111
+Node Classification	Cora (0.5%)	Inductive Representation Learning on Large Graphs	http://arxiv.org/abs/1706.02216v4	0226
+Node Classification	Cora (0.5%)	Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering	http://arxiv.org/abs/1606.09375v3	0122
+Question Answering	SimpleQuestions	Large-scale Simple Question Answering with Memory Networks	http://arxiv.org/abs/1506.02075v1	0573
+Person Re-Identification	MSMT17	ABD-Net: Attentive but Diverse Person Re-Identification	https://arxiv.org/abs/1908.01114v3	1224
+Person Re-Identification	MSMT17	Omni-Scale Feature Learning for Person Re-Identification	https://arxiv.org/abs/1905.00953v5	1226
+Person Re-Identification	MSMT17	Joint Discriminative and Generative Learning for Person Re-identification	https://arxiv.org/abs/1904.07223v2	1221
+Person Re-Identification	MSMT17	A Discriminatively Learned CNN Embedding for Person Re-identification	http://arxiv.org/abs/1611.05666v2	1242
+Node Classification	CiteSeer (0.5%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	CiteSeer (0.5%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	CiteSeer (0.5%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	CiteSeer (0.5%)	Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks	https://arxiv.org/abs/1906.02174v3	0220
+Node Classification	CiteSeer (0.5%)	LanczosNet: Multi-Scale Deep Graph Convolutional Networks	http://arxiv.org/abs/1901.01484v1	0221
+Node Classification	CiteSeer (0.5%)	LanczosNet: Multi-Scale Deep Graph Convolutional Networks	http://arxiv.org/abs/1901.01484v1	0221
+Node Classification	CiteSeer (0.5%)	Diffusion-Convolutional Neural Networks	http://arxiv.org/abs/1511.02136v6	0222
+Node Classification	CiteSeer (0.5%)	Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering	http://arxiv.org/abs/1606.09375v3	0122
+Node Classification	CiteSeer (0.5%)	Gated Graph Convolutional Recurrent Neural Networks	https://arxiv.org/abs/1903.01888v3	1126
+Node Classification	CiteSeer (0.5%)	Convolutional Networks on Graphs for Learning Molecular Fingerprints	http://arxiv.org/abs/1509.09292v2	0224
+Node Classification	CiteSeer (0.5%)	Semi-Supervised Classification with Graph Convolutional Networks	http://arxiv.org/abs/1609.02907v4	0120
+Node Classification	CiteSeer (0.5%)	Neural Message Passing for Quantum Chemistry	http://arxiv.org/abs/1704.01212v2	0225
+Node Classification	CiteSeer (0.5%)	Graph Attention Networks	http://arxiv.org/abs/1710.10903v3	0111
+Node Classification	CiteSeer (0.5%)	Inductive Representation Learning on Large Graphs	http://arxiv.org/abs/1706.02216v4	0226
+Game of Suduko	Sudoko 9x9	SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver	https://arxiv.org/abs/1905.12149v1	0095
+Image Clustering	coil-100	Joint Unsupervised Learning of Deep Representations and Image Clusters	http://arxiv.org/abs/1604.03628v3	0642
+Airplane trajectory prediction	ETH/UCY	Peeking into the Future: Predicting Future Person Activities and Locations in Videos	https://arxiv.org/abs/1902.03748v3	1015
+Common Sense Reasoning	SWAG	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding	https://arxiv.org/abs/1810.04805v2	0358
+Common Sense Reasoning	SWAG	SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference	http://arxiv.org/abs/1808.05326v1	1425
+Common Sense Reasoning	SWAG	SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference	http://arxiv.org/abs/1808.05326v1	1425
+Common Sense Reasoning	SWAG	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding	https://arxiv.org/abs/1810.04805v2	0358
+Automated Theorem Proving	HolStep (Conditional)	Premise Selection for Theorem Proving by Deep Graph Embedding	http://arxiv.org/abs/1709.09994v1	1531
+Automated Theorem Proving	HolStep (Conditional)	Premise Selection for Theorem Proving by Deep Graph Embedding	http://arxiv.org/abs/1709.09994v1	1531
+Automated Theorem Proving	HolStep (Conditional)	HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving	http://arxiv.org/abs/1703.00426v1	1532
+Automated Theorem Proving	HolStep (Conditional)	HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving	http://arxiv.org/abs/1703.00426v1	1532
+Image Denoising	BSD68 sigma30	Residual Dense Network for Image Restoration	http://arxiv.org/abs/1812.10477v1	0151
+Image Denoising	BSD68 sigma30	Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising	http://arxiv.org/abs/1608.03981v1	0152
+Relation Extraction	CoNLL04	Entity-Relation Extraction as Multi-Turn Question Answering	https://arxiv.org/abs/1905.05529v4	0834
+Relation Extraction	CoNLL04	Joint entity recognition and relation extraction as a multi-head selection problem	http://arxiv.org/abs/1804.07847v3	0778
+Relation Extraction	CoNLL04	Adversarial training for multi-context joint entity and relation extraction	http://arxiv.org/abs/1808.06876v3	0777
+Relation Extraction	CoNLL04	Modeling Joint Entity and Relation Extraction with Table Representation	https://www.aclweb.org/anthology/papers/D/D14/D14-1200/	0835
+Relation Extraction	CoNLL04	End-to-end neural relation extraction using deep biaffine attention	http://arxiv.org/abs/1812.11275v1	0836
+Amr Parsing	LDC2017T10	AMR Parsing as Sequence-to-Graph Transduction	https://arxiv.org/abs/1905.08704v2	0783
+Machine Translation	WMT 2018 English-Finnish	Impact of Corpora Quality on Neural Machine Translation	http://arxiv.org/abs/1810.08392v1	0347
+Hand Pose Estimation	NYU Hands	V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map	http://arxiv.org/abs/1711.07399v3	0304
+Hand Pose Estimation	NYU Hands	A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image	https://arxiv.org/abs/1908.09999v1	0305
+Hand Pose Estimation	NYU Hands	Dense 3D Regression for Hand Pose Estimation	http://arxiv.org/abs/1711.08996v1	0307
+Hand Pose Estimation	NYU Hands	Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation	http://arxiv.org/abs/1708.03416v2	0306
+Hand Pose Estimation	NYU Hands	DeepPrior++: Improving Fast and Accurate 3D Hand Pose Estimation	http://arxiv.org/abs/1708.08325v1	0309
+Hand Pose Estimation	NYU Hands	Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation	http://arxiv.org/abs/1702.02447v2	0308
+Sentiment Analysis	1B Words	100 Things You Always Wanted to Know about Linguistics But Were Afraid to Ask*	https://www.aclweb.org/anthology/papers/N/N12/N12-4001/	1042
+Image Generation	MNIST	Residual Flows for Invertible Generative Modeling	https://arxiv.org/abs/1906.02735v3	0621
+Image Generation	MNIST	MintNet: Building Invertible Neural Networks with Masked Convolutions	https://arxiv.org/abs/1907.07945v1	1261
+Image Generation	MNIST	Invertible Residual Networks	https://arxiv.org/abs/1811.00995v3	1379
+Person Retrieval	SoftBioSearch	Person Retrieval in Surveillance Video using Height, Color and Gender	https://ieeexplore.ieee.org/document/8639145	1044
+Person Retrieval	SoftBioSearch	Person Retrieval in Surveillance Video using Height, Color and Gender	https://ieeexplore.ieee.org/document/8639145	1044
+Person Retrieval	SoftBioSearch	Person Retrieval in Surveillance Video using Height, Color and Gender	https://ieeexplore.ieee.org/document/8639145	1044
+Word Alignment	en-es	Word Translation Without Parallel Data	http://arxiv.org/abs/1710.04087v3	1133
+Video Summarization	TvSum	Summarizing Videos with Attention	http://arxiv.org/abs/1812.01969v2	0597
+Video Summarization	TvSum	Video Summarization with Attention-Based Encoder-Decoder Networks	http://arxiv.org/abs/1708.09545v2	0598
+Link Sign Prediction	Bitcoin-Alpha	Signed Graph Convolutional Network	https://arxiv.org/abs/1808.06354	0920
+Linguistic Acceptability	CoLA	Multi-Task Deep Neural Networks for Natural Language Understanding	https://arxiv.org/abs/1901.11504v2	0813
+Linguistic Acceptability	CoLA	RoBERTa: A Robustly Optimized BERT Pretraining Approach	https://arxiv.org/abs/1907.11692v1	0132
+Linguistic Acceptability	CoLA	ERNIE 2.0: A Continual Pre-training Framework for Language Understanding	https://arxiv.org/abs/1907.12412v1	0134
+Linguistic Acceptability	CoLA	ERNIE 2.0: A Continual Pre-training Framework for Language Understanding	https://arxiv.org/abs/1907.12412v1	0134
+Image Cropping	AVA	Aesthetic-Driven Image Enhancement by Adversarial Learning	http://arxiv.org/abs/1707.05251v2	0787
+Machine Translation	WMT 2017 Latvian-English	Impact of Corpora Quality on Neural Machine Translation	http://arxiv.org/abs/1810.08392v1	0347
+Machine Translation	WMT 2017 Latvian-English	Tilde's Machine Translation Systems for WMT 2017	https://www.aclweb.org/anthology/papers/W/W17/W17-4737/	1582
+Machine Translation	WMT 2017 Latvian-English	Confidence through Attention	http://arxiv.org/abs/1710.03743v1	1583
+Machine Translation	WMT 2017 Latvian-English	Debugging Neural Machine Translations	http://arxiv.org/abs/1808.02733v1	1584
+Image Classification	CIFAR-100	EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks	https://arxiv.org/abs/1905.11946v2	0477
+Image Classification	CIFAR-100	GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism	https://arxiv.org/abs/1811.06965v5	0508
+Image Classification	CIFAR-100	Squeeze-and-Excitation Networks	https://arxiv.org/abs/1709.01507v4	0509
+Image Classification	CIFAR-100	Averaging Weights Leads to Wider Optima and Better Generalization	http://arxiv.org/abs/1803.05407v3	0513
+Image Classification	CIFAR-100	Res2Net: A New Multi-scale Backbone Architecture	https://arxiv.org/abs/1904.01169v2	0728
+Image Classification	CIFAR-100	mixup: Beyond Empirical Risk Minimization	http://arxiv.org/abs/1710.09412v2	0512
+Image Classification	CIFAR-100	Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems	https://arxiv.org/abs/1907.06916v2	0514
+Image Classification	CIFAR-100	Densely Connected Convolutional Networks	http://arxiv.org/abs/1608.06993v5	0517
+Image Classification	CIFAR-100	Averaging Weights Leads to Wider Optima and Better Generalization	http://arxiv.org/abs/1803.05407v3	0513
+Image Classification	CIFAR-100	Manifold Mixup: Better Representations by Interpolating Hidden States	https://arxiv.org/abs/1806.05236v7	0511
+Image Classification	CIFAR-100	Attention Augmented Convolutional Networks	https://arxiv.org/abs/1904.09925v3	0729
+Image Classification	CIFAR-100	Wide Residual Networks	http://arxiv.org/abs/1605.07146v4	0522
+Image Classification	CIFAR-100	Deep Competitive Pathway Networks	http://arxiv.org/abs/1709.10282v1	0516
+Image Classification	CIFAR-100	Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet	http://arxiv.org/abs/1802.06205v1	0521
+Image Classification	CIFAR-100	Training Neural Networks with Local Error Signals	https://arxiv.org/abs/1901.06656v2	0520
+Image Classification	CIFAR-100	Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures	http://arxiv.org/abs/1608.06037v7	0525
+Image Classification	CIFAR-100	Identity Mappings in Deep Residual Networks	http://arxiv.org/abs/1603.05027v3	0526
+Image Classification	CIFAR-100	Large-Scale Evolution of Image Classifiers	http://arxiv.org/abs/1703.01041v2	0524
+Image Classification	CIFAR-100	DIANet: Dense-and-Implicit Attention Network	https://arxiv.org/abs/1905.10671v2	1099
+Image Classification	CIFAR-100	Spatially-sparse convolutional neural networks	http://arxiv.org/abs/1409.6070v1	0534
+Image Classification	CIFAR-100	Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)	http://arxiv.org/abs/1511.07289v5	0537
+Image Classification	CIFAR-100	Deep Networks with Stochastic Depth	http://arxiv.org/abs/1603.09382v3	0528
+Image Classification	CIFAR-100	Fractional Max-Pooling	http://arxiv.org/abs/1412.6071v4	0519
+Image Classification	CIFAR-100	Deep Residual Networks with Exponential Linear Unit	http://arxiv.org/abs/1604.04112v4	0530
+Image Classification	CIFAR-100	Deep Complex Networks	http://arxiv.org/abs/1705.09792v4	0531
+Image Classification	CIFAR-100	Scalable Bayesian Optimization Using Deep Neural Networks	http://arxiv.org/abs/1502.05700v2	0535
+Image Classification	CIFAR-100	Competitive Multi-scale Convolution	http://arxiv.org/abs/1511.05635v1	0540
+Image Classification	CIFAR-100	All you need is a good init	http://arxiv.org/abs/1511.06422v7	0532
+Image Classification	CIFAR-100	Batch-normalized Maxout Network in Network	http://arxiv.org/abs/1511.02583v1	0538
+Image Classification	CIFAR-100	On the Importance of Normalisation Layers in Deep Learning with Piecewise Linear Activation Units	http://arxiv.org/abs/1508.00330v2	0547
+Image Classification	CIFAR-100	Learning Activation Functions to Improve Deep Neural Networks	http://arxiv.org/abs/1412.6830v3	0541
+Image Classification	CIFAR-100	Stacked What-Where Auto-encoders	http://arxiv.org/abs/1506.02351v8	0543
+Image Classification	CIFAR-100	Deep Convolutional Decision Jungle for Image Classification	http://arxiv.org/abs/1706.02003v2	1100
+Image Classification	CIFAR-100	Spectral Representations for Convolutional Neural Networks	http://papers.nips.cc/paper/5649-spectral-representations-for-convolutional-neural-networks	0548
+Image Classification	CIFAR-100	Training Very Deep Networks	http://arxiv.org/abs/1507.06228v2	0542
+Image Classification	CIFAR-100	Deep Convolutional Neural Networks as Generic Feature Extractors	http://arxiv.org/abs/1710.02286v1	0556
+Image Classification	CIFAR-100	Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree	http://arxiv.org/abs/1509.08985v2	0533
+Image Classification	CIFAR-100	HD-CNN: Hierarchical Deep Convolutional Neural Network for Large Scale Visual Recognition	http://arxiv.org/abs/1410.0736v4	1101
+Image Classification	CIFAR-100	Universum Prescription: Regularization using Unlabeled Data	http://arxiv.org/abs/1511.03719v7	0539
+Image Classification	CIFAR-100	Striving for Simplicity: The All Convolutional Net	http://arxiv.org/abs/1412.6806v3	0523
+Image Classification	CIFAR-100	Deep Networks with Internal Selective Attention through Feedback Connections	http://papers.nips.cc/paper/5276-deep-networks-with-internal-selective-attention-through-feedback-connections	0551
+Image Classification	CIFAR-100	Deeply-Supervised Nets	http://arxiv.org/abs/1409.5185v2	0544
+Image Classification	CIFAR-100	Network In Network	http://arxiv.org/abs/1312.4400v3	0550
+Image Classification	CIFAR-100	Discriminative Transfer Learning with Tree-based Priors	http://papers.nips.cc/paper/5029-discriminative-transfer-learning-with-tree-based-priors	1102
+Image Classification	CIFAR-100	Improving Deep Neural Networks with Probabilistic Maxout Units	http://arxiv.org/abs/1312.6116v2	0553
+Image Classification	CIFAR-100	Maxout Networks	http://arxiv.org/abs/1302.4389v4	0552
+Image Classification	CIFAR-100	Unsharp Masking Layer: Injecting Prior Knowledge in Convolutional Networks for Image Classification	https://doi.org/10.1007/978-3-030-30508-6_1	0599
+Image Classification	CIFAR-100	Empirical Evaluation of Rectified Activations in Convolutional Network	http://arxiv.org/abs/1505.00853v2	0559
+Image Classification	CIFAR-100	Stochastic Pooling for Regularization of Deep Convolutional Neural Networks	http://arxiv.org/abs/1301.3557v1	0562
+Node Classification	Wikipedia	GraphGAN: Graph Representation Learning with Generative Adversarial Nets	http://arxiv.org/abs/1711.08267v1	0898
+Node Classification	Wikipedia	struc2vec: Learning Node Representations from Structural Identity	http://arxiv.org/abs/1704.03165v3	0899
+Node Classification	Wikipedia	DeepWalk: Online Learning of Social Representations	http://arxiv.org/abs/1403.6652v2	0127
+Node Classification	Wikipedia	node2vec: Scalable Feature Learning for Networks	http://arxiv.org/abs/1607.00653v1	0900
+Node Classification	Wikipedia	LINE: Large-scale Information Network Embedding	http://arxiv.org/abs/1503.03578v1	0901
+Node Classification	MS ACADEMIC	Predict then Propagate: Graph Neural Networks meet Personalized PageRank	http://arxiv.org/abs/1810.05997v5	0105
+Node Classification	MS ACADEMIC	AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models	https://arxiv.org/abs/1908.05081v1	0104
+Node Classification	MS ACADEMIC	AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models	https://arxiv.org/abs/1908.05081v1	0104
+Language Acquisition	SLAM 2018	Context Based Approach for Second Language Acquisition	https://www.aclweb.org/anthology/papers/W/W18/W18-0524/	1487
+Memex Question Answering	MemexQA	Focal Visual-Text Attention for Visual Question Answering	https://arxiv.org/abs/1806.01873v2	1328
+Memex Question Answering	MemexQA	Focal Visual-Text Attention for Memex Question Answering	https://ieeexplore.ieee.org/document/8603827	1329
+Semantic Segmentation	SUN-RGBD	Self-Supervised Model Adaptation for Multimodal Semantic Segmentation	https://arxiv.org/abs/1808.03833v3	0802
+Semantic Segmentation	SUN-RGBD	Self-Supervised Model Adaptation for Multimodal Semantic Segmentation	https://arxiv.org/abs/1808.03833v3	0802
+Pneumonia Detection	ChestX-ray14	Jointly Learning Convolutional Representations to Compress Radiological Images and Classify Thoracic Diseases in the Compressed Domain	https://drive.google.com/file/d/1i2jl5M0ddr-STAma0a2Bsr5rOMtcCSyB/view	1187
+Pneumonia Detection	ChestX-ray14	CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning	http://arxiv.org/abs/1711.05225v3	1188
+Question Answering	TrecQA	A Compare-Aggregate Model with Latent Clustering for Answer Selection	https://arxiv.org/abs/1905.12897v2	1297
+Question Answering	TrecQA	Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering	http://arxiv.org/abs/1707.07847v3	1298
+Question Answering	TrecQA	Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement	https://www.aclweb.org/anthology/papers/N/N16/N16-1108/	1299
+Question Answering	TrecQA	aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model	https://arxiv.org/abs/1801.01641v2	1332
+Question Answering	TrecQA	Deep Learning for Answer Sentence Selection	http://arxiv.org/abs/1412.1632v1	1135
+Instance Segmentation	COCO	Hybrid Task Cascade for Instance Segmentation	http://arxiv.org/abs/1901.07518v2	0050
+Instance Segmentation	COCO	Path Aggregation Network for Instance Segmentation	http://arxiv.org/abs/1803.01534v4	1211
+Instance Segmentation	COCO	Hybrid Task Cascade for Instance Segmentation	http://arxiv.org/abs/1901.07518v2	0050
+Instance Segmentation	COCO	Non-local Neural Networks	http://arxiv.org/abs/1711.07971v3	0048
+Instance Segmentation	COCO	Mask Scoring R-CNN	http://arxiv.org/abs/1903.00241v1	1212
+Instance Segmentation	COCO	MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features	http://arxiv.org/abs/1712.04837v1	1213
+Instance Segmentation	COCO	TensorMask: A Foundation for Dense Object Segmentation	https://arxiv.org/abs/1903.12174v2	1214
+Instance Segmentation	COCO	Mask R-CNN	http://arxiv.org/abs/1703.06870v3	0065
+Instance Segmentation	COCO	YOLACT: Real-time Instance Segmentation	http://arxiv.org/abs/1904.02689v1	1215
+Instance Segmentation	COCO	A MultiPath Network for Object Detection	http://arxiv.org/abs/1604.02135v2	1216
+Word Sense Disambiguation	SemEval 2015 Task 13	Sense Vocabulary Compression through the Semantic Knowledge of WordNet for Neural Word Sense Disambiguation	https://arxiv.org/abs/1905.05677v3	0099
+Word Sense Disambiguation	SemEval 2015 Task 13	Improving the Coverage and the Generalization Ability of Neural Word Sense Disambiguation through Hypernymy and Hyponymy Relationships	http://arxiv.org/abs/1811.00960v1	0100
+Word Sense Disambiguation	SemEval 2015 Task 13	Incorporating Glosses into Neural Word Sense Disambiguation	http://arxiv.org/abs/1805.08028v2	0130
+Word Sense Disambiguation	SemEval 2015 Task 13	Incorporating Glosses into Neural Word Sense Disambiguation	http://arxiv.org/abs/1805.08028v2	0130
+Word Sense Disambiguation	SemEval 2015 Task 13	Incorporating Glosses into Neural Word Sense Disambiguation	http://arxiv.org/abs/1805.08028v2	0130
+Word Sense Disambiguation	SemEval 2015 Task 13	Incorporating Glosses into Neural Word Sense Disambiguation	http://arxiv.org/abs/1805.08028v2	0130
+Machine Translation	WMT2016 Finnish-English	The University of Sydney's Machine Translation System for WMT19	https://arxiv.org/abs/1907.00494v1	0631
+Object Detection	COCO minival	Rethinking ImageNet Pre-training	http://arxiv.org/abs/1811.08883v1	0043
+Object Detection	COCO minival	GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond	http://arxiv.org/abs/1904.11492v1	0044
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	RepPoints: Point Set Representation for Object Detection	https://arxiv.org/abs/1904.11490v2	0046
+Object Detection	COCO minival	Rethinking ImageNet Pre-training	http://arxiv.org/abs/1811.08883v1	0043
+Object Detection	COCO minival	RepPoints: Point Set Representation for Object Detection	https://arxiv.org/abs/1904.11490v2	0046
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	Objects as Points	http://arxiv.org/abs/1904.07850v2	0047
+Object Detection	COCO minival	Non-local Neural Networks	http://arxiv.org/abs/1711.07971v3	0048
+Object Detection	COCO minival	RepPoints: Point Set Representation for Object Detection	https://arxiv.org/abs/1904.11490v2	0046
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	RepPoints: Point Set Representation for Object Detection	https://arxiv.org/abs/1904.11490v2	0046
+Object Detection	COCO minival	Bottom-up Object Detection by Grouping Extreme and Center Points	http://arxiv.org/abs/1901.08043v3	0049
+Object Detection	COCO minival	Hybrid Task Cascade for Instance Segmentation	http://arxiv.org/abs/1901.07518v2	0050
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	Deformable ConvNets v2: More Deformable, Better Results	http://arxiv.org/abs/1811.11168v2	0051
+Object Detection	COCO minival	Cascade R-CNN: Delving into High Quality Object Detection	http://arxiv.org/abs/1712.00726v1	0052
+Object Detection	COCO minival	CornerNet-Lite: Efficient Keypoint Based Object Detection	http://arxiv.org/abs/1904.08900v1	0053
+Object Detection	COCO minival	Group Normalization	http://arxiv.org/abs/1803.08494v3	0054
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	Objects as Points	http://arxiv.org/abs/1904.07850v2	0047
+Object Detection	COCO minival	Scale-Aware Trident Networks for Object Detection	https://arxiv.org/abs/1901.01892v2	0055
+Object Detection	COCO minival	An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection	http://arxiv.org/abs/1904.09730v1	0056
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection	http://arxiv.org/abs/1904.09730v1	0056
+Object Detection	COCO minival	Objects as Points	http://arxiv.org/abs/1904.07850v2	0047
+Object Detection	COCO minival	Deformable ConvNets v2: More Deformable, Better Results	http://arxiv.org/abs/1811.11168v2	0051
+Object Detection	COCO minival	Feature Selective Anchor-Free Module for Single-Shot Object Detection	http://arxiv.org/abs/1903.00621v1	0057
+Object Detection	COCO minival	CornerNet-Lite: Efficient Keypoint Based Object Detection	http://arxiv.org/abs/1904.08900v1	0053
+Object Detection	COCO minival	Grid R-CNN	http://arxiv.org/abs/1811.12030v1	0058
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	CenterNet: Keypoint Triplets for Object Detection	http://arxiv.org/abs/1904.08189v3	0059
+Object Detection	COCO minival	RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free	http://arxiv.org/abs/1901.03353v1	0060
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	Non-local Neural Networks	http://arxiv.org/abs/1711.07971v3	0048
+Object Detection	COCO minival	Group Normalization	http://arxiv.org/abs/1803.08494v3	0054
+Object Detection	COCO minival	RepPoints: Point Set Representation for Object Detection	https://arxiv.org/abs/1904.11490v2	0046
+Object Detection	COCO minival	Group Normalization	http://arxiv.org/abs/1803.08494v3	0054
+Object Detection	COCO minival	Bottom-up Object Detection by Grouping Extreme and Center Points	http://arxiv.org/abs/1901.08043v3	0049
+Object Detection	COCO minival	RepPoints: Point Set Representation for Object Detection	https://arxiv.org/abs/1904.11490v2	0046
+Object Detection	COCO minival	Grid R-CNN	http://arxiv.org/abs/1811.12030v1	0058
+Object Detection	COCO minival	Feature Selective Anchor-Free Module for Single-Shot Object Detection	http://arxiv.org/abs/1903.00621v1	0057
+Object Detection	COCO minival	Objects as Points	http://arxiv.org/abs/1904.07850v2	0047
+Object Detection	COCO minival	Objects as Points	http://arxiv.org/abs/1904.07850v2	0047
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	Non-local Neural Networks	http://arxiv.org/abs/1711.07971v3	0048
+Object Detection	COCO minival	FoveaBox: Beyond Anchor-based Object Detector	http://arxiv.org/abs/1904.03797v1	0061
+Object Detection	COCO minival	FCOS: Fully Convolutional One-Stage Object Detection	https://arxiv.org/abs/1904.01355v5	0062
+Object Detection	COCO minival	RepPoints: Point Set Representation for Object Detection	https://arxiv.org/abs/1904.11490v2	0046
+Object Detection	COCO minival	Libra R-CNN: Towards Balanced Learning for Object Detection	http://arxiv.org/abs/1904.02701v1	0063
+Object Detection	COCO minival	CornerNet: Detecting Objects as Paired Keypoints	http://arxiv.org/abs/1808.01244v2	0064
+Object Detection	COCO minival	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919v1	0045
+Object Detection	COCO minival	FoveaBox: Beyond Anchor-based Object Detector	http://arxiv.org/abs/1904.03797v1	0061
+Object Detection	COCO minival	Feature Selective Anchor-Free Module for Single-Shot Object Detection	http://arxiv.org/abs/1903.00621v1	0057
+Object Detection	COCO minival	Mask R-CNN	http://arxiv.org/abs/1703.06870v3	0065
+Object Detection	COCO minival	Cascade R-CNN: Delving into High Quality Object Detection	http://arxiv.org/abs/1712.00726v1	0052
+Object Detection	COCO minival	Objects as Points	http://arxiv.org/abs/1904.07850v2	0047
+Object Detection	COCO minival	FoveaBox: Beyond Anchor-based Object Detector	http://arxiv.org/abs/1904.03797v1	0061
+Object Detection	COCO minival	Feature Selective Anchor-Free Module for Single-Shot Object Detection	http://arxiv.org/abs/1903.00621v1	0057
+Object Detection	COCO minival	Gradient Harmonized Single-stage Detector	http://arxiv.org/abs/1811.05181v1	0066
+Object Detection	COCO minival	Mask R-CNN	http://arxiv.org/abs/1703.06870v3	0065
+Object Detection	COCO minival	M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network	http://arxiv.org/abs/1811.04533v3	0067
+Object Detection	COCO minival	Mask R-CNN	http://arxiv.org/abs/1703.06870v3	0065
+Object Detection	COCO minival	M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network	http://arxiv.org/abs/1811.04533v3	0067
+Object Detection	COCO minival	Objects as Points	http://arxiv.org/abs/1904.07850v2	0047
+Image Denoising	BSD200 sigma50	Image Restoration Using Convolutional Auto-encoders with Symmetric Skip Connections	http://arxiv.org/abs/1606.08921v3	0450
+Action Recognition In Videos	Charades	AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures	https://arxiv.org/abs/1905.13209v1	0847
+Action Recognition In Videos	Charades	Hallucinating IDT Descriptors and I3D Optical Flow Features for Action Recognition with CNNs	https://arxiv.org/abs/1906.05910v2	1249
+Action Recognition In Videos	Charades	Long-Term Feature Banks for Detailed Video Understanding	http://arxiv.org/abs/1812.05038v2	1195
+Action Recognition In Videos	Charades	PA3D: Pose-Action 3D Machine for Video Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Yan_PA3D_Pose-Action_3D_Machine_for_Video_Recognition_CVPR_2019_paper.html	1390
+Action Recognition In Videos	Charades	PoTion: Pose MoTion Representation for Action Recognition	http://openaccess.thecvf.com/content_cvpr_2018/html/Choutas_PoTion_Pose_MoTion_CVPR_2018_paper.html	0822
+Action Recognition In Videos	Charades	Temporal Reasoning Graph for Activity Recognition	https://arxiv.org/abs/1908.09995v1	1207
+Action Recognition In Videos	Charades	Videos as Space-Time Region Graphs	http://arxiv.org/abs/1806.01810v2	1196
+Action Recognition In Videos	Charades	Compressed Video Action Recognition	http://arxiv.org/abs/1712.00636v2	1198
+Action Recognition In Videos	Charades	Temporal Relational Reasoning in Videos	http://arxiv.org/abs/1711.08496v2	0242
+Gaze Estimation	EYEDIAP (screen target)	Recurrent CNN for 3D Gaze Estimation using Appearance and Shape Cues	http://arxiv.org/abs/1805.03064v3	1145
+Gaze Estimation	EYEDIAP (screen target)	Recurrent CNN for 3D Gaze Estimation using Appearance and Shape Cues	http://arxiv.org/abs/1805.03064v3	1145
+Named Entity Recognition	Species-800	BioFLAIR: Pretrained Pooled Contextualized Embeddings for Biomedical Sequence Labeling Tasks	https://arxiv.org/abs/1908.05760v1	0327
+Atari Games	Atari 2600 Skiing	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Semantic Textual Similarity	MRPC	XLNet: Generalized Autoregressive Pretraining for Language Understanding	https://arxiv.org/abs/1906.08237v1	0133
+Semantic Textual Similarity	MRPC	RoBERTa: A Robustly Optimized BERT Pretraining Approach	https://arxiv.org/abs/1907.11692v1	0132
+Semantic Textual Similarity	MRPC	ERNIE 2.0: A Continual Pre-training Framework for Language Understanding	https://arxiv.org/abs/1907.12412v1	0134
+Semantic Textual Similarity	MRPC	ERNIE 2.0: A Continual Pre-training Framework for Language Understanding	https://arxiv.org/abs/1907.12412v1	0134
+Fine-Grained Image Classification	Birdsnap	Fixing the train-test resolution discrepancy	https://arxiv.org/abs/1906.06423v2	0708
+Fine-Grained Image Classification	Birdsnap	GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism	https://arxiv.org/abs/1811.06965v5	0508
+Atari Games	Atari 2600 Wizard of Wor	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Wizard of Wor	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Wizard of Wor	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Wizard of Wor	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Wizard of Wor	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Wizard of Wor	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	Atari 2600 Wizard of Wor	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	Atari 2600 Wizard of Wor	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Wizard of Wor	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Wizard of Wor	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Wizard of Wor	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	Atari 2600 Wizard of Wor	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Wizard of Wor	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Wizard of Wor	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Wizard of Wor	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Wizard of Wor	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	Atari 2600 Wizard of Wor	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Wizard of Wor	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	Atari 2600 Wizard of Wor	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Wizard of Wor	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	Atari 2600 Pitfall!	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Pitfall!	Exploration by Random Network Distillation	http://arxiv.org/abs/1810.12894v1	0633
+Image Super-Resolution	BSD100 - 4x upscaling	Second-Order Attention Network for Single Image Super-Resolution	http://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.html	0166
+Image Super-Resolution	BSD100 - 4x upscaling	ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks	http://arxiv.org/abs/1809.00219v2	0167
+Image Super-Resolution	BSD100 - 4x upscaling	A Fully Progressive Approach to Single-Image Super-Resolution	http://arxiv.org/abs/1804.02900v2	0168
+Image Super-Resolution	BSD100 - 4x upscaling	Image Super-Resolution Using Very Deep Residual Channel Attention Networks	http://arxiv.org/abs/1807.02758v2	0169
+Image Super-Resolution	BSD100 - 4x upscaling	Gated Multiple Feedback Network for Image Super-Resolution	https://arxiv.org/abs/1907.04253v2	0170
+Image Super-Resolution	BSD100 - 4x upscaling	Residual Dense Network for Image Super-Resolution	http://arxiv.org/abs/1802.08797v2	0171
+Image Super-Resolution	BSD100 - 4x upscaling	Feedback Network for Image Super-Resolution	https://arxiv.org/abs/1903.09814v2	0172
+Image Super-Resolution	BSD100 - 4x upscaling	Deep Back-Projection Networks For Super-Resolution	http://arxiv.org/abs/1803.02735v1	0173
+Image Super-Resolution	BSD100 - 4x upscaling	Enhanced Deep Residual Networks for Single Image Super-Resolution	http://arxiv.org/abs/1707.02921v1	0174
+Image Super-Resolution	BSD100 - 4x upscaling	Beyond Deep Residual Learning for Image Restoration: Persistent Homology-Guided Manifold Simplification	http://arxiv.org/abs/1611.06345v4	0175
+Image Super-Resolution	BSD100 - 4x upscaling	Multi-level Wavelet-CNN for Image Restoration	http://arxiv.org/abs/1805.07071v2	0176
+Image Super-Resolution	BSD100 - 4x upscaling	Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network	http://arxiv.org/abs/1609.04802v5	0177
+Image Super-Resolution	BSD100 - 4x upscaling	Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network	http://arxiv.org/abs/1803.08664v5	0178
+Image Super-Resolution	BSD100 - 4x upscaling	Lightweight and Efficient Image Super-Resolution with Block State-based Recursive Network	http://arxiv.org/abs/1811.12546v1	0179
+Image Super-Resolution	BSD100 - 4x upscaling	RAM: Residual Attention Module for Single Image Super-Resolution	http://arxiv.org/abs/1811.12043v1	0180
+Image Super-Resolution	BSD100 - 4x upscaling	EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis	http://arxiv.org/abs/1612.07919v2	0181
+Image Super-Resolution	BSD100 - 4x upscaling	Learning a Single Convolutional Super-Resolution Network for Multiple Degradations	http://arxiv.org/abs/1712.06116v2	0182
+Image Super-Resolution	BSD100 - 4x upscaling	Non-Local Recurrent Network for Image Restoration	http://arxiv.org/abs/1806.02919v2	0183
+Image Super-Resolution	BSD100 - 4x upscaling	Image Super-Resolution via RL-CSC: When Residual Learning Meets Convolutional Sparse Coding	http://arxiv.org/abs/1812.11950v1	0184
+Image Super-Resolution	BSD100 - 4x upscaling	SESR: Single Image Super Resolution with Recursive Squeeze and Excitation Networks	http://arxiv.org/abs/1801.10319v1	0185
+Image Super-Resolution	BSD100 - 4x upscaling	Fast and Accurate Single Image Super-Resolution via Information Distillation Network	http://arxiv.org/abs/1803.09454v1	0186
+Image Super-Resolution	BSD100 - 4x upscaling	Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections	http://arxiv.org/abs/1603.09056v2	0187
+Image Super-Resolution	BSD100 - 4x upscaling	MemNet: A Persistent Memory Network for Image Restoration	http://arxiv.org/abs/1708.02209v1	0188
+Image Super-Resolution	BSD100 - 4x upscaling	Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution	http://arxiv.org/abs/1704.03915v2	0189
+Image Super-Resolution	BSD100 - 4x upscaling	Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising	http://arxiv.org/abs/1608.03981v1	0152
+Image Super-Resolution	BSD100 - 4x upscaling	Image Super-Resolution via Dual-State Recurrent Networks	http://arxiv.org/abs/1805.02704v1	0190
+Image Super-Resolution	BSD100 - 4x upscaling	Deeply-Recursive Convolutional Network for Image Super-Resolution	http://arxiv.org/abs/1511.04491v2	0191
+Image Super-Resolution	BSD100 - 4x upscaling	Seven ways to improve example-based single image super resolution	http://arxiv.org/abs/1511.02228v1	0192
+Image Super-Resolution	BSD100 - 4x upscaling	"Zero-Shot" Super-Resolution using Deep Internal Learning	http://arxiv.org/abs/1712.06087v1	0193
+Image Super-Resolution	BSD100 - 4x upscaling	Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network	http://arxiv.org/abs/1609.05158v2	0194
+Image Super-Resolution	BSD100 - 4x upscaling	Image Super-resolution via Feature-augmented Random Forest	http://arxiv.org/abs/1712.05248v1	0195
+Image Super-Resolution	BSD100 - 4x upscaling	Image Super-Resolution Using Deep Convolutional Networks	http://arxiv.org/abs/1501.00092v3	0196
+Image Super-Resolution	BSD100 - 4x upscaling	Joint Maximum Purity Forest with Application to Image Super-Resolution	http://arxiv.org/abs/1708.09200v1	0197
+Image Super-Resolution	BSD100 - 4x upscaling	Deep Learning-based Image Super-Resolution Considering Quantitative and Perceptual Quality	http://arxiv.org/abs/1809.04789v2	0198
+Image Super-Resolution	BSD100 - 4x upscaling	Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network	http://arxiv.org/abs/1609.04802v5	0177
+Image Super-Resolution	BSD100 - 4x upscaling	Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform	http://arxiv.org/abs/1804.02815v1	0199
+Image Super-Resolution	BSD100 - 4x upscaling	Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network	http://arxiv.org/abs/1609.04802v5	0177
+Image Super-Resolution	BSD100 - 4x upscaling	Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network	http://arxiv.org/abs/1609.04802v5	0177
+Image Super-Resolution	BSD100 - 4x upscaling	Perceptual Losses for Real-Time Style Transfer and Super-Resolution	http://arxiv.org/abs/1603.08155v1	0200
+Image Super-Resolution	BSD100 - 4x upscaling	Edge-Informed Single Image Super-Resolution	https://arxiv.org/abs/1909.05305v1	0201
+Language Modelling	Text8	Language Models are Unsupervised Multitask Learners	https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf	0344
+Language Modelling	Text8	Dynamic Evaluation of Transformer Language Models	http://arxiv.org/abs/1904.08378v1	0770
+Language Modelling	Text8	Adaptive Attention Span in Transformers	https://arxiv.org/abs/1905.07799v2	1146
+Language Modelling	Text8	Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context	https://arxiv.org/abs/1901.02860v3	0336
+Language Modelling	Text8	Augmenting Self-attention with Persistent Memory	https://arxiv.org/abs/1907.01470v1	0771
+Language Modelling	Text8	Adaptive Attention Span in Transformers	https://arxiv.org/abs/1905.07799v2	1146
+Language Modelling	Text8	Augmenting Self-attention with Persistent Memory	https://arxiv.org/abs/1907.01470v1	0771
+Language Modelling	Text8	Character-Level Language Modeling with Deeper Self-Attention	http://arxiv.org/abs/1808.04444v2	0398
+Language Modelling	Text8	Character-Level Language Modeling with Deeper Self-Attention	http://arxiv.org/abs/1808.04444v2	0398
+Language Modelling	Text8	Dynamic Evaluation of Neural Sequence Models	http://arxiv.org/abs/1709.07432v2	0399
+Language Modelling	Text8	Discrete Flows: Invertible Generative Models of Discrete Data	https://arxiv.org/abs/1905.10347v1	0673
+Language Modelling	Text8	Multiplicative LSTM for sequence modelling	http://arxiv.org/abs/1609.07959v3	0401
+Language Modelling	Text8	Recurrent Highway Networks	http://arxiv.org/abs/1607.03474v5	0403
+Language Modelling	Text8	Hierarchical Multiscale Recurrent Neural Networks	http://arxiv.org/abs/1609.01704v7	1147
+Language Modelling	Text8	Recurrent Batch Normalization	http://arxiv.org/abs/1603.09025v5	1579
+Language Modelling	Text8	Multiplicative LSTM for sequence modelling	http://arxiv.org/abs/1609.07959v3	0401
+Optical Flow Estimation	Sintel-clean	ProFlow: Learning to Predict Optical Flow	http://arxiv.org/abs/1806.00800v1	1420
+Optical Flow Estimation	Sintel-clean	Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation	http://arxiv.org/abs/1809.05571v1	1191
+Optical Flow Estimation	Sintel-clean	SelFlow: Self-Supervised Learning of Optical Flow	http://arxiv.org/abs/1904.09117v1	1190
+Optical Flow Estimation	Sintel-clean	Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation	http://arxiv.org/abs/1904.05290v1	1192
+Optical Flow Estimation	Sintel-clean	LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation	http://arxiv.org/abs/1805.07036v1	1421
+Optical Flow Estimation	Sintel-clean	Optical Flow Estimation using a Spatial Pyramid Network	http://arxiv.org/abs/1611.00850v2	0887
+Question Answering	Reverb	Open Question Answering with Weakly Supervised Embedding Models	http://arxiv.org/abs/1404.4326v1	0572
+Question Answering	Reverb	Large-scale Simple Question Answering with Memory Networks	http://arxiv.org/abs/1506.02075v1	0573
+Natural Language Inference	WNLI	XLNet: Generalized Autoregressive Pretraining for Language Understanding	https://arxiv.org/abs/1906.08237v1	0133
+Natural Language Inference	WNLI	RoBERTa: A Robustly Optimized BERT Pretraining Approach	https://arxiv.org/abs/1907.11692v1	0132
+Natural Language Inference	WNLI	ERNIE 2.0: A Continual Pre-training Framework for Language Understanding	https://arxiv.org/abs/1907.12412v1	0134
+Natural Language Inference	WNLI	ERNIE 2.0: A Continual Pre-training Framework for Language Understanding	https://arxiv.org/abs/1907.12412v1	0134
+Graph Regression	Tox21	CensNet: Convolution with Edge-Node Switching in Graph Neural Networks	https://doi.org/10.24963/ijcai.2019/369	1098
+Graph Regression	Tox21	Semi-Supervised Classification with Graph Convolutional Networks	http://arxiv.org/abs/1609.02907v4	0120
+Graph Regression	Tox21	CensNet: Convolution with Edge-Node Switching in Graph Neural Networks	https://doi.org/10.24963/ijcai.2019/369	1098
+Graph Regression	Tox21	CensNet: Convolution with Edge-Node Switching in Graph Neural Networks	https://doi.org/10.24963/ijcai.2019/369	1098
+Action Recognition In Videos	miniSports	SCSampler: Sampling Salient Clips from Video for Efficient Action Recognition	https://arxiv.org/abs/1904.04289v2	0845
+Action Recognition In Videos	miniSports	SCSampler: Sampling Salient Clips from Video for Efficient Action Recognition	https://arxiv.org/abs/1904.04289v2	0845
+Action Recognition In Videos	miniSports	What Makes Training Multi-Modal Networks Hard?	https://arxiv.org/abs/1905.12681v3	0468
+Image-to-Image Translation	Cityscapes Photo-to-Labels	Image-to-Image Translation with Conditional Adversarial Networks	http://arxiv.org/abs/1611.07004v3	0817
+Image-to-Image Translation	Cityscapes Photo-to-Labels	Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks	http://arxiv.org/abs/1703.10593v6	0818
+Image-to-Image Translation	Cityscapes Photo-to-Labels	Coupled Generative Adversarial Networks	http://arxiv.org/abs/1606.07536v2	0819
+Image-to-Image Translation	Cityscapes Photo-to-Labels	Adversarially Learned Inference	http://arxiv.org/abs/1606.00704v3	0821
+Image-to-Image Translation	Cityscapes Photo-to-Labels	Learning from Simulated and Unsupervised Images through Adversarial Training	http://arxiv.org/abs/1612.07828v2	0820
+Atari Games	Atari 2600 Defender	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Defender	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Defender	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Defender	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Text Classification	Amazon-2	XLNet: Generalized Autoregressive Pretraining for Language Understanding	https://arxiv.org/abs/1906.08237v1	0133
+Text Classification	Amazon-2	Unsupervised Data Augmentation for Consistency Training	https://arxiv.org/abs/1904.12848v2	0300
+Causal Inference	IDHP	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	IDHP	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	IDHP	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	IDHP	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	IDHP	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	IDHP	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	IDHP	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	IDHP	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	IDHP	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	IDHP	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Facial Landmark Detection	AFLW-Full	Style Aggregated Network for Facial Landmark Detection	http://arxiv.org/abs/1803.04108v4	1029
+Machine Translation	IWSLT2015 German-English	Improving Neural Language Modeling via Adversarial Training	https://arxiv.org/abs/1906.03805v2	1338
+Machine Translation	IWSLT2015 German-English	Attention Is All You Need	http://arxiv.org/abs/1706.03762v5	0779
+Machine Translation	IWSLT2015 German-English	Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction	http://arxiv.org/abs/1808.03867v3	0780
+Machine Translation	IWSLT2015 German-English	FRAGE: Frequency-Agnostic Word Representation	http://arxiv.org/abs/1809.06858v1	1339
+Machine Translation	IWSLT2015 German-English	Latent Alignment and Variational Attention	http://arxiv.org/abs/1807.03756v2	1460
+Machine Translation	IWSLT2015 German-English	Classical Structured Prediction Losses for Sequence to Sequence Learning	http://arxiv.org/abs/1711.04956v5	1461
+Machine Translation	IWSLT2015 German-English	Classical Structured Prediction Losses for Sequence to Sequence Learning	http://arxiv.org/abs/1711.04956v5	1461
+Machine Translation	IWSLT2015 German-English	Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement	http://arxiv.org/abs/1802.06901v3	0141
+Machine Translation	IWSLT2015 German-English	Convolutional Sequence to Sequence Learning	http://arxiv.org/abs/1705.03122v3	0139
+Machine Translation	IWSLT2015 German-English	A Convolutional Encoder Model for Neural Machine Translation	http://arxiv.org/abs/1611.02344v3	0144
+Machine Translation	IWSLT2015 German-English	Towards Neural Phrase-based Machine Translation	http://arxiv.org/abs/1706.05565v8	0781
+Machine Translation	IWSLT2015 German-English	An Actor-Critic Algorithm for Sequence Prediction	http://arxiv.org/abs/1607.07086v3	0782
+Machine Translation	IWSLT2015 German-English	Compressing Word Embeddings via Deep Compositional Code Learning	http://arxiv.org/abs/1711.01068v2	1462
+Machine Translation	IWSLT2015 German-English	Neural Machine Translation by Jointly Learning to Align and Translate	http://arxiv.org/abs/1409.0473v7	0995
+Machine Translation	IWSLT2015 German-English	FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow	https://arxiv.org/abs/1909.02480v1	0138
+Machine Translation	IWSLT2015 German-English	Sequence-to-Sequence Learning as Beam-Search Optimization	http://arxiv.org/abs/1606.02960v2	1463
+Machine Translation	IWSLT2015 German-English	Sequence Level Training with Recurrent Neural Networks	http://arxiv.org/abs/1511.06732v7	1464
+Machine Translation	IWSLT2015 German-English	Quasi-Recurrent Neural Networks	http://arxiv.org/abs/1611.01576v2	1465
+Click-Through Rate Prediction	iPinYou	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	iPinYou	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	iPinYou	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	iPinYou	Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction	http://arxiv.org/abs/1601.02376v1	1014
+Object Detection	Caltech Lanes Cordova	Saliency Optimization from Robust Background Detection	http://openaccess.thecvf.com/content_cvpr_2014/html/Zhu_Saliency_Optimization_from_2014_CVPR_paper.html	1286
+Object Localization	KITTI Pedestrians Hard	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Object Localization	KITTI Pedestrians Hard	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Gene Interaction Prediction	BioGRID(yeast)	GNE: a deep learning framework for gene network inference by aggregating biological information	https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-019-0694-y	0841
+Image-to-Image Translation	Cityscapes Labels-to-Photo	Image-to-Image Translation with Conditional Adversarial Networks	http://arxiv.org/abs/1611.07004v3	0817
+Image-to-Image Translation	Cityscapes Labels-to-Photo	Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks	http://arxiv.org/abs/1703.10593v6	0818
+Image-to-Image Translation	Cityscapes Labels-to-Photo	Coupled Generative Adversarial Networks	http://arxiv.org/abs/1606.07536v2	0819
+Image-to-Image Translation	Cityscapes Labels-to-Photo	Learning from Simulated and Unsupervised Images through Adversarial Training	http://arxiv.org/abs/1612.07828v2	0820
+Image-to-Image Translation	Cityscapes Labels-to-Photo	Adversarially Learned Inference	http://arxiv.org/abs/1606.00704v3	0821
+Image-to-Image Translation	Cityscapes Labels-to-Photo	Semantic Image Synthesis with Spatially-Adaptive Normalization	http://arxiv.org/abs/1903.07291v1	0228
+Image-to-Image Translation	Cityscapes Labels-to-Photo	High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs	http://arxiv.org/abs/1711.11585v2	0230
+Image-to-Image Translation	Cityscapes Labels-to-Photo	Photographic Image Synthesis with Cascaded Refinement Networks	http://arxiv.org/abs/1707.09405v1	0229
+Image-to-Image Translation	Cityscapes Labels-to-Photo	Semi-parametric Image Synthesis	http://arxiv.org/abs/1804.10992v1	0665
+Atari Games	Atari 2600 River Raid	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 River Raid	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 River Raid	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 River Raid	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	Atari 2600 River Raid	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 River Raid	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 River Raid	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 River Raid	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 River Raid	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	Atari 2600 River Raid	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	Atari 2600 River Raid	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 River Raid	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 River Raid	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 River Raid	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 River Raid	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 River Raid	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 River Raid	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	Atari 2600 River Raid	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	Atari 2600 River Raid	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 River Raid	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Speech Recognition	swb_hub_500 WER fullSWBCH	English Conversational Telephone Speech Recognition by Humans and Machines	http://arxiv.org/abs/1703.02136v1	0313
+Speech Recognition	swb_hub_500 WER fullSWBCH	The Microsoft 2016 Conversational Speech Recognition System	http://arxiv.org/abs/1609.03528v2	0314
+Speech Recognition	swb_hub_500 WER fullSWBCH	The IBM 2016 English Conversational Telephone Speech Recognition System	http://arxiv.org/abs/1604.08242v2	0315
+Speech Recognition	swb_hub_500 WER fullSWBCH	Deep Speech: Scaling up end-to-end speech recognition	http://arxiv.org/abs/1412.5567v2	0316
+Speech Recognition	swb_hub_500 WER fullSWBCH	Building DNN Acoustic Models for Large Vocabulary Speech Recognition	http://arxiv.org/abs/1406.7806v2	0317
+Question Answering	MCTest-500	A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data	http://arxiv.org/abs/1603.08884v1	0466
+Question Answering	MCTest-500	A Parallel-Hierarchical Model for Machine Comprehension on Sparse Data	http://arxiv.org/abs/1603.08884v1	0466
+Object Localization	KITTI Cars Easy	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Object Localization	KITTI Cars Easy	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Community Detection	Facebook Athletes	GEMSEC: Graph Embedding with Self Clustering	https://arxiv.org/abs/1802.03997	0301
+Hypernym Discovery	General	CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery	https://www.aclweb.org/anthology/papers/S/S18/S18-1116/	0486
+Hypernym Discovery	General	Supervised Distributional Hypernym Discovery via Domain Adaptation	https://www.aclweb.org/anthology/papers/D/D16/D16-1041/	0488
+Hypernym Discovery	General	NLP\_HZ at SemEval-2018 Task 9: a Nearest Neighbor Approach	https://www.aclweb.org/anthology/papers/S/S18/S18-1148/	1573
+Hypernym Discovery	General	300-sparsans at SemEval-2018 Task 9: Hypernymy as interaction of sparse attributes	https://www.aclweb.org/anthology/papers/S/S18/S18-1152/	0487
+Hypernym Discovery	General	SJTU-NLP at SemEval-2018 Task 9: Neural Hypernym Discovery with Term Embeddings	https://www.aclweb.org/anthology/papers/S/S18/S18-1147/	0490
+Hypernym Discovery	General	Apollo at SemEval-2018 Task 9: Detecting Hypernymy Relations Using Syntactic Dependencies	https://www.aclweb.org/anthology/papers/S/S18/S18-1146/	1574
+Hypernym Discovery	General	Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection	http://arxiv.org/abs/1612.04460v2	0492
+Image Denoising	Urban100 sigma50	Residual Dense Network for Image Restoration	http://arxiv.org/abs/1812.10477v1	0151
+Image Denoising	Urban100 sigma50	Non-Local Recurrent Network for Image Restoration	http://arxiv.org/abs/1806.02919v2	0183
+Image Denoising	Urban100 sigma50	Multi-level Wavelet-CNN for Image Restoration	http://arxiv.org/abs/1805.07071v2	0176
+Image Denoising	Urban100 sigma50	Neural Nearest Neighbors Networks	http://arxiv.org/abs/1810.12575v1	0295
+Image Denoising	Urban100 sigma50	Image Restoration Using Convolutional Auto-encoders with Symmetric Skip Connections	http://arxiv.org/abs/1606.08921v3	0450
+Image Denoising	Urban100 sigma50	Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising	http://arxiv.org/abs/1608.03981v1	0152
+Node Classification	Deezer Hungary	GEMSEC: Graph Embedding with Self Clustering	https://arxiv.org/abs/1802.03997	0301
+Transfer Learning	Amazon Review Polarity	Easy Transfer Learning By Exploiting Intra-domain Structures	http://arxiv.org/abs/1904.01376v2	1248
+Question Answering	SQuAD2.0	SG-Net: Syntax-Guided Machine Reading Comprehension	https://arxiv.org/abs/1908.05147v2	1352
+Question Answering	SQuAD2.0	SG-Net: Syntax-Guided Machine Reading Comprehension	https://arxiv.org/abs/1908.05147v2	1352
+Question Answering	SQuAD2.0	RoBERTa: A Robustly Optimized BERT Pretraining Approach	https://arxiv.org/abs/1907.11692v1	0132
+Question Answering	SQuAD2.0	XLNet: Generalized Autoregressive Pretraining for Language Understanding	https://arxiv.org/abs/1906.08237v1	0133
+Question Answering	SQuAD2.0	SG-Net: Syntax-Guided Machine Reading Comprehension	https://arxiv.org/abs/1908.05147v2	1352
+Question Answering	SQuAD2.0	Semantics-aware BERT for Language Understanding	https://arxiv.org/abs/1909.02209v1	1353
+Question Answering	SQuAD2.0	SpanBERT: Improving Pre-training by Representing and Predicting Spans	https://arxiv.org/abs/1907.10529v2	0096
+Question Answering	SQuAD2.0	SG-Net: Syntax-Guided Machine Reading Comprehension	https://arxiv.org/abs/1908.05147v2	1352
+Question Answering	SQuAD2.0	Semantics-aware BERT for Language Understanding	https://arxiv.org/abs/1909.02209v1	1353
+Question Answering	SQuAD2.0	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding	https://arxiv.org/abs/1810.04805v2	0358
+Question Answering	SQuAD2.0	Read + Verify: Machine Reading Comprehension with Unanswerable Questions	http://arxiv.org/abs/1808.05759v5	1354
+Question Answering	SQuAD2.0	U-Net: Machine Reading Comprehension with Unanswerable Questions	http://arxiv.org/abs/1810.06638v1	1355
+Question Answering	SQuAD2.0	Stochastic Answer Networks for Machine Reading Comprehension	http://arxiv.org/abs/1712.03556v2	0362
+Question Answering	SQuAD2.0	FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension	http://arxiv.org/abs/1711.07341v2	0363
+Question Answering	SQuAD2.0	Stochastic Answer Networks for Machine Reading Comprehension	http://arxiv.org/abs/1712.03556v2	0362
+Question Answering	SQuAD2.0	Deep contextualized word representations	http://arxiv.org/abs/1802.05365v2	0360
+Semantic Segmentation	SYNTHIA-CVPR’16	Self-Supervised Model Adaptation for Multimodal Semantic Segmentation	https://arxiv.org/abs/1808.03833v3	0802
+Semantic Segmentation	SYNTHIA-CVPR’16	Self-Supervised Model Adaptation for Multimodal Semantic Segmentation	https://arxiv.org/abs/1808.03833v3	0802
+Face Detection	WIDER Face (Medium)	Accurate Face Detection for High Performance	https://arxiv.org/abs/1905.01585v3	1072
+Face Detection	WIDER Face (Medium)	DSFD: Dual Shot Face Detector	http://arxiv.org/abs/1810.10220v3	0759
+Face Detection	WIDER Face (Medium)	Selective Refinement Network for High Performance Face Detection	http://arxiv.org/abs/1809.02693v1	0761
+Face Detection	WIDER Face (Medium)	PyramidBox: A Context-assisted Single Shot Face Detector	http://arxiv.org/abs/1803.07737v2	0763
+Face Detection	WIDER Face (Medium)	Face Detection Using Improved Faster RCNN	http://arxiv.org/abs/1802.02142v1	1073
+Face Detection	WIDER Face (Medium)	Segmentation is All You Need	https://arxiv.org/abs/1904.13300v3	1074
+Face Detection	WIDER Face (Medium)	Detecting Faces Using Region-based Fully Convolutional Networks	http://arxiv.org/abs/1709.05256v2	0760
+Face Detection	WIDER Face (Medium)	S$^3$FD: Single Shot Scale-invariant Face Detector	http://arxiv.org/abs/1708.05237v3	0764
+Face Detection	WIDER Face (Medium)	Finding Tiny Faces	http://arxiv.org/abs/1612.04402v2	1076
+Face Detection	WIDER Face (Medium)	EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse	https://arxiv.org/abs/1906.06579v2	1075
+Face Detection	WIDER Face (Medium)	CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection	http://arxiv.org/abs/1606.05413v1	1078
+Face Detection	WIDER Face (Medium)	LFFD: A Light and Fast Face Detector for Edge Devices	https://arxiv.org/abs/1904.10633v3	0765
+Face Detection	WIDER Face (Medium)	Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks	http://arxiv.org/abs/1604.02878v1	1079
+Face Detection	WIDER Face (Medium)	To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection	http://arxiv.org/abs/1701.01692v1	1080
+Face Detection	WIDER Face (Medium)	WIDER FACE: A Face Detection Benchmark	http://arxiv.org/abs/1511.06523v1	1081
+Face Detection	WIDER Face (Medium)	WIDER FACE: A Face Detection Benchmark	http://arxiv.org/abs/1511.06523v1	1081
+Face Detection	WIDER Face (Medium)	WIDER FACE: A Face Detection Benchmark	http://arxiv.org/abs/1511.06523v1	1081
+Face Detection	WIDER Face (Medium)	Aggregate channel features for multi-view face detection	https://arxiv.org/abs/1407.4023v2	1082
+Saliency Detection	ECSSD	Pyramid Feature Attention Network for Saliency detection	http://arxiv.org/abs/1903.00179v2	0395
+Image Classification	CIFAR-10	GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism	https://arxiv.org/abs/1811.06965v5	0508
+Image Classification	CIFAR-10	EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks	https://arxiv.org/abs/1905.11946v2	0477
+Image Classification	CIFAR-10	ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware	http://arxiv.org/abs/1812.00332v2	0480
+Image Classification	CIFAR-10	Squeeze-and-Excitation Networks	https://arxiv.org/abs/1709.01507v4	0509
+Image Classification	CIFAR-10	Fixup Initialization: Residual Learning Without Normalization	http://arxiv.org/abs/1901.09321v2	0510
+Image Classification	CIFAR-10	Manifold Mixup: Better Representations by Interpolating Hidden States	https://arxiv.org/abs/1806.05236v7	0511
+Image Classification	CIFAR-10	mixup: Beyond Empirical Risk Minimization	http://arxiv.org/abs/1710.09412v2	0512
+Image Classification	CIFAR-10	Averaging Weights Leads to Wider Optima and Better Generalization	http://arxiv.org/abs/1803.05407v3	0513
+Image Classification	CIFAR-10	Averaging Weights Leads to Wider Optima and Better Generalization	http://arxiv.org/abs/1803.05407v3	0513
+Image Classification	CIFAR-10	Single-bit-per-weight deep convolutional neural networks without batch-normalization layers for embedded systems	https://arxiv.org/abs/1907.06916v2	0514
+Image Classification	CIFAR-10	Deep Pyramidal Residual Networks	http://arxiv.org/abs/1610.02915v4	0515
+Image Classification	CIFAR-10	Deep Competitive Pathway Networks	http://arxiv.org/abs/1709.10282v1	0516
+Image Classification	CIFAR-10	Densely Connected Convolutional Networks	http://arxiv.org/abs/1608.06993v5	0517
+Image Classification	CIFAR-10	Selective Kernel Networks	http://arxiv.org/abs/1903.06586v2	0518
+Image Classification	CIFAR-10	Fractional Max-Pooling	http://arxiv.org/abs/1412.6071v4	0519
+Image Classification	CIFAR-10	Training Neural Networks with Local Error Signals	https://arxiv.org/abs/1901.06656v2	0520
+Image Classification	CIFAR-10	Neural Architecture Search with Reinforcement Learning	http://arxiv.org/abs/1611.01578v2	0483
+Image Classification	CIFAR-10	Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet	http://arxiv.org/abs/1802.06205v1	0521
+Image Classification	CIFAR-10	Wide Residual Networks	http://arxiv.org/abs/1605.07146v4	0522
+Image Classification	CIFAR-10	Striving for Simplicity: The All Convolutional Net	http://arxiv.org/abs/1412.6806v3	0523
+Image Classification	CIFAR-10	Large-Scale Evolution of Image Classifiers	http://arxiv.org/abs/1703.01041v2	0524
+Image Classification	CIFAR-10	Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures	http://arxiv.org/abs/1608.06037v7	0525
+Image Classification	CIFAR-10	Identity Mappings in Deep Residual Networks	http://arxiv.org/abs/1603.05027v3	0526
+Image Classification	CIFAR-10	SRM : A Style-based Recalibration Module for Convolutional Neural Networks	http://arxiv.org/abs/1903.10829v1	0527
+Image Classification	CIFAR-10	Deep Networks with Stochastic Depth	http://arxiv.org/abs/1603.09382v3	0528
+Image Classification	CIFAR-10	Large-Scale Evolution of Image Classifiers	http://arxiv.org/abs/1703.01041v2	0524
+Image Classification	CIFAR-10	Efficient Architecture Search by Network Transformation	http://arxiv.org/abs/1707.04873v2	0529
+Image Classification	CIFAR-10	Deep Residual Networks with Exponential Linear Unit	http://arxiv.org/abs/1604.04112v4	0530
+Image Classification	CIFAR-10	Deep Complex Networks	http://arxiv.org/abs/1705.09792v4	0531
+Image Classification	CIFAR-10	All you need is a good init	http://arxiv.org/abs/1511.06422v7	0532
+Image Classification	CIFAR-10	Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree	http://arxiv.org/abs/1509.08985v2	0533
+Image Classification	CIFAR-10	Spatially-sparse convolutional neural networks	http://arxiv.org/abs/1409.6070v1	0534
+Image Classification	CIFAR-10	Scalable Bayesian Optimization Using Deep Neural Networks	http://arxiv.org/abs/1502.05700v2	0535
+Image Classification	CIFAR-10	Deep Residual Learning for Image Recognition	http://arxiv.org/abs/1512.03385v1	0536
+Image Classification	CIFAR-10	Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)	http://arxiv.org/abs/1511.07289v5	0537
+Image Classification	CIFAR-10	Batch-normalized Maxout Network in Network	http://arxiv.org/abs/1511.02583v1	0538
+Image Classification	CIFAR-10	Universum Prescription: Regularization using Unlabeled Data	http://arxiv.org/abs/1511.03719v7	0539
+Image Classification	CIFAR-10	Competitive Multi-scale Convolution	http://arxiv.org/abs/1511.05635v1	0540
+Image Classification	CIFAR-10	Learning Activation Functions to Improve Deep Neural Networks	http://arxiv.org/abs/1412.6830v3	0541
+Image Classification	CIFAR-10	Training Very Deep Networks	http://arxiv.org/abs/1507.06228v2	0542
+Image Classification	CIFAR-10	Stacked What-Where Auto-encoders	http://arxiv.org/abs/1506.02351v8	0543
+Image Classification	CIFAR-10	Deeply-Supervised Nets	http://arxiv.org/abs/1409.5185v2	0544
+Image Classification	CIFAR-10	BinaryConnect: Training Deep Neural Networks with binary weights during propagations	http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-binary-weights-during-propagations	0545
+Image Classification	CIFAR-10	Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities	http://arxiv.org/abs/1701.06264v6	0546
+Image Classification	CIFAR-10	On the Importance of Normalisation Layers in Deep Learning with Piecewise Linear Activation Units	http://arxiv.org/abs/1508.00330v2	0547
+Image Classification	CIFAR-10	Spectral Representations for Convolutional Neural Networks	http://papers.nips.cc/paper/5649-spectral-representations-for-convolutional-neural-networks	0548
+Image Classification	CIFAR-10	RMDL: Random Multimodel Deep Learning for Classification	http://arxiv.org/abs/1805.01890v2	0549
+Image Classification	CIFAR-10	Network In Network	http://arxiv.org/abs/1312.4400v3	0550
+Image Classification	CIFAR-10	Deep Networks with Internal Selective Attention through Feedback Connections	http://papers.nips.cc/paper/5276-deep-networks-with-internal-selective-attention-through-feedback-connections	0551
+Image Classification	CIFAR-10	Maxout Networks	http://arxiv.org/abs/1302.4389v4	0552
+Image Classification	CIFAR-10	Improving Deep Neural Networks with Probabilistic Maxout Units	http://arxiv.org/abs/1312.6116v2	0553
+Image Classification	CIFAR-10	Practical Bayesian Optimization of Machine Learning Algorithms	http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms	0554
+Image Classification	CIFAR-10	APAC: Augmented PAttern Classification with Neural Networks	http://arxiv.org/abs/1505.03229v1	0555
+Image Classification	CIFAR-10	Deep Convolutional Neural Networks as Generic Feature Extractors	http://arxiv.org/abs/1710.02286v1	0556
+Image Classification	CIFAR-10	ImageNet Classification with Deep Convolutional Neural Networks	http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks	0557
+Image Classification	CIFAR-10	Multi-column Deep Neural Networks for Image Classification	http://arxiv.org/abs/1202.2745v1	0558
+Image Classification	CIFAR-10	Empirical Evaluation of Rectified Activations in Convolutional Network	http://arxiv.org/abs/1505.00853v2	0559
+Image Classification	CIFAR-10	ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks	http://arxiv.org/abs/1505.00393v3	0560
+Image Classification	CIFAR-10	An Analysis of Unsupervised Pre-training in Light of Recent Advances	http://arxiv.org/abs/1412.6597v4	0561
+Image Classification	CIFAR-10	Stochastic Pooling for Regularization of Deep Convolutional Neural Networks	http://arxiv.org/abs/1301.3557v1	0562
+Image Classification	CIFAR-10	Improving neural networks by preventing co-adaptation of feature detectors	http://arxiv.org/abs/1207.0580v1	0563
+Image Classification	CIFAR-10	Convolutional Kernel Networks	http://arxiv.org/abs/1406.3332v2	0564
+Image Classification	CIFAR-10	Discriminative Unsupervised Feature Learning with Convolutional Neural Networks	http://papers.nips.cc/paper/5548-discriminative-unsupervised-feature-learning-with-convolutional-neural-networks	0565
+Image Classification	CIFAR-10	Learning with Recursive Perceptual Representations	http://papers.nips.cc/paper/4747-learning-with-recursive-perceptual-representations	0566
+Image Classification	CIFAR-10	PCANet: A Simple Deep Learning Baseline for Image Classification?	http://arxiv.org/abs/1404.3606v2	0567
+Image Classification	CIFAR-10	Enhanced Image Classification With a Fast-Learning Shallow Convolutional Neural Network	http://arxiv.org/abs/1503.04596v3	0568
+Atari Games	Atari 2600 Name This Game	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Name This Game	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	Atari 2600 Name This Game	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Name This Game	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Name This Game	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	Atari 2600 Name This Game	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Name This Game	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Name This Game	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Name This Game	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	Atari 2600 Name This Game	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Name This Game	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Name This Game	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Name This Game	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Name This Game	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	Atari 2600 Name This Game	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Name This Game	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Name This Game	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Name This Game	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Name This Game	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	Atari 2600 Name This Game	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	Atari 2600 Enduro	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	Atari 2600 Enduro	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Enduro	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Enduro	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Enduro	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Enduro	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Enduro	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Enduro	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	Atari 2600 Enduro	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Enduro	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	Atari 2600 Enduro	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Enduro	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Enduro	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Enduro	Playing Atari with Deep Reinforcement Learning	http://arxiv.org/abs/1312.5602v1	0238
+Atari Games	Atari 2600 Enduro	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Enduro	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	Atari 2600 Enduro	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	Atari 2600 Enduro	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	Atari 2600 Enduro	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Enduro	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Enduro	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Battle Zone	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	Atari 2600 Battle Zone	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	Atari 2600 Battle Zone	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Battle Zone	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Battle Zone	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Battle Zone	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Battle Zone	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	Atari 2600 Battle Zone	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Battle Zone	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Battle Zone	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	Atari 2600 Battle Zone	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	Atari 2600 Battle Zone	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Battle Zone	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	Atari 2600 Battle Zone	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Battle Zone	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	Atari 2600 Battle Zone	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	Atari 2600 Battle Zone	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	Atari 2600 Battle Zone	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Battle Zone	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	Atari 2600 Battle Zone	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Machine Translation	WMT2016 English-Czech	Edinburgh Neural Machine Translation Systems for WMT 16	http://arxiv.org/abs/1606.02891v2	0143
+Hypernym Discovery	Music domain	CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery	https://www.aclweb.org/anthology/papers/S/S18/S18-1116/	0486
+Hypernym Discovery	Music domain	300-sparsans at SemEval-2018 Task 9: Hypernymy as interaction of sparse attributes	https://www.aclweb.org/anthology/papers/S/S18/S18-1152/	0487
+Hypernym Discovery	Music domain	Supervised Distributional Hypernym Discovery via Domain Adaptation	https://www.aclweb.org/anthology/papers/D/D16/D16-1041/	0488
+Hypernym Discovery	Music domain	SJTU-NLP at SemEval-2018 Task 9: Neural Hypernym Discovery with Term Embeddings	https://www.aclweb.org/anthology/papers/S/S18/S18-1147/	0490
+Hypernym Discovery	Music domain	ADAPT at SemEval-2018 Task 9: Skip-Gram Word Embeddings for Unsupervised Hypernym Discovery in Specialised Corpora	https://www.aclweb.org/anthology/papers/S/S18/S18-1151/	0491
+Hypernym Discovery	Music domain	Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection	http://arxiv.org/abs/1612.04460v2	0492
+Point Cloud Generation	ShapeNet Airplane	PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows	https://arxiv.org/abs/1906.12320v3	0209
+Knowledge Graphs	FB15k	Knowledge Graph Completion via Complex Tensor Factorization	http://arxiv.org/abs/1702.06879v2	1356
+Graph Classification	NC1	Graph Convolutional Networks with EigenPooling	https://arxiv.org/abs/1904.13107v2	0423
+Semantic Segmentation	Cityscapes	Improving Semantic Segmentation via Video Propagation and Label Relaxation	https://arxiv.org/abs/1812.01593v3	0850
+Semantic Segmentation	Cityscapes	Deep High-Resolution Representation Learning for Visual Recognition	https://arxiv.org/abs/1908.07919	0069
+Semantic Segmentation	Cityscapes	Gated-SCNN: Gated Shape CNNs for Semantic Segmentation	https://arxiv.org/abs/1907.05740v1	0851
+Semantic Segmentation	Cityscapes	Searching for Efficient Multi-Scale Architectures for Dense Image Prediction	http://arxiv.org/abs/1809.04184v1	0014
+Semantic Segmentation	Cityscapes	Self-Supervised Model Adaptation for Multimodal Semantic Segmentation	https://arxiv.org/abs/1808.03833v3	0802
+Semantic Segmentation	Cityscapes	GFF: Gated Fully Fusion for Semantic Segmentation	http://arxiv.org/abs/1904.01803v1	0852
+Semantic Segmentation	Cityscapes	Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation	http://arxiv.org/abs/1802.02611v3	0012
+Semantic Segmentation	Cityscapes	In-Place Activated BatchNorm for Memory-Optimized Training of DNNs	http://arxiv.org/abs/1712.02616v3	0853
+Semantic Segmentation	Cityscapes	OCNet: Object Context Network for Scene Parsing	http://arxiv.org/abs/1809.00916v3	0854
+Semantic Segmentation	Cityscapes	Dual Attention Network for Scene Segmentation	http://arxiv.org/abs/1809.02983v4	0071
+Semantic Segmentation	Cityscapes	CCNet: Criss-Cross Attention for Semantic Segmentation	http://arxiv.org/abs/1811.11721v1	0855
+Semantic Segmentation	Cityscapes	Self-Supervised Model Adaptation for Multimodal Semantic Segmentation	https://arxiv.org/abs/1808.03833v3	0802
+Semantic Segmentation	Cityscapes	Pyramid Scene Parsing Network	http://arxiv.org/abs/1612.01105v2	0019
+Semantic Segmentation	Cityscapes	Learning a Discriminative Feature Network for Semantic Segmentation	http://arxiv.org/abs/1804.09337v1	0016
+Semantic Segmentation	Cityscapes	ShelfNet for Fast Semantic Segmentation	https://arxiv.org/abs/1811.11254v6	0022
+Semantic Segmentation	Cityscapes	BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation	http://arxiv.org/abs/1808.00897v1	0856
+Semantic Segmentation	Cityscapes	Wider or Deeper: Revisiting the ResNet Model for Visual Recognition	http://arxiv.org/abs/1611.10080v1	0020
+Semantic Segmentation	Cityscapes	In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images	http://arxiv.org/abs/1903.08469v2	0857
+Semantic Segmentation	Cityscapes	Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes	http://arxiv.org/abs/1611.08323v2	0858
+Semantic Segmentation	Cityscapes	ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation	https://arxiv.org/abs/1906.09826v1	0859
+Semantic Segmentation	Cityscapes	ICNet for Real-Time Semantic Segmentation on High-Resolution Images	http://arxiv.org/abs/1704.08545v2	0860
+Semantic Segmentation	Cityscapes	LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation	https://arxiv.org/abs/1905.02423v3	0861
+Semantic Segmentation	Cityscapes	DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs	http://arxiv.org/abs/1606.00915v2	0025
+Semantic Segmentation	Cityscapes	Multi-Scale Context Aggregation by Dilated Convolutions	http://arxiv.org/abs/1511.07122v3	0034
+Semantic Segmentation	Cityscapes	ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network	http://arxiv.org/abs/1811.11431v3	0033
+Semantic Segmentation	Cityscapes	Fully Convolutional Networks for Semantic Segmentation	http://arxiv.org/abs/1605.06211v1	0035
+Semantic Segmentation	Cityscapes	DiCENet: Dimension-wise Convolutions for Efficient Networks	https://arxiv.org/abs/1906.03516v1	0745
+Semantic Segmentation	Cityscapes	Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs	http://arxiv.org/abs/1412.7062v4	0030
+Semantic Segmentation	Cityscapes	The Lovász-Softmax Loss: A Tractable Surrogate for the Optimization of the Intersection-Over-Union Measure in Neural Networks	https://ieeexplore.ieee.org/document/8578562	0027
+Semantic Segmentation	Cityscapes	Conditional Random Fields as Recurrent Neural Networks	http://arxiv.org/abs/1502.03240v3	0029
+Semantic Segmentation	Cityscapes	ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation	http://arxiv.org/abs/1803.06815v3	0036
+Semantic Segmentation	Cityscapes	SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation	http://arxiv.org/abs/1511.00561v3	0679
+Visual Question Answering	COCO Visual Question Answering (VQA) abstract images 1.0 open ended	Graph-Structured Representations for Visual Question Answering	http://arxiv.org/abs/1609.05600v2	0281
+Visual Question Answering	COCO Visual Question Answering (VQA) abstract images 1.0 open ended	VQA: Visual Question Answering	http://arxiv.org/abs/1505.00468v7	0093
+Visual Question Answering	COCO Visual Question Answering (VQA) abstract images 1.0 open ended	VQA: Visual Question Answering	http://arxiv.org/abs/1505.00468v7	0093
+Visual Question Answering	COCO Visual Question Answering (VQA) abstract images 1.0 open ended	VQA: Visual Question Answering	http://arxiv.org/abs/1505.00468v7	0093
+Speech Recognition	TIMIT	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	TIMIT	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	TIMIT	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	TIMIT	Light Gated Recurrent Units for Speech Recognition	http://arxiv.org/abs/1803.10225v1	1138
+Speech Recognition	TIMIT	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	TIMIT	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	TIMIT	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	TIMIT	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	TIMIT	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	TIMIT	Light Gated Recurrent Units for Speech Recognition	http://arxiv.org/abs/1803.10225v1	1138
+Speech Recognition	TIMIT	Segmental Recurrent Neural Networks for End-to-end Speech Recognition	http://arxiv.org/abs/1603.00223v2	1139
+Speech Recognition	TIMIT	Attention-Based Models for Speech Recognition	http://arxiv.org/abs/1506.07503v1	1140
+Speech Recognition	TIMIT	Speech Recognition with Deep Recurrent Neural Networks	http://arxiv.org/abs/1303.5778v1	1141
+Speech Recognition	TIMIT	Quaternion Convolutional Neural Networks for End-to-End Automatic Speech Recognition	http://arxiv.org/abs/1806.07789v1	1142
+Speech Recognition	TIMIT	Online and Linear-Time Attention by Enforcing Monotonic Alignments	http://arxiv.org/abs/1704.00784v2	1143
+Speech Recognition	TIMIT	Attention model for articulatory features detection	https://arxiv.org/abs/1907.01914v1	1144
+Node Classification	Pubmed	Certifiable Robustness and Robust Training for Graph Convolutional Networks	https://arxiv.org/abs/1906.12269v1	0124
+Node Classification	Pubmed	Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning	https://arxiv.org/abs/1908.07558v1	0146
+Node Classification	Pubmed	MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing	https://arxiv.org/abs/1905.00067v3	0118
+Node Classification	Pubmed	Multi-Task Graph Autoencoders	http://arxiv.org/abs/1811.02798v1	0113
+Node Classification	Pubmed	Structure fusion based on graph convolutional networks for semi-supervised classification	https://arxiv.org/abs/1907.02586v1	0107
+Node Classification	Pubmed	AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models	https://arxiv.org/abs/1908.05081v1	0104
+Node Classification	Pubmed	Predict then Propagate: Graph Neural Networks meet Personalized PageRank	http://arxiv.org/abs/1810.05997v5	0105
+Node Classification	Pubmed	Graph Optimized Convolutional Networks	http://arxiv.org/abs/1904.11883v1	0115
+Node Classification	Pubmed	Auto-GNN: Neural Architecture Search of Graph Neural Networks	https://arxiv.org/abs/1909.03184v2	0147
+Node Classification	Pubmed	GraphNAS: Graph Neural Architecture Search with Reinforcement Learning	https://arxiv.org/abs/1904.09981v2	0108
+Node Classification	Pubmed	Large-Scale Learnable Graph Convolutional Networks	http://arxiv.org/abs/1808.03965v1	0109
+Node Classification	Pubmed	N-GCN: Multi-scale Graph Convolution for Semi-supervised Node Classification	http://arxiv.org/abs/1802.08888v1	0112
+Node Classification	Pubmed	Learning to Make Predictions on Graphs with Autoencoders	http://arxiv.org/abs/1802.08352v2	0117
+Node Classification	Pubmed	Fast Graph Representation Learning with PyTorch Geometric	http://arxiv.org/abs/1903.02428v3	0121
+Node Classification	Pubmed	Graphite: Iterative Generative Modeling of Graphs	https://arxiv.org/abs/1803.10459v4	0119
+Node Classification	Pubmed	Structure fusion based on graph convolutional networks for semi-supervised classification	https://arxiv.org/abs/1907.02586v1	0107
+Node Classification	Pubmed	Graph Wavelet Neural Network	https://openreview.net/forum?id=H1ewdiR5tQ	0116
+Node Classification	Pubmed	Semi-Supervised Classification with Graph Convolutional Networks	http://arxiv.org/abs/1609.02907v4	0120
+Node Classification	Pubmed	Graph Attention Networks	http://arxiv.org/abs/1710.10903v3	0111
+Node Classification	Pubmed	Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View	https://arxiv.org/abs/1909.03211v1	0123
+Node Classification	Pubmed	Revisiting Semi-Supervised Learning with Graph Embeddings	http://arxiv.org/abs/1603.08861v2	0125
+Node Classification	Pubmed	Graph Star Net for Generalized Multi-Task Learning	https://arxiv.org/abs/1906.12330v1	0009
+Node Classification	Pubmed	Deep Graph Infomax	http://arxiv.org/abs/1809.10341v2	0114
+Node Classification	Pubmed	Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering	http://arxiv.org/abs/1606.09375v3	0122
+Node Classification	Pubmed	DeepWalk: Online Learning of Social Representations	http://arxiv.org/abs/1403.6652v2	0127
+Node Classification	Pubmed	Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection	https://dl.acm.org/citation.cfm?id=3271697	0128
+Node Classification	Pubmed	Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks	https://arxiv.org/abs/1905.07953	0148
+Protein Secondary Structure Prediction	CB513	Deeper Profiles and Cascaded Recurrent and Convolutional Neural Networks for state-of-the-art Protein Secondary Structure Prediction	https://doi.org/10.1038/s41598-019-48786-x	0412
+Protein Secondary Structure Prediction	CB513	Protein secondary structure prediction using deep convolutional neural fields	http://arxiv.org/abs/1512.00843v3	1003
+Sentiment Analysis	ASTD	Mazajak: An Online Arabic Sentiment Analyser	https://www.aclweb.org/anthology/papers/W/W19/W19-4621/	0809
