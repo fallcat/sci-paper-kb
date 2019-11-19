@@ -1,0 +1,703 @@
+0001	MR
+0002	PASCAL VOC 2012
+0003	IC17-MLT
+0004	ImageNet
+0005	COCO minival
+0006	ATIS
+0007	PASCAL Context
+0008	urban100 sigma15
+0009	Cohn-Kanade
+0010	KITTI Cars Moderate
+0011	WNED-WIKI
+0012	COCO Visual Question Answering (VQA) real images 1.0 open ended
+0013	Sudoko 9x9
+0014	HotpotQA
+0015	KITTI Pedestrians Moderate
+0016	Supervised:
+0017	Citeseer
+0018	SensEval 3 Task 1
+0019	20NEWS
+0020	RTE
+0021	MSRA-TD500
+0022	WMT2016 English-Romanian
+0023	Pubmed
+0024	Atari 2600 Yars Revenge
+0025	VoxCeleb2 - 32-shot learning
+0026	BSD68 sigma30
+0027	YAGO3-10
+0028	Atari 2600 Tennis
+0029	BSD100 - 4x upscaling
+0030	SentEval
+0031	Atari 2600 HERO
+0032	VisDA2017
+0033	FRANKENSTEIN
+0034	Static Facial Expressions in the Wild
+0035	CIFAR-10
+0036	ShapeNet Chair
+0037	FGVC Aircraft
+0038	Cora
+0039	LexNorm
+0040	Atari 2600 Wizard of Wor
+0041	CR
+0042	PubMed (0.1%)
+0043	Geo
+0044	CODAH
+0045	ADE20K Labels-to-Photos
+0046	Flickr
+0047	Atari 2600 Gopher
+0048	Glass identification
+0049	MIMIC-III
+0050	Chinese Poems
+0051	Atari 2600 Q*Bert
+0052	Ionosphere_class b
+0053	Jester
+0054	MPI-INF-3DHP
+0055	WebQSP-WD
+0056	PPI
+0057	TAC2010
+0058	CARS196
+0059	Eurasian Cities Dataset
+0060	WMT2014 German-English
+0061	HICO-DET
+0062	Real-World Affective Faces
+0063	ShapeNet Airplane
+0064	DBpedia
+0065	COCO Visual Question Answering (VQA) abstract images 1.0 open ended
+0066	Amazon Review Full
+0067	PoseTrack2017
+0068	IRD
+0069	UTD-MHAD
+0070	Acted Facial Expressions In The Wild (AFEW)
+0071	GENIA - LAS
+0072	Atari 2600 Alien
+0073	Set5 - 4x upscaling
+0074	Yelp-5
+0075	Facebook Athletes
+0076	KT3DMoSeg
+0077	COCO 2017
+0078	Classical music, 5 seconds at 12 kHz
+0079	ICVL Hands
+0080	BUCC French-to-English
+0081	Atari 2600 Road Runner
+0082	VoxCeleb2 - 8-shot learning
+0083	Atari 2600 Zaxxon
+0084	swb_hub_500 WER fullSWBCH
+0085	Atari 2600 Ms. Pacman
+0086	ToxCast
+0087	TACRED
+0088	LINNAEUS
+0089	SHREC15
+0090	Switchboard + Hub500
+0091	BSD68 sigma50
+0092	One Billion Word
+0093	WMT 2018 English-Finnish
+0094	New York Times Corpus
+0095	WikiHop
+0096	SciERC
+0097	SQuAD1.1
+0098	Quora Question Pairs
+0099	HANDS 2017
+0100	Atari 2600 Breakout
+0101	Total-Text
+0102	street2shop - topwear
+0103	NaturalQA
+0104	HKU-IS
+0105	MiniKinetics
+0106	MS ACADEMIC
+0107	UNBC-McMaster ShoulderPain dataset
+0108	Hutter Prize
+0109	Atari 2600 Frostbite
+0110	Caltech-101
+0111	PeopleArt
+0112	KITTI Cyclists Moderate
+0113	wireframe dataset
+0114	RACE
+0115	CommonsenseQA
+0116	RVL-CDIP
+0117	KITTI Novel View Synthesis
+0118	2019_test set
+0119	Facebook Artists
+0120	V-COCO
+0121	WMT2015 English-Russian
+0122	IWSLT2015 Thai-English
+0123	KITTI Cars Hard
+0124	ActivityNet
+0125	ImageNet Detection
+0126	RWTH-PHOENIX-Weather 2014 T
+0127	Atari 2600 Surround
+0128	ENZYMES
+0129	CoNLL 2005
+0130	WN18RR
+0131	Cora (1%)
+0132	CNN / Daily Mail
+0133	Urban100 sigma50
+0134	NLVR
+0135	Yahoo Questions
+0136	LDC2016E25
+0137	Atari 2600 Seaquest
+0138	ACE 2005
+0139	MCTest-500
+0140	Sports-1M
+0141	ITOP front-view
+0142	Flowers-102
+0143	SYNTHIE
+0144	CAT 256x256
+0145	CIFAR-10 Image Classification
+0146	Medical domain
+0147	NCBI-disease
+0148	Atari 2600 Boxing
+0149	CoQA
+0150	Yelp Binary classification
+0151	Dianping
+0152	NELL
+0153	CINIC-10
+0154	NYT-single
+0155	WMT2016 Romanian-English
+0156	Balance scale_class 1
+0157	Wikipedia Person and Animal Dataset
+0158	Reverb
+0159	CoNLL 2003 (English)
+0160	SumMe
+0161	Atari 2600 Atlantis
+0162	SNIPS
+0163	ICDAR 2013
+0164	Amazon2M
+0165	TCD-TIMIT corpus (mixed-speech)
+0166	KITTI Cars Easy
+0167	Stanford Cars
+0168	CHB-MIT
+0169	ACCURAT balanced test corpus for under resourced languages Russian-Estonian
+0170	WMT2017 Chinese-English
+0171	Natural Questions
+0172	HMDB51
+0173	PeMS-M
+0174	Facebook Companies
+0175	Par106k
+0176	Query Wellformedness
+0177	ImageNet 64x64
+0178	BioEye
+0179	Kinetics-400
+0180	NYU Depth v2
+0181	WMT 2018 Finnish-English
+0182	Ohsumed
+0183	Atari 2600 Montezuma's Revenge
+0184	IWSLT2014 German-English
+0185	MNIST
+0186	Children's Book Test
+0187	Celeb-HQ 4x upscaling
+0188	GENIA
+0189	AG News
+0190	JIGSAWS
+0191	Atari 2600 Demon Attack
+0192	Restricted
+0193	HYDRIDES
+0194	IPC-grounded
+0195	Atari 2600 Beam Rider
+0196	Atari 2600 Centipede
+0197	Story Cloze Test
+0198	PolyAI Reddit
+0199	SUBJ
+0200	Visual Dialog v1.0
+0201	Amazon Review Polarity
+0202	IMDb
+0203	ADE20K-Outdoor Labels-to-Photos
+0204	Atari 2600 Robotank
+0205	LDC2015E86:
+0206	Leeds Sports Pose
+0207	Atari 2600 Defender
+0208	WNLI
+0209	Penn Treebank (Character Level)
+0210	Amazon
+0211	MUV
+0212	Geometric Pose Affordance
+0213	USPS
+0214	The Extended Cohn-Kanade Dataset(CK+)
+0215	ADE20K
+0216	Multi-Domain Sentiment Dataset
+0217	VQA v2
+0218	IMDb-B
+0219	Atari 2600 Battle Zone
+0220	HOList benchmark
+0221	FLIC Wrists
+0222	ImageNet ResNet-50 - 50 Epochs
+0223	SCUT-CTW1500
+0224	CliCR
+0225	Set14 - 4x upscaling
+0226	Knowledge-based:
+0227	Oxford 102 Flowers
+0228	ImageCLEF-DA
+0229	WNED-CWEB
+0230	R52
+0231	CCGBank
+0232	_Restricted_
+0233	Edge-to-Handbags
+0234	WikiBio
+0235	FDDB
+0236	WikiText-103
+0237	ADE Corpus
+0238	IWSLT2015 English-German
+0239	LDC2014T12:
+0240	AVA
+0241	WN18
+0242	NCI1
+0243	MovieLens 20M
+0244	CompCert
+0245	WMT 2018 Estonian-English
+0246	Species-800
+0247	Freiburg Forest
+0248	Long-tail emerging entities
+0249	SemEval 2017 Task 4-A
+0250	FLIC Elbows
+0251	ACCURAT balanced test corpus for under resourced languages Estonian-Russian
+0252	NCI33
+0253	WebQuestions
+0254	SBD
+0255	VoxCeleb1 - 1-shot learning
+0256	SciTail
+0257	Cityscapes Labels-to-Photo
+0258	UCF101
+0259	CoNLL04
+0260	SARC (pol-bal)
+0261	SemEval
+0262	Olivetti Faces 5 Image
+0263	BioGRID(yeast)
+0264	Nottingham
+0265	Numenta Anomaly Benchmark
+0266	miniSports
+0267	COCO 2015
+0268	Moments in Time
+0269	WMT 2018 English-Estonian
+0270	MPII Gaze
+0271	Atari 2600 Asterix
+0272	IPC-lifted
+0273	Cityscapes
+0274	EMNIST-Letters
+0275	Atari 2600 Time Pilot
+0276	CUB-200-2011
+0277	SemEval 2007 Task 7
+0278	WMT2016 English-Russian
+0279	KITTI Cyclists Hard
+0280	selfie-to-anime
+0281	ImageNet ResNet-50 - 60 Epochs
+0282	HPatches
+0283	CMUDict 0.7b
+0284	SVNH-to-MNIST
+0285	PCBA
+0286	WikiSQL
+0287	WMT2019 English-Lithuanian
+0288	DeepMind Cheetah Run (Images)
+0289	Manga109 - 4x upscaling
+0290	SEED-IV
+0291	SYNTHIA-to-Cityscapes
+0292	Oxf5k
+0293	Cora: fixed 20 node per class
+0294	COCO Visual Question Answering (VQA) abstract 1.0 multiple choice
+0295	Wikipedia
+0296	MRPC
+0297	REDS
+0298	LJSpeech
+0299	ChemProt
+0300	SemEval 2015 Task 13
+0301	PROTEINS
+0302	Slashdot
+0303	PubMed (0.03%)
+0304	Penn Treebank
+0305	LSUN Bedroom 256 x 256
+0306	WMT2016 Russian-English
+0307	HICO
+0308	Atari 2600 Pitfall!
+0309	Visual Question Generation
+0310	IJB-A
+0311	WMT2016 Finnish-English
+0312	Multi-THUMOS
+0313	2017_test set
+0314	ClueWeb09-B
+0315	LibriSpeech test-clean
+0316	IJB-B
+0317	SYNTHIA Fall-to-Winter
+0318	WMT2016 English-Czech
+0319	Fashion-MNIST
+0320	CIFAR-10 ResNet-18 - 200 Epochs
+0321	MMI
+0322	VQA-CP
+0323	BSD200 sigma70
+0324	COCO
+0325	WMT2015 English-German
+0326	WMT2014 English-French
+0327	WebNLG
+0328	WSJ eval93
+0329	CB513
+0330	TriviaQA
+0331	Urban100 - 4x upscaling
+0332	Atari 2600 Venture
+0333	Mushroom
+0334	MegaFace
+0335	Criteo
+0336	ActEV
+0337	Cora (0.5%)
+0338	AI2 Kaggle Dataset
+0339	DUC 2004 Task 1
+0340	TREC-50
+0341	North American English
+0342	MHP v2.0
+0343	AFLW-Full
+0344	UCF --> HMDB (full)
+0345	SVHN
+0346	Sogou News
+0347	ACE2004
+0348	MuPoTS-3D
+0349	Jpred4 blind set
+0350	Winograd Schema Challenge
+0351	Atari 2600 Freeway
+0352	TvSum
+0353	Company*
+0354	eICU Collaborative Research Database
+0355	Atari 2600 Krull
+0356	SYNTHIA-CVPR’16
+0357	PolyAI AmazonQA
+0358	EMNLP2017 WMT
+0359	BSD200 sigma10
+0360	Cora with Public Split: fixed 20 nodes per class
+0361	1B Words
+0362	IC19-ReCTs
+0363	ArSAS
+0364	SoftBioSearch
+0365	Hotel BIWI Walking Pedestrians dataset
+0366	AIDA-CoNLL
+0367	BSD68 sigma15
+0368	CoqGym
+0369	HMDB --> UCF (full)
+0370	ICVL-4
+0371	Atari 2600 Up and Down
+0372	BSD68 sigma10
+0373	PASCAL VOC 2007
+0374	IJB-C
+0375	CompCars
+0376	Annotated Faces in the Wild
+0377	SIXray
+0378	VoxCeleb2 - 1-shot learning
+0379	WIDER Face (Hard)
+0380	DensePose-COCO
+0381	Leeds Sports Poses
+0382	Atari 2600 Star Gunner
+0383	SARC (all-bal)
+0384	Atari 2600 Fishing Derby
+0385	Hopkins155
+0386	Atari 2600 Tutankham
+0387	Atari 2600 Kung-Fu Master
+0388	NEURON-BINARY
+0389	300W
+0390	Amazon-2
+0391	Atari 2600 Space Invaders
+0392	Tox21
+0393	CIFAR-100
+0394	YouTube Faces DB
+0395	Bitcoin-Alpha
+0396	YouTube
+0397	ELO Ratings
+0398	COIL-RAG
+0399	MultiMNIST
+0400	GENIA - UAS
+0401	chords
+0402	Synthia Novel View Synthesis
+0403	Scan2CAD
+0404	SST-5 Fine-grained classification
+0405	CiteSeer (0.5%)
+0406	Mini-ImageNet - 1-Shot Learning
+0407	OTB-100
+0408	Switchboard (300hr)
+0409	fr-en
+0410	QASent
+0411	MTPV62
+0412	GRID corpus (mixed-speech)
+0413	Breast cancer Wisconsin_class 4
+0414	PubMed (0.05%)
+0415	Unrestricted
+0416	TIMIT
+0417	PubMed with Public Split: fixed 20 nodes per class
+0418	EYEDIAP (screen target)
+0419	Amazon-5
+0420	enwiki8
+0421	PASCAL Face
+0422	MPII Human Pose
+0423	REDDIT-B
+0424	CMU-SE
+0425	THUMOS 2014
+0426	Atari-57
+0427	Atari 2600 James Bond
+0428	SemEval 2013 Task 12
+0429	SCv1
+0430	Urban100 sigma30
+0431	Atari 2600 Gravitar
+0432	IWSLT2015 English-Vietnamese
+0433	KITTI Pedestrians Easy
+0434	BC5CDR
+0435	ISBI 2012 EM Segmentation
+0436	NarrativeQA
+0437	DAVIS-2017
+0438	BSD68 sigma70
+0439	GigaWord
+0440	CamVid
+0441	Urban100 sigma70
+0442	Visual Dialog  v0.9
+0443	Atari 2600 Bowling
+0444	TabFact
+0445	WIDER Face (Easy)
+0446	NC1
+0447	ChestX-ray14
+0448	DeepMind Cup Catch (Images)
+0449	BSD200 sigma30
+0450	BUCC German-to-English
+0451	BlogCatalog
+0452	ECSSD
+0453	ShapeNet
+0454	KITTI Cyclists Easy
+0455	KITTI 2012
+0456	Charades
+0457	Atari 2600 Ice Hockey
+0458	CHALL H80K
+0459	RaFD
+0460	LetterA-J
+0461	INRIA Holidays
+0462	ACE 2004
+0463	COMPLEXQUESTIONS
+0464	Birdsnap
+0465	COCO-Stuff Labels-to-Photos
+0466	MUTAG
+0467	R8
+0468	Something-Something V2
+0469	Atari 2600 Berzerk
+0470	iNaturalist
+0471	Yelp-2
+0472	100 sleep nights of 8 caregivers
+0473	Cora (3%)
+0474	Market-1501
+0475	HMDB-51
+0476	WMT2019 Finnish-English
+0477	Coil-20
+0478	Mandarin Chinese
+0479	NEURON-Average
+0480	LibriSpeech test-other
+0481	V-SNLI
+0482	FFHQ
+0483	Bitcoin-OTC
+0484	iSEG 2017 Challenge
+0485	WMT2016 Czech-English
+0486	ImageNet 32x32
+0487	NUS-WIDE
+0488	Atari 2600 Private Eye
+0489	Oxf105k
+0490	SensEval 2
+0491	Set5-2x
+0492	QNLI
+0493	York Urban Dataset
+0494	Facebook TV Show
+0495	WIDER Face (Medium)
+0496	CHAOS MRI Dataset
+0497	NYT
+0498	CelebA 256x256
+0499	ECG5000
+0500	HIV dataset
+0501	Something-Something V1
+0502	COCO test-dev
+0503	AVA v2.1
+0504	Atari 2600 Video Pinball
+0505	Caltech Lanes Cordova
+0506	Physionet 2017 Atrial Fibrillation
+0507	CullPDB
+0508	coil-100
+0509	HumanEva-I
+0510	WikiQA
+0511	BSD68 sigma25
+0512	THUMOS' 14
+0513	NTU RGB+D
+0514	es-en
+0515	D&D
+0516	RT-GENE
+0517	SUN-RGBD
+0518	DailyDialog
+0519	ShapeNet Car
+0520	Atari 2600 Solaris
+0521	Lipophilicity
+0522	IC15
+0523	MemexQA
+0524	VoxCeleb1 - 8-shot learning
+0525	Stanford Dogs
+0526	AFLW-Front
+0527	SemEval-2010 Task 8
+0528	en-es
+0529	PoseTrack2018
+0530	Django
+0531	TrecQA
+0532	EBM-NLP
+0533	Yelp Fine-grained classification
+0534	SEED
+0535	KITTI Semantic Segmentation
+0536	anime-to-selfie
+0537	STL-10
+0538	GPS
+0539	MS MARCO
+0540	Penn Treebank (Word Level)
+0541	WSJ eval92
+0542	Deezer Hungary
+0543	WMT2017 Finnish-English
+0544	BSD200 sigma50
+0545	NCI-123
+0546	CUHK03
+0547	YahooCQA
+0548	Atari 2600 Kangaroo
+0549	Wikipedia-Wikidata relations
+0550	egfr-inh
+0551	SQuAD2.0
+0552	FB15k
+0553	JD Product Question Answer
+0554	LDC2017T10
+0555	NEURON-MULTI
+0556	Atari 2600 River Raid
+0557	FB15k-237
+0558	PTC
+0559	Cityscapes Photo-to-Labels
+0560	NYU Hands
+0561	Visual Genome (subjects)
+0562	FewRel
+0563	NewsQA
+0564	VoxCeleb1 - 32-shot learning
+0565	WMT2016 English-German
+0566	WetLab
+0567	QM9
+0568	Deezer Croatia
+0569	NCI109
+0570	Ontonotes v5 (English)
+0571	Bing News
+0572	ETH BIWI Walking Pedestrians dataset
+0573	Atari 2600 Double Dunk
+0574	MSMT17
+0575	Atari 2600 Chopper Command
+0576	Human3.6M
+0577	Sintel-clean
+0578	QuAC
+0579	Atari 2600 Bank Heist
+0580	JNLPBA
+0581	OntoNotes
+0582	SWAG
+0583	Atari 2600 Pong
+0584	Atari 2600 Phoenix
+0585	CiteSeer with Public Split: fixed 20 nodes per class
+0586	VizWiz
+0587	DUTS-test
+0588	SNLI
+0589	Polyvore
+0590	Atari 2600 Assault
+0591	Mini-ImageNet - 5-Shot Learning
+0592	Visual Genome
+0593	IWSLT2015 German-English
+0594	RE-M5K
+0595	COCO Visual Question Answering (VQA) real images 1.0 multiple choice
+0596	bAbi
+0597	Open Entity
+0598	SemEvalCQA
+0599	Atari 2600 Asteroids
+0600	SLAM 2018
+0601	CelebA
+0602	STS Benchmark
+0603	Atari 2600 Skiing
+0604	Google Dataset
+0605	YouTube-8M
+0606	Wiki
+0607	CoLA
+0608	Total Capture
+0609	MPQA
+0610	iPinYou
+0611	BioGRID (human)
+0612	NABirds
+0613	PolyAI OpenSubtitles
+0614	PASCAL-S
+0615	Aerial-to-Map
+0616	NTU RGB+D 120
+0617	ActionNet-VE
+0618	DukeMTMC-reID
+0619	ETH/UCY
+0620	ScanNet
+0621	COLLAB
+0622	ASTD
+0623	ITOP top-view
+0624	Data3D−R2N2
+0625	HolStep (Conditional)
+0626	IMDb-M
+0627	Visual7W
+0628	Recipe1M
+0629	Google Street Images
+0630	TREC-6
+0631	RumourEval
+0632	Office-Home
+0633	KITTI 2015
+0634	Atari 2600 Amidar
+0635	Epinions
+0636	WMT2014 English-German
+0637	SST-2 Binary classification
+0638	MSNBC
+0639	COCO Captions
+0640	DUT-OMRON
+0641	RE-M12K
+0642	Facebook Politicians
+0643	MCTest-160
+0644	MSRA Hands
+0645	Atari 2600 Enduro
+0646	MultiNLI
+0647	SARC (pol-unbal)
+0648	Music domain
+0649	Facebook Celebrities
+0650	CIFAR-100 ResNet-18 - 200 Epochs
+0651	ImageNet32
+0652	Facebook Government
+0653	SemEval 2007 Task 17
+0654	Horizon Lines in the Wild
+0655	HolStep (Unconditional)
+0656	WikiText-2
+0657	AQUAINT
+0658	spider
+0659	COCO Visual Question Answering (VQA) real images 2.0 open ended
+0660	WMT2014 French-English
+0661	KITTI Pedestrians Hard
+0662	CiteSeer (1%)
+0663	TREC Robust04
+0664	Labeled Faces in the Wild
+0665	Breast cancer Wisconsin_class 2
+0666	DeepMind Walker Walk (Images)
+0667	WMT2016 German-English
+0668	Atari 2600 Crazy Climber
+0669	Sintel-final
+0670	Yahoo! Answers
+0671	Edge-to-Shoes
+0672	ScanNetV2
+0673	UT Multi-view
+0674	EYEDIAP (floating target)
+0675	General
+0676	ModelNet40
+0677	CAAD 2018
+0678	VIRAT Ground 2.0
+0679	Deezer Romania
+0680	PhysioNet Challenge 2012
+0681	Text8
+0682	Par6k
+0683	METR-LA
+0684	WMT 2017 Latvian-English
+0685	Visual Genome (pairs)
+0686	CIHP
+0687	IDHP
+0688	NCI-83
+0689	UD
+0690	CelebA-HQ 1024x1024
+0691	Office-31
+0692	Atari 2600 Name This Game
+0693	RWTH-PHOENIX-Weather 2014
+0694	Facebook Media
+0695	en-fr
+0696	Event2Mind
+0697	THUMOS’14
+0698	Electrocardiography (ECG) on Telehealth Network of Minas Gerais (TNMG)
+0699	Room2Room
+0700	Kuzushiji-MNIST
+0701	WMT 2017 English-Latvian
+0702	Oxford-IIIT Pets
+0703	SimpleQuestions

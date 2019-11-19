@@ -1,0 +1,183 @@
+0001	Sentiment Analysis
+0002	Semantic Segmentation
+0003	Scene Text Detection
+0004	Adversarial Defense
+0005	Object Detection
+0006	Semantic Parsing
+0007	Image Denoising
+0008	Facial Expression Recognition
+0009	Object Localization
+0010	Entity Disambiguation
+0011	Visual Question Answering
+0012	Game of Suduko
+0013	Question Answering
+0014	Birds Eye View Object Detection
+0015	Word Sense Disambiguation
+0016	Node Classification
+0017	Music Classification
+0018	Natural Language Inference
+0019	Machine Translation
+0020	Atari Games
+0021	Talking Head Generation
+0022	Link Prediction
+0023	Image Super-Resolution
+0024	Semantic Textual Similarity
+0025	Domain Adaptation
+0026	Graph Classification
+0027	Neural Architecture Search
+0028	Point Cloud Generation
+0029	Fine-Grained Image Classification
+0030	Graph Clustering
+0031	Lexical Normalization
+0032	Image-to-Image Translation
+0033	Outlier Detection
+0034	Length-of-stay prediction
+0035	Text Generation
+0036	Action Recognition In Videos
+0037	3D Human Pose Estimation
+0038	Entity Linking
+0039	Metric Learning
+0040	Horizon Line Estimation
+0041	Human-Object Interaction Detection
+0042	Text Classification
+0043	Novel View Synthesis
+0044	Pose Tracking
+0045	Dependency Parsing
+0046	Community Detection
+0047	Motion Segmentation
+0048	Audio Generation
+0049	Hand Pose Estimation
+0050	Cross-Lingual Bitext Mining
+0051	Speech Recognition
+0052	Drug Discovery
+0053	Relation Extraction
+0054	Named Entity Recognition
+0055	Point Cloud Super Resolution
+0056	Language Modelling
+0057	Relationship Extraction (Distant Supervised)
+0058	Image Retrieval
+0059	Saliency Detection
+0060	Action Classification
+0061	Pain Intensity Regression
+0062	Line segment detection
+0063	Reading Comprehension
+0064	Common Sense Reasoning
+0065	Document Image Classification
+0066	Protein Secondary Structure Prediction
+0067	Sign Language Translation
+0068	Semantic Role Labeling
+0069	Visual Reasoning
+0070	Nested Mention Recognition
+0071	Pose Estimation
+0072	Intent Detection
+0073	Image Classification
+0074	Image Generation
+0075	Hypernym Discovery
+0076	Click-Through Rate Prediction
+0077	Table-to-Text Generation
+0078	Video Summarization
+0079	Speech Enhancement
+0080	Seizure Detection
+0081	Traffic Prediction
+0082	Multi-Label Text Classification
+0083	Query Wellformedness
+0084	Person Identification
+0085	Instance Segmentation
+0086	Image Clustering
+0087	Surgical Skills Evaluation
+0088	Grammatical Error Correction
+0089	Conversational Response Selection
+0090	Subjectivity Analysis
+0091	Graph-to-Sequence
+0092	Automated Theorem Proving
+0093	Stochastic Optimization
+0094	CCG Supertagging
+0095	Image Reconstruction
+0096	Face Detection
+0097	Amr Parsing
+0098	Image Cropping
+0099	Graph Similarity
+0100	Abstractive Text Summarization
+0101	Edge Detection
+0102	Sarcasm Detection
+0103	Face Recognition
+0104	Gene Interaction Prediction
+0105	Music Modeling
+0106	Anomaly Detection
+0107	Gaze Estimation
+0108	Dense Pixel Correspondence Estimation
+0109	Text-To-Speech Synthesis
+0110	SQL-to-Text
+0111	Continuous Control
+0112	EEG
+0113	Deblurring
+0114	Link Sign Prediction
+0115	Constituency Parsing
+0116	Question Generation
+0117	Face Verification
+0118	Part-Of-Speech Tagging
+0119	Action Detection
+0120	Document Ranking
+0121	Multi-Armed Bandits
+0122	Airplane trajectory prediction
+0123	Text Summarization
+0124	Speech Synthesis
+0125	Human Part Segmentation
+0126	Facial Landmark Detection
+0127	Extractive Document Summarization
+0128	3D Multi-person Pose Estimation (absolute)
+0129	Time Series Clustering
+0130	Person Retrieval
+0131	3D Reconstruction
+0132	Graph Regression
+0133	Face Anonymization
+0134	Game of Go
+0135	Speech Separation
+0136	Music Genre Recognition
+0137	Few-Shot Learning
+0138	Visual Tracking
+0139	Word Alignment
+0140	Slot Filling
+0141	Weakly Supervised Action Localization
+0142	Medical Image Segmentation
+0143	Video Object Segmentation
+0144	Table-based Fact Verification
+0145	Pneumonia Detection
+0146	Optical Flow Estimation
+0147	Quantization
+0148	Sleep Quality
+0149	Person Re-Identification
+0150	Transfer Learning
+0151	Unsupervised Image-To-Image Translation
+0152	Super Resolution
+0153	Adversarial Attack
+0154	Mortality Prediction
+0155	Time Series Classification
+0156	Memex Question Answering
+0157	Code Generation
+0158	Participant Intervention Comparison Outcome Extraction
+0159	Passage Re-Ranking
+0160	Knowledge Graphs
+0161	Recommendation Systems
+0162	Entity Typing
+0163	Coreference Resolution
+0164	Language Acquisition
+0165	Sentence Compression
+0166	Video Classification
+0167	Linguistic Acceptability
+0168	Recipe Generation
+0169	Safety Perception Recognition
+0170	Stance Detection
+0171	3D Multi-person Pose Estimation (root-relative)
+0172	Image Compression
+0173	Text-To-Sql
+0174	Game of Shogi
+0175	Ad-Hoc Information Retrieval
+0176	Time Series
+0177	3D Object Classification
+0178	Paraphrase Identification
+0179	Causal Inference
+0180	Sign Language Recognition
+0181	Chunking
+0182	ECG Classification
+0183	Vision-Language Navigation
