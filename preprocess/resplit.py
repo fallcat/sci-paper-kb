@@ -8,7 +8,7 @@ split_lines = [total_lines*x for x in split]
 split_list = [[], [], []]
 split_names = ['train', 'dev', 'test']
 
-with open('../data/datasets_papers_all_id_new.txt', 'rt') as file:
+with open('../data/all_data.txt', 'rt') as file:
     G = nx.Graph()
     for line in file.readlines():
         line_list = line.strip().split('\t')
@@ -17,7 +17,7 @@ with open('../data/datasets_papers_all_id_new.txt', 'rt') as file:
 
     connected_components_list = list(sorted(nx.connected_components(G), key=len, reverse=True))
 
-with open('../data/datasets_papers_all_id_new.txt', 'rt') as file:
+with open('../data/all_data.txt', 'rt') as file:
     subgraphs_indices = []
     connected_components_dict = {}
     connected_components_dict2 = {}

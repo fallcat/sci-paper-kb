@@ -1,0 +1,1058 @@
+Atari Games	0020	Atari 2600 Yars Revenge	0024	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Tennis	0028	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Tennis	0028	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Tennis	0028	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Tennis	0028	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Tennis	0028	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Tennis	0028	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Tennis	0028	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Tennis	0028	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Tennis	0028	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Tennis	0028	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Tennis	0028	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Tennis	0028	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Tennis	0028	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Tennis	0028	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Tennis	0028	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Tennis	0028	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Tennis	0028	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Tennis	0028	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Tennis	0028	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Tennis	0028	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 HERO	0031	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 HERO	0031	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 HERO	0031	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 HERO	0031	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 HERO	0031	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 HERO	0031	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 HERO	0031	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 HERO	0031	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 HERO	0031	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 HERO	0031	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 HERO	0031	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 HERO	0031	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 HERO	0031	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 HERO	0031	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 HERO	0031	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 HERO	0031	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 HERO	0031	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 HERO	0031	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 HERO	0031	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Wizard of Wor	0040	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Gopher	0047	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Gopher	0047	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Gopher	0047	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Gopher	0047	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Gopher	0047	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Gopher	0047	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Gopher	0047	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Gopher	0047	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Gopher	0047	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Gopher	0047	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Gopher	0047	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Gopher	0047	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Gopher	0047	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Gopher	0047	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Gopher	0047	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Gopher	0047	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Gopher	0047	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Gopher	0047	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Gopher	0047	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Gopher	0047	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Q*Bert	0051	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Q*Bert	0051	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Q*Bert	0051	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Q*Bert	0051	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Q*Bert	0051	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Q*Bert	0051	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Q*Bert	0051	Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models	http://arxiv.org/abs/1507.00814v3	0237
+Atari Games	0020	Atari 2600 Q*Bert	0051	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Q*Bert	0051	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Q*Bert	0051	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Q*Bert	0051	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Q*Bert	0051	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Q*Bert	0051	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Q*Bert	0051	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Q*Bert	0051	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Q*Bert	0051	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Q*Bert	0051	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Q*Bert	0051	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Q*Bert	0051	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Q*Bert	0051	Playing Atari with Deep Reinforcement Learning	http://arxiv.org/abs/1312.5602v1	0238
+Atari Games	0020	Atari 2600 Q*Bert	0051	Count-Based Exploration in Feature Space for Reinforcement Learning	http://arxiv.org/abs/1706.08090v1	0239
+Atari Games	0020	Atari 2600 Q*Bert	0051	Count-Based Exploration in Feature Space for Reinforcement Learning	http://arxiv.org/abs/1706.08090v1	0239
+Atari Games	0020	Atari 2600 Q*Bert	0051	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Q*Bert	0051	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Alien	0072	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Alien	0072	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Alien	0072	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Alien	0072	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Alien	0072	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Alien	0072	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Alien	0072	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Alien	0072	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Alien	0072	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Alien	0072	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Alien	0072	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Alien	0072	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Alien	0072	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Alien	0072	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Alien	0072	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Alien	0072	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Alien	0072	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Alien	0072	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Alien	0072	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Alien	0072	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Alien	0072	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Road Runner	0081	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Road Runner	0081	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Road Runner	0081	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Road Runner	0081	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Road Runner	0081	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Road Runner	0081	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Road Runner	0081	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Road Runner	0081	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Road Runner	0081	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Road Runner	0081	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Road Runner	0081	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Road Runner	0081	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Road Runner	0081	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Road Runner	0081	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Road Runner	0081	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Road Runner	0081	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Road Runner	0081	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Road Runner	0081	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Road Runner	0081	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Road Runner	0081	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Zaxxon	0083	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Zaxxon	0083	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Zaxxon	0083	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Zaxxon	0083	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Zaxxon	0083	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Zaxxon	0083	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Zaxxon	0083	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Zaxxon	0083	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Zaxxon	0083	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Zaxxon	0083	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Zaxxon	0083	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Zaxxon	0083	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Zaxxon	0083	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Zaxxon	0083	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Zaxxon	0083	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Zaxxon	0083	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Zaxxon	0083	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Zaxxon	0083	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Zaxxon	0083	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Zaxxon	0083	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Ms. Pacman	0085	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Breakout	0100	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Breakout	0100	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Breakout	0100	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Breakout	0100	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Breakout	0100	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Breakout	0100	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Breakout	0100	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Breakout	0100	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Breakout	0100	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Breakout	0100	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Breakout	0100	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Breakout	0100	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Breakout	0100	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Breakout	0100	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Breakout	0100	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Breakout	0100	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Breakout	0100	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Breakout	0100	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Breakout	0100	Playing Atari with Deep Reinforcement Learning	http://arxiv.org/abs/1312.5602v1	0238
+Atari Games	0020	Atari 2600 Breakout	0100	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Breakout	0100	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Frostbite	0109	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Frostbite	0109	#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning	http://arxiv.org/abs/1611.04717v3	0404
+Atari Games	0020	Atari 2600 Frostbite	0109	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Frostbite	0109	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Frostbite	0109	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Frostbite	0109	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Frostbite	0109	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Frostbite	0109	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Frostbite	0109	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Frostbite	0109	Count-Based Exploration in Feature Space for Reinforcement Learning	http://arxiv.org/abs/1706.08090v1	0239
+Atari Games	0020	Atari 2600 Frostbite	0109	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Frostbite	0109	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Frostbite	0109	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Frostbite	0109	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Frostbite	0109	Count-Based Exploration in Feature Space for Reinforcement Learning	http://arxiv.org/abs/1706.08090v1	0239
+Atari Games	0020	Atari 2600 Frostbite	0109	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Frostbite	0109	Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models	http://arxiv.org/abs/1507.00814v3	0237
+Atari Games	0020	Atari 2600 Frostbite	0109	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Frostbite	0109	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Frostbite	0109	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Frostbite	0109	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Frostbite	0109	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Frostbite	0109	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Frostbite	0109	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Surround	0127	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Seaquest	0137	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Seaquest	0137	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Seaquest	0137	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Seaquest	0137	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Seaquest	0137	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Seaquest	0137	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Seaquest	0137	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Seaquest	0137	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Seaquest	0137	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Seaquest	0137	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Seaquest	0137	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Seaquest	0137	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Seaquest	0137	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Seaquest	0137	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Seaquest	0137	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Seaquest	0137	Playing Atari with Deep Reinforcement Learning	http://arxiv.org/abs/1312.5602v1	0238
+Atari Games	0020	Atari 2600 Seaquest	0137	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Seaquest	0137	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Seaquest	0137	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Seaquest	0137	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Seaquest	0137	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Boxing	0148	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Boxing	0148	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Boxing	0148	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Boxing	0148	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Boxing	0148	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Boxing	0148	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Boxing	0148	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Boxing	0148	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Boxing	0148	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Boxing	0148	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Boxing	0148	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Boxing	0148	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Boxing	0148	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Boxing	0148	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Boxing	0148	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Boxing	0148	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Boxing	0148	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Boxing	0148	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Boxing	0148	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Boxing	0148	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Atlantis	0161	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Atlantis	0161	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Atlantis	0161	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Atlantis	0161	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Atlantis	0161	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Atlantis	0161	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Atlantis	0161	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Atlantis	0161	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Atlantis	0161	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Atlantis	0161	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Atlantis	0161	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Atlantis	0161	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Atlantis	0161	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Atlantis	0161	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Atlantis	0161	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Atlantis	0161	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Atlantis	0161	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Atlantis	0161	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Atlantis	0161	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Atlantis	0161	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Exploration by Random Network Distillation	http://arxiv.org/abs/1810.12894v1	0633
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Contingency-Aware Exploration in Reinforcement Learning	http://arxiv.org/abs/1811.01483v3	0634
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Count-Based Exploration with Neural Density Models	http://arxiv.org/abs/1703.01310v2	0635
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Unifying Count-Based Exploration and Intrinsic Motivation	http://arxiv.org/abs/1606.01868v2	0636
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Count-Based Exploration in Feature Space for Reinforcement Learning	http://arxiv.org/abs/1706.08090v1	0239
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Count-Based Exploration with the Successor Representation	http://arxiv.org/abs/1807.11622v3	0637
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Count-Based Exploration in Feature Space for Reinforcement Learning	http://arxiv.org/abs/1706.08090v1	0239
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Unifying Count-Based Exploration and Intrinsic Motivation	http://arxiv.org/abs/1606.01868v2	0636
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models	http://arxiv.org/abs/1507.00814v3	0237
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning	http://arxiv.org/abs/1611.04717v3	0404
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Count-Based Exploration with Neural Density Models	http://arxiv.org/abs/1703.01310v2	0635
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Montezuma's Revenge	0183	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Demon Attack	0191	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Demon Attack	0191	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Demon Attack	0191	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Demon Attack	0191	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Demon Attack	0191	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Demon Attack	0191	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Demon Attack	0191	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Demon Attack	0191	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Demon Attack	0191	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Demon Attack	0191	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Demon Attack	0191	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Demon Attack	0191	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Demon Attack	0191	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Demon Attack	0191	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Demon Attack	0191	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Demon Attack	0191	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Demon Attack	0191	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Demon Attack	0191	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Demon Attack	0191	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Demon Attack	0191	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Beam Rider	0195	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Beam Rider	0195	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Beam Rider	0195	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Beam Rider	0195	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Beam Rider	0195	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Beam Rider	0195	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Beam Rider	0195	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Beam Rider	0195	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Beam Rider	0195	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Beam Rider	0195	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Beam Rider	0195	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Beam Rider	0195	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Beam Rider	0195	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Beam Rider	0195	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Beam Rider	0195	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Beam Rider	0195	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Beam Rider	0195	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Beam Rider	0195	Playing Atari with Deep Reinforcement Learning	http://arxiv.org/abs/1312.5602v1	0238
+Atari Games	0020	Atari 2600 Beam Rider	0195	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Beam Rider	0195	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Beam Rider	0195	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Centipede	0196	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Centipede	0196	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Centipede	0196	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Centipede	0196	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Centipede	0196	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Centipede	0196	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Centipede	0196	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Centipede	0196	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Centipede	0196	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Centipede	0196	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Centipede	0196	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Centipede	0196	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Centipede	0196	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Centipede	0196	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Centipede	0196	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Centipede	0196	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Centipede	0196	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Centipede	0196	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Centipede	0196	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Centipede	0196	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Robotank	0204	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Robotank	0204	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Robotank	0204	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Robotank	0204	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Robotank	0204	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Robotank	0204	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Robotank	0204	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Robotank	0204	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Robotank	0204	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Robotank	0204	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Robotank	0204	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Robotank	0204	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Robotank	0204	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Robotank	0204	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Robotank	0204	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Robotank	0204	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Robotank	0204	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Robotank	0204	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Robotank	0204	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Robotank	0204	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Defender	0207	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Defender	0207	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Defender	0207	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Defender	0207	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Battle Zone	0219	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Battle Zone	0219	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Battle Zone	0219	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Battle Zone	0219	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Battle Zone	0219	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Battle Zone	0219	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Battle Zone	0219	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Battle Zone	0219	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Battle Zone	0219	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Battle Zone	0219	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Battle Zone	0219	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Battle Zone	0219	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Battle Zone	0219	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Battle Zone	0219	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Battle Zone	0219	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Battle Zone	0219	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Battle Zone	0219	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Battle Zone	0219	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Battle Zone	0219	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Battle Zone	0219	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Asterix	0271	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Asterix	0271	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Asterix	0271	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Asterix	0271	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Asterix	0271	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Asterix	0271	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Asterix	0271	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Asterix	0271	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Asterix	0271	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Asterix	0271	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Asterix	0271	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Asterix	0271	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Asterix	0271	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Asterix	0271	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Asterix	0271	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Asterix	0271	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Asterix	0271	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Asterix	0271	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Asterix	0271	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Asterix	0271	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Asterix	0271	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Time Pilot	0275	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Time Pilot	0275	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Time Pilot	0275	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Time Pilot	0275	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Time Pilot	0275	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Time Pilot	0275	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Time Pilot	0275	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Time Pilot	0275	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Time Pilot	0275	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Time Pilot	0275	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Time Pilot	0275	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Time Pilot	0275	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Time Pilot	0275	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Time Pilot	0275	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Time Pilot	0275	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Time Pilot	0275	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Time Pilot	0275	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Time Pilot	0275	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Time Pilot	0275	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Time Pilot	0275	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Pitfall!	0308	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Pitfall!	0308	Exploration by Random Network Distillation	http://arxiv.org/abs/1810.12894v1	0633
+Atari Games	0020	Atari 2600 Venture	0332	Exploration by Random Network Distillation	http://arxiv.org/abs/1810.12894v1	0633
+Atari Games	0020	Atari 2600 Venture	0332	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Venture	0332	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Venture	0332	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Venture	0332	Count-Based Exploration in Feature Space for Reinforcement Learning	http://arxiv.org/abs/1706.08090v1	0239
+Atari Games	0020	Atari 2600 Venture	0332	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Venture	0332	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Venture	0332	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Venture	0332	#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning	http://arxiv.org/abs/1611.04717v3	0404
+Atari Games	0020	Atari 2600 Venture	0332	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Venture	0332	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Venture	0332	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Venture	0332	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Venture	0332	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Venture	0332	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Venture	0332	Count-Based Exploration with Neural Density Models	http://arxiv.org/abs/1703.01310v2	0635
+Atari Games	0020	Atari 2600 Venture	0332	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Venture	0332	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Venture	0332	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Venture	0332	Count-Based Exploration with Neural Density Models	http://arxiv.org/abs/1703.01310v2	0635
+Atari Games	0020	Atari 2600 Venture	0332	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Venture	0332	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Venture	0332	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Venture	0332	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Venture	0332	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Venture	0332	Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models	http://arxiv.org/abs/1507.00814v3	0237
+Atari Games	0020	Atari 2600 Venture	0332	Unifying Count-Based Exploration and Intrinsic Motivation	http://arxiv.org/abs/1606.01868v2	0636
+Atari Games	0020	Atari 2600 Venture	0332	Count-Based Exploration in Feature Space for Reinforcement Learning	http://arxiv.org/abs/1706.08090v1	0239
+Atari Games	0020	Atari 2600 Freeway	0351	#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning	http://arxiv.org/abs/1611.04717v3	0404
+Atari Games	0020	Atari 2600 Freeway	0351	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Freeway	0351	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Freeway	0351	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Freeway	0351	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Freeway	0351	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Freeway	0351	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Freeway	0351	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Freeway	0351	Count-Based Exploration with Neural Density Models	http://arxiv.org/abs/1703.01310v2	0635
+Atari Games	0020	Atari 2600 Freeway	0351	Count-Based Exploration with Neural Density Models	http://arxiv.org/abs/1703.01310v2	0635
+Atari Games	0020	Atari 2600 Freeway	0351	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Freeway	0351	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Freeway	0351	Unifying Count-Based Exploration and Intrinsic Motivation	http://arxiv.org/abs/1606.01868v2	0636
+Atari Games	0020	Atari 2600 Freeway	0351	Count-Based Exploration in Feature Space for Reinforcement Learning	http://arxiv.org/abs/1706.08090v1	0239
+Atari Games	0020	Atari 2600 Freeway	0351	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Freeway	0351	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Freeway	0351	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Freeway	0351	Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models	http://arxiv.org/abs/1507.00814v3	0237
+Atari Games	0020	Atari 2600 Freeway	0351	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Freeway	0351	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Freeway	0351	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Freeway	0351	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Freeway	0351	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Freeway	0351	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Freeway	0351	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Freeway	0351	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Freeway	0351	Count-Based Exploration in Feature Space for Reinforcement Learning	http://arxiv.org/abs/1706.08090v1	0239
+Atari Games	0020	Atari 2600 Krull	0355	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Krull	0355	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Krull	0355	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Krull	0355	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Krull	0355	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Krull	0355	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Krull	0355	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Krull	0355	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Krull	0355	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Krull	0355	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Krull	0355	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Krull	0355	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Krull	0355	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Krull	0355	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Krull	0355	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Krull	0355	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Krull	0355	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Krull	0355	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Krull	0355	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Krull	0355	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Up and Down	0371	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Up and Down	0371	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Up and Down	0371	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Up and Down	0371	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Up and Down	0371	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Up and Down	0371	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Up and Down	0371	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Up and Down	0371	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Up and Down	0371	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Up and Down	0371	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Up and Down	0371	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Up and Down	0371	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Up and Down	0371	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Up and Down	0371	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Up and Down	0371	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Up and Down	0371	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Up and Down	0371	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Up and Down	0371	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Up and Down	0371	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Up and Down	0371	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Star Gunner	0382	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Star Gunner	0382	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Star Gunner	0382	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Star Gunner	0382	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Star Gunner	0382	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Star Gunner	0382	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Star Gunner	0382	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Star Gunner	0382	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Star Gunner	0382	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Star Gunner	0382	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Star Gunner	0382	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Star Gunner	0382	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Star Gunner	0382	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Star Gunner	0382	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Star Gunner	0382	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Star Gunner	0382	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Star Gunner	0382	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Star Gunner	0382	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Star Gunner	0382	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Star Gunner	0382	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Fishing Derby	0384	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Fishing Derby	0384	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Fishing Derby	0384	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Tutankham	0386	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Tutankham	0386	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Tutankham	0386	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Tutankham	0386	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Tutankham	0386	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Tutankham	0386	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Tutankham	0386	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Tutankham	0386	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Tutankham	0386	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Tutankham	0386	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Tutankham	0386	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Tutankham	0386	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Tutankham	0386	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Tutankham	0386	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Tutankham	0386	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Tutankham	0386	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Tutankham	0386	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Tutankham	0386	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Tutankham	0386	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Tutankham	0386	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Kung-Fu Master	0387	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Space Invaders	0391	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Space Invaders	0391	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Space Invaders	0391	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Space Invaders	0391	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Space Invaders	0391	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Space Invaders	0391	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Space Invaders	0391	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Space Invaders	0391	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Space Invaders	0391	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Space Invaders	0391	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Space Invaders	0391	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Space Invaders	0391	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Space Invaders	0391	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Space Invaders	0391	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Space Invaders	0391	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Space Invaders	0391	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Space Invaders	0391	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Space Invaders	0391	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Space Invaders	0391	Playing Atari with Deep Reinforcement Learning	http://arxiv.org/abs/1312.5602v1	0238
+Atari Games	0020	Atari 2600 Space Invaders	0391	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Space Invaders	0391	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 James Bond	0427	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 James Bond	0427	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 James Bond	0427	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 James Bond	0427	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 James Bond	0427	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 James Bond	0427	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 James Bond	0427	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 James Bond	0427	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 James Bond	0427	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 James Bond	0427	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 James Bond	0427	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 James Bond	0427	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 James Bond	0427	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 James Bond	0427	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 James Bond	0427	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 James Bond	0427	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 James Bond	0427	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 James Bond	0427	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 James Bond	0427	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Gravitar	0431	Exploration by Random Network Distillation	http://arxiv.org/abs/1810.12894v1	0633
+Atari Games	0020	Atari 2600 Gravitar	0431	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Gravitar	0431	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Gravitar	0431	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Gravitar	0431	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Gravitar	0431	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Gravitar	0431	Count-Based Exploration with Neural Density Models	http://arxiv.org/abs/1703.01310v2	0635
+Atari Games	0020	Atari 2600 Gravitar	0431	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Gravitar	0431	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Gravitar	0431	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Gravitar	0431	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Gravitar	0431	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Gravitar	0431	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Gravitar	0431	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Gravitar	0431	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Gravitar	0431	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Gravitar	0431	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Gravitar	0431	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Gravitar	0431	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Gravitar	0431	Unifying Count-Based Exploration and Intrinsic Motivation	http://arxiv.org/abs/1606.01868v2	0636
+Atari Games	0020	Atari 2600 Gravitar	0431	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Gravitar	0431	Count-Based Exploration with Neural Density Models	http://arxiv.org/abs/1703.01310v2	0635
+Atari Games	0020	Atari 2600 Gravitar	0431	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Gravitar	0431	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Bowling	0443	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Bowling	0443	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Bowling	0443	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Bowling	0443	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Bowling	0443	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Bowling	0443	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Bowling	0443	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Bowling	0443	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Bowling	0443	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Bowling	0443	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Bowling	0443	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Bowling	0443	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Bowling	0443	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Bowling	0443	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Bowling	0443	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Bowling	0443	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Bowling	0443	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Bowling	0443	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Bowling	0443	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Bowling	0443	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Ice Hockey	0457	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Ice Hockey	0457	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Ice Hockey	0457	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Berzerk	0469	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Berzerk	0469	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Berzerk	0469	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Berzerk	0469	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Berzerk	0469	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Berzerk	0469	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Berzerk	0469	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Berzerk	0469	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Berzerk	0469	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Berzerk	0469	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Berzerk	0469	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Berzerk	0469	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Berzerk	0469	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Berzerk	0469	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Berzerk	0469	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Berzerk	0469	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Berzerk	0469	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Private Eye	0488	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Private Eye	0488	Exploration by Random Network Distillation	http://arxiv.org/abs/1810.12894v1	0633
+Atari Games	0020	Atari 2600 Private Eye	0488	Count-Based Exploration with Neural Density Models	http://arxiv.org/abs/1703.01310v2	0635
+Atari Games	0020	Atari 2600 Private Eye	0488	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Private Eye	0488	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Private Eye	0488	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Private Eye	0488	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Private Eye	0488	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Private Eye	0488	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Private Eye	0488	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Private Eye	0488	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Private Eye	0488	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Private Eye	0488	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Private Eye	0488	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Private Eye	0488	Count-Based Exploration with Neural Density Models	http://arxiv.org/abs/1703.01310v2	0635
+Atari Games	0020	Atari 2600 Private Eye	0488	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Private Eye	0488	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Private Eye	0488	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Private Eye	0488	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Private Eye	0488	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Private Eye	0488	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Private Eye	0488	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Private Eye	0488	Unifying Count-Based Exploration and Intrinsic Motivation	http://arxiv.org/abs/1606.01868v2	0636
+Atari Games	0020	Atari 2600 Private Eye	0488	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Video Pinball	0504	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Video Pinball	0504	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Video Pinball	0504	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Video Pinball	0504	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Video Pinball	0504	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Video Pinball	0504	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Video Pinball	0504	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Video Pinball	0504	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Video Pinball	0504	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Video Pinball	0504	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Video Pinball	0504	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Video Pinball	0504	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Video Pinball	0504	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Video Pinball	0504	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Video Pinball	0504	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Video Pinball	0504	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Video Pinball	0504	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Video Pinball	0504	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Video Pinball	0504	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Video Pinball	0504	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Solaris	0520	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Solaris	0520	Exploration by Random Network Distillation	http://arxiv.org/abs/1810.12894v1	0633
+Atari Games	0020	Atari 2600 Kangaroo	0548	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Kangaroo	0548	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Kangaroo	0548	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Kangaroo	0548	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Kangaroo	0548	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Kangaroo	0548	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Kangaroo	0548	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Kangaroo	0548	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Kangaroo	0548	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Kangaroo	0548	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Kangaroo	0548	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Kangaroo	0548	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Kangaroo	0548	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Kangaroo	0548	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Kangaroo	0548	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Kangaroo	0548	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Kangaroo	0548	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Kangaroo	0548	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Kangaroo	0548	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Kangaroo	0548	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 River Raid	0556	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 River Raid	0556	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 River Raid	0556	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 River Raid	0556	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 River Raid	0556	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 River Raid	0556	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 River Raid	0556	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 River Raid	0556	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 River Raid	0556	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 River Raid	0556	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 River Raid	0556	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 River Raid	0556	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 River Raid	0556	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 River Raid	0556	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 River Raid	0556	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 River Raid	0556	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 River Raid	0556	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 River Raid	0556	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 River Raid	0556	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 River Raid	0556	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Double Dunk	0573	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Double Dunk	0573	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Double Dunk	0573	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Double Dunk	0573	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Double Dunk	0573	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Double Dunk	0573	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Double Dunk	0573	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Double Dunk	0573	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Double Dunk	0573	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Double Dunk	0573	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Double Dunk	0573	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Double Dunk	0573	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Double Dunk	0573	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Double Dunk	0573	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Double Dunk	0573	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Double Dunk	0573	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Double Dunk	0573	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Double Dunk	0573	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Double Dunk	0573	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Double Dunk	0573	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Chopper Command	0575	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Chopper Command	0575	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Chopper Command	0575	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Chopper Command	0575	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Chopper Command	0575	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Chopper Command	0575	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Chopper Command	0575	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Chopper Command	0575	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Chopper Command	0575	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Chopper Command	0575	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Chopper Command	0575	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Chopper Command	0575	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Chopper Command	0575	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Chopper Command	0575	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Chopper Command	0575	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Chopper Command	0575	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Chopper Command	0575	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Chopper Command	0575	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Chopper Command	0575	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Chopper Command	0575	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Bank Heist	0579	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Bank Heist	0579	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Bank Heist	0579	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Bank Heist	0579	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Bank Heist	0579	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Bank Heist	0579	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Bank Heist	0579	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Bank Heist	0579	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Bank Heist	0579	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Bank Heist	0579	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Bank Heist	0579	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Bank Heist	0579	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Bank Heist	0579	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Bank Heist	0579	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Bank Heist	0579	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Bank Heist	0579	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Bank Heist	0579	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Bank Heist	0579	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Bank Heist	0579	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Bank Heist	0579	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Pong	0583	Playing Atari with Deep Reinforcement Learning	http://arxiv.org/abs/1312.5602v1	0238
+Atari Games	0020	Atari 2600 Pong	0583	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Pong	0583	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Pong	0583	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Pong	0583	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Pong	0583	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Pong	0583	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Pong	0583	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Pong	0583	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Pong	0583	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Pong	0583	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Pong	0583	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Pong	0583	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Pong	0583	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Pong	0583	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Pong	0583	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Pong	0583	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Pong	0583	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Pong	0583	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Pong	0583	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Pong	0583	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Phoenix	0584	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Phoenix	0584	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Assault	0590	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Assault	0590	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Assault	0590	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Assault	0590	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Assault	0590	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Assault	0590	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Assault	0590	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Assault	0590	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Assault	0590	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Assault	0590	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Assault	0590	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Assault	0590	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Assault	0590	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Assault	0590	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Assault	0590	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Assault	0590	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Assault	0590	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Assault	0590	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Assault	0590	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Assault	0590	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Assault	0590	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Asteroids	0599	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Asteroids	0599	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Asteroids	0599	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Asteroids	0599	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Asteroids	0599	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Asteroids	0599	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Asteroids	0599	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Asteroids	0599	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Asteroids	0599	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Asteroids	0599	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Asteroids	0599	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Asteroids	0599	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Asteroids	0599	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Asteroids	0599	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Asteroids	0599	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Asteroids	0599	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Asteroids	0599	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Asteroids	0599	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Asteroids	0599	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Asteroids	0599	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Skiing	0603	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Amidar	0634	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Amidar	0634	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Amidar	0634	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Amidar	0634	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Amidar	0634	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Amidar	0634	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Amidar	0634	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Amidar	0634	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Amidar	0634	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Amidar	0634	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Amidar	0634	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Amidar	0634	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Amidar	0634	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Amidar	0634	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Amidar	0634	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Amidar	0634	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Amidar	0634	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Amidar	0634	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Amidar	0634	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Amidar	0634	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Amidar	0634	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Enduro	0645	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Enduro	0645	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Enduro	0645	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Enduro	0645	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Enduro	0645	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Enduro	0645	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Enduro	0645	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Enduro	0645	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Enduro	0645	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Enduro	0645	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Enduro	0645	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Enduro	0645	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Enduro	0645	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Enduro	0645	Playing Atari with Deep Reinforcement Learning	http://arxiv.org/abs/1312.5602v1	0238
+Atari Games	0020	Atari 2600 Enduro	0645	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Enduro	0645	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Enduro	0645	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Enduro	0645	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Enduro	0645	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Enduro	0645	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Enduro	0645	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Crazy Climber	0668	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Crazy Climber	0668	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Crazy Climber	0668	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
+Atari Games	0020	Atari 2600 Name This Game	0692	Implicit Quantile Networks for Distributional Reinforcement Learning	http://arxiv.org/abs/1806.06923v1	0149
+Atari Games	0020	Atari 2600 Name This Game	0692	Learning values across many orders of magnitude	http://arxiv.org/abs/1602.07714v2	0158
+Atari Games	0020	Atari 2600 Name This Game	0692	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Name This Game	0692	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Name This Game	0692	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
+Atari Games	0020	Atari 2600 Name This Game	0692	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Name This Game	0692	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Name This Game	0692	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Name This Game	0692	Deep Exploration via Bootstrapped DQN	http://arxiv.org/abs/1602.04621v3	0161
+Atari Games	0020	Atari 2600 Name This Game	0692	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Name This Game	0692	Dueling Network Architectures for Deep Reinforcement Learning	http://arxiv.org/abs/1511.06581v3	0159
+Atari Games	0020	Atari 2600 Name This Game	0692	Prioritized Experience Replay	http://arxiv.org/abs/1511.05952v4	0160
+Atari Games	0020	Atari 2600 Name This Game	0692	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Name This Game	0692	Massively Parallel Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1507.04296v2	0163
+Atari Games	0020	Atari 2600 Name This Game	0692	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Name This Game	0692	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Name This Game	0692	Deep Reinforcement Learning with Double Q-learning	http://arxiv.org/abs/1509.06461v3	0157
+Atari Games	0020	Atari 2600 Name This Game	0692	Asynchronous Methods for Deep Reinforcement Learning	http://arxiv.org/abs/1602.01783v2	0165
+Atari Games	0020	Atari 2600 Name This Game	0692	Evolution Strategies as a Scalable Alternative to Reinforcement Learning	http://arxiv.org/abs/1703.03864v2	0164
+Atari Games	0020	Atari 2600 Name This Game	0692	The Arcade Learning Environment: An Evaluation Platform for General Agents	http://arxiv.org/abs/1207.4708v2	0162
