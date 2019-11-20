@@ -1,0 +1,516 @@
+Action Recognition In Videos	0036	Jester	0053	Learning Video Representations from Correspondence Proposals	https://arxiv.org/abs/1905.07853v1	0240
+Action Recognition In Videos	0036	Jester	0053	STM: SpatioTemporal and Motion Encoding for Action Recognition	https://arxiv.org/abs/1908.02486v2	0241
+Action Recognition In Videos	0036	Jester	0053	Temporal Relational Reasoning in Videos	http://arxiv.org/abs/1711.08496v2	0242
+Action Recognition In Videos	0036	Jester	0053	Resource Efficient 3D Convolutional Neural Networks	https://arxiv.org/abs/1904.02422v4	0243
+Action Recognition In Videos	0036	Jester	0053	Resource Efficient 3D Convolutional Neural Networks	https://arxiv.org/abs/1904.02422v4	0243
+Action Recognition In Videos	0036	Jester	0053	Resource Efficient 3D Convolutional Neural Networks	https://arxiv.org/abs/1904.02422v4	0243
+Action Classification	0060	MiniKinetics	0105	MARS: Motion-Augmented RGB Stream for Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html	0396
+Action Recognition In Videos	0036	ActivityNet	0124	YouTube-8M: A Large-Scale Video Classification Benchmark	http://arxiv.org/abs/1609.08675v1	0415
+Action Recognition In Videos	0036	ActivityNet	0124	Do Less and Achieve More: Training CNNs for Action Recognition Utilizing Action Images from the Web	http://arxiv.org/abs/1512.07155v1	0416
+Action Recognition In Videos	0036	ActivityNet	0124	Towards Universal Representation for Unseen Action Recognition	http://arxiv.org/abs/1803.08460v1	0417
+Action Recognition In Videos	0036	ActivityNet	0124	Do Less and Achieve More: Training CNNs for Action Recognition Utilizing Action Images from the Web	http://arxiv.org/abs/1512.07155v1	0416
+Action Recognition In Videos	0036	Sports-1M	0140	Video Classification with Channel-Separated Convolutional Networks	https://arxiv.org/abs/1904.02811v3	0467
+Action Recognition In Videos	0036	Sports-1M	0140	What Makes Training Multi-Modal Networks Hard?	https://arxiv.org/abs/1905.12681v3	0468
+Action Recognition In Videos	0036	Sports-1M	0140	A Closer Look at Spatiotemporal Convolutions for Action Recognition	http://arxiv.org/abs/1711.11248v3	0469
+Action Recognition In Videos	0036	Sports-1M	0140	A Closer Look at Spatiotemporal Convolutions for Action Recognition	http://arxiv.org/abs/1711.11248v3	0469
+Action Recognition In Videos	0036	Sports-1M	0140	Beyond Short Snippets: Deep Networks for Video Classification	http://arxiv.org/abs/1503.08909v2	0470
+Action Recognition In Videos	0036	Sports-1M	0140	Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks	http://arxiv.org/abs/1711.10305v1	0471
+Action Recognition In Videos	0036	Sports-1M	0140	YouTube-8M: A Large-Scale Video Classification Benchmark	http://arxiv.org/abs/1609.08675v1	0415
+Action Recognition In Videos	0036	Sports-1M	0140	Large-Scale Video Classification with Convolutional Neural Networks	https://doi.org/10.1109/CVPR.2014.223	0472
+Action Recognition In Videos	0036	Sports-1M	0140	Learning Spatiotemporal Features with 3D Convolutional Networks	http://arxiv.org/abs/1412.0767v4	0473
+Action Classification	0060	HMDB51	0172	Evolving Space-Time Neural Architectures for Videos	https://arxiv.org/abs/1811.10636v2	0604
+Action Classification	0060	HMDB51	0172	Representation Flow for Action Recognition	https://arxiv.org/abs/1810.01455v3	0605
+Action Classification	0060	HMDB51	0172	Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset	http://arxiv.org/abs/1705.07750v3	0606
+Action Classification	0060	HMDB51	0172	Learning Latent Sub-events in Activity Videos Using Temporal Attention Filters	http://arxiv.org/abs/1605.08140v3	0607
+Action Classification	0060	Kinetics-400	0179	Video Classification with Channel-Separated Convolutional Networks	https://arxiv.org/abs/1904.02811v3	0467
+Action Classification	0060	Kinetics-400	0179	What Makes Training Multi-Modal Networks Hard?	https://arxiv.org/abs/1905.12681v3	0468
+Action Classification	0060	Kinetics-400	0179	Action recognition with spatial-temporal discriminative filter banks	https://arxiv.org/abs/1908.07625v1	0625
+Action Classification	0060	Kinetics-400	0179	Representation Flow for Action Recognition	https://arxiv.org/abs/1810.01455v3	0605
+Action Classification	0060	Kinetics-400	0179	What Makes Training Multi-Modal Networks Hard?	https://arxiv.org/abs/1905.12681v3	0468
+Action Classification	0060	Kinetics-400	0179	Collaborative Spatiotemporal Feature Learning for Video Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Collaborative_Spatiotemporal_Feature_Learning_for_Video_Action_Recognition_CVPR_2019_paper.html	0626
+Action Classification	0060	Kinetics-400	0179	Evolving Space-Time Neural Architectures for Videos	https://arxiv.org/abs/1811.10636v2	0604
+Action Classification	0060	Kinetics-400	0179	Video Classification with Channel-Separated Convolutional Networks	https://arxiv.org/abs/1904.02811v3	0467
+Action Classification	0060	Kinetics-400	0179	Holistic Large Scale Video Understanding	http://arxiv.org/abs/1904.11451v1	0627
+Action Classification	0060	Kinetics-400	0179	Two-Stream Video Classification with Cross-Modality Attention	https://arxiv.org/abs/1908.00497v1	0628
+Action Classification	0060	Kinetics-400	0179	FASTER Recurrent Networks for Efficient Video Classification	https://arxiv.org/abs/1906.04226v2	0629
+Action Classification	0060	Kinetics-400	0179	MARS: Motion-Augmented RGB Stream for Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html	0396
+Action Classification	0060	Kinetics-400	0179	STM: SpatioTemporal and Motion Encoding for Action Recognition	https://arxiv.org/abs/1908.02486v2	0241
+Action Classification	0060	Kinetics-400	0179	FASTER Recurrent Networks for Efficient Video Classification	https://arxiv.org/abs/1906.04226v2	0629
+Action Classification	0060	Kinetics-400	0179	MARS: Motion-Augmented RGB Stream for Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html	0396
+Action Recognition In Videos	0036	UCF101	0258	PoTion: Pose MoTion Representation for Action Recognition	http://openaccess.thecvf.com/content_cvpr_2018/html/Choutas_PoTion_Pose_MoTion_CVPR_2018_paper.html	0822
+Action Recognition In Videos	0036	UCF101	0258	Contextual Action Cues from Camera Sensor for Multi-Stream Action Recognition	https://doi.org/10.3390/s19061382	0823
+Action Recognition In Videos	0036	UCF101	0258	Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset	http://arxiv.org/abs/1705.07750v3	0606
+Action Recognition In Videos	0036	UCF101	0258	MARS: Motion-Augmented RGB Stream for Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html	0396
+Action Recognition In Videos	0036	UCF101	0258	Holistic Large Scale Video Understanding	http://arxiv.org/abs/1904.11451v1	0627
+Action Recognition In Videos	0036	UCF101	0258	Cooperative Cross-Stream Network for Discriminative Action Representation	https://arxiv.org/abs/1908.10136v1	0824
+Action Recognition In Videos	0036	UCF101	0258	Two-Stream Video Classification with Cross-Modality Attention	https://arxiv.org/abs/1908.00497v1	0628
+Action Recognition In Videos	0036	UCF101	0258	STM: SpatioTemporal and Motion Encoding for Action Recognition	https://arxiv.org/abs/1908.02486v2	0241
+Action Recognition In Videos	0036	UCF101	0258	MARS: Motion-Augmented RGB Stream for Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html	0396
+Action Recognition In Videos	0036	UCF101	0258	Paying More Attention to Motion: Attention Distillation for Learning Video Representations	http://arxiv.org/abs/1904.03249v1	0825
+Action Recognition In Videos	0036	UCF101	0258	I3D-LSTM: A New Model for Human Action Recognition	https://doi.org/10.1088/1757-899X/569/3/032035	0826
+Action Recognition In Videos	0036	UCF101	0258	Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?	http://arxiv.org/abs/1711.09577v2	0827
+Action Recognition In Videos	0036	UCF101	0258	R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition	https://doi.org/10.1109/ACCESS.2019.2923651	0828
+Action Recognition In Videos	0036	UCF101	0258	Temporal-Spatial Mapping for Action Recognition	http://arxiv.org/abs/1809.03669v1	0829
+Action Recognition In Videos	0036	UCF101	0258	Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset	http://arxiv.org/abs/1705.07750v3	0606
+Action Recognition In Videos	0036	UCF101	0258	R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition	https://doi.org/10.1109/ACCESS.2019.2923651	0828
+Action Recognition In Videos	0036	UCF101	0258	Multi-region two-stream R-CNN for action detection	https://doi.org/10.1007/978-3-319-46493-0_45	0830
+Action Recognition In Videos	0036	UCF101	0258	DistInit: Learning Video Representations Without a Single Labeled Video	https://arxiv.org/abs/1901.09244v2	0831
+Action Recognition In Videos	0036	UCF101	0258	Resource Efficient 3D Convolutional Neural Networks	https://arxiv.org/abs/1904.02422v4	0243
+Action Recognition In Videos	0036	UCF101	0258	Large-Scale Video Classification with Convolutional Neural Networks	https://doi.org/10.1109/CVPR.2014.223	0472
+Action Recognition In Videos	0036	UCF101	0258	Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics	http://arxiv.org/abs/1904.03597v1	0832
+Action Recognition In Videos	0036	UCF101	0258	Resource Efficient 3D Convolutional Neural Networks	https://arxiv.org/abs/1904.02422v4	0243
+Action Recognition In Videos	0036	UCF101	0258	Resource Efficient 3D Convolutional Neural Networks	https://arxiv.org/abs/1904.02422v4	0243
+Action Recognition In Videos	0036	UCF101	0258	UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild	http://arxiv.org/abs/1212.0402v1	0833
+Action Recognition In Videos	0036	UCF101	0258	Towards Universal Representation for Unseen Action Recognition	http://arxiv.org/abs/1803.08460v1	0417
+Action Recognition In Videos	0036	miniSports	0266	SCSampler: Sampling Salient Clips from Video for Efficient Action Recognition	https://arxiv.org/abs/1904.04289v2	0845
+Action Recognition In Videos	0036	miniSports	0266	SCSampler: Sampling Salient Clips from Video for Efficient Action Recognition	https://arxiv.org/abs/1904.04289v2	0845
+Action Recognition In Videos	0036	miniSports	0266	What Makes Training Multi-Modal Networks Hard?	https://arxiv.org/abs/1905.12681v3	0468
+Action Classification	0060	Moments in Time	0268	Collaborative Spatiotemporal Feature Learning for Video Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Collaborative_Spatiotemporal_Feature_Learning_for_Video_Action_Recognition_CVPR_2019_paper.html	0626
+Action Classification	0060	Moments in Time	0268	Evolving Space-Time Neural Architectures for Videos	https://arxiv.org/abs/1811.10636v2	0604
+Action Classification	0060	Moments in Time	0268	AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures	https://arxiv.org/abs/1905.13209v1	0847
+Action Classification	0060	Moments in Time	0268	Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset	http://arxiv.org/abs/1705.07750v3	0606
+Action Classification	0060	Moments in Time	0268	Temporal Relational Reasoning in Videos	http://arxiv.org/abs/1711.08496v2	0242
+Action Classification	0060	Moments in Time	0268	Temporal Segment Networks for Action Recognition in Videos	http://arxiv.org/abs/1705.02953v1	0848
+Action Classification	0060	Moments in Time	0268	Temporal Segment Networks for Action Recognition in Videos	http://arxiv.org/abs/1705.02953v1	0848
+Action Classification	0060	Moments in Time	0268	Temporal Segment Networks for Action Recognition in Videos	http://arxiv.org/abs/1705.02953v1	0848
+Action Detection	0119	Multi-THUMOS	0312	Temporal Gaussian Mixture Layer for Videos	https://arxiv.org/abs/1803.06316v6	0962
+Action Detection	0119	Multi-THUMOS	0312	Learning Latent Super-Events to Detect Multiple Activities in Videos	http://arxiv.org/abs/1712.01938v2	0963
+Action Classification	0060	Charades	0456	AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures	https://arxiv.org/abs/1905.13209v1	0847
+Action Classification	0060	Charades	0456	SlowFast Networks for Video Recognition	http://arxiv.org/abs/1812.03982v2	1194
+Action Classification	0060	Charades	0456	Long-Term Feature Banks for Detailed Video Understanding	http://arxiv.org/abs/1812.05038v2	1195
+Action Classification	0060	Charades	0456	Videos as Space-Time Region Graphs	http://arxiv.org/abs/1806.01810v2	1196
+Action Classification	0060	Charades	0456	Evolving Space-Time Neural Architectures for Videos	https://arxiv.org/abs/1811.10636v2	0604
+Action Classification	0060	Charades	0456	Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset	http://arxiv.org/abs/1705.07750v3	0606
+Action Classification	0060	Charades	0456	Temporal Relational Reasoning in Videos	http://arxiv.org/abs/1711.08496v2	0242
+Action Classification	0060	Charades	0456	Asynchronous Temporal Fields for Action Recognition	http://arxiv.org/abs/1612.06371v2	1197
+Action Classification	0060	Charades	0456	Compressed Video Action Recognition	http://arxiv.org/abs/1712.00636v2	1198
+Action Classification	0060	Charades	0456	Two-Stream Convolutional Networks for Action Recognition in Videos	http://arxiv.org/abs/1406.2199v2	1199
+Action Recognition In Videos	0036	Something-Something V2	0468	STM: SpatioTemporal and Motion Encoding for Action Recognition	https://arxiv.org/abs/1908.02486v2	0241
+Action Recognition In Videos	0036	Something-Something V2	0468	Temporal Reasoning Graph for Activity Recognition	https://arxiv.org/abs/1908.09995v1	1207
+Action Recognition In Videos	0036	Something-Something V2	0468	Temporal Reasoning Graph for Activity Recognition	https://arxiv.org/abs/1908.09995v1	1207
+Action Recognition In Videos	0036	Something-Something V2	0468	Cooperative Cross-Stream Network for Discriminative Action Representation	https://arxiv.org/abs/1908.10136v1	0824
+Action Recognition In Videos	0036	Something-Something V2	0468	Learning Video Representations from Correspondence Proposals	https://arxiv.org/abs/1905.07853v1	0240
+Action Recognition In Videos	0036	Something-Something V2	0468	Temporal Relational Reasoning in Videos	http://arxiv.org/abs/1711.08496v2	0242
+Action Recognition In Videos	0036	Something-Something V2	0468	Few-Shot Video Classification via Temporal Alignment	https://arxiv.org/abs/1906.11415v1	1208
+Action Recognition In Videos	0036	Something-Something V2	0468	The "something something" video database for learning and evaluating visual common sense	http://arxiv.org/abs/1706.04261v2	1209
+Action Recognition In Videos	0036	Something-Something V2	0468	Paying More Attention to Motion: Attention Distillation for Learning Video Representations	http://arxiv.org/abs/1904.03249v1	0825
+Action Recognition In Videos	0036	HMDB-51	0475	Hallucinating IDT Descriptors and I3D Optical Flow Features for Action Recognition with CNNs	https://arxiv.org/abs/1906.05910v2	1249
+Action Recognition In Videos	0036	HMDB-51	0475	Cooperative Cross-Stream Network for Discriminative Action Representation	https://arxiv.org/abs/1908.10136v1	0824
+Action Recognition In Videos	0036	HMDB-51	0475	Contextual Action Cues from Camera Sensor for Multi-Stream Action Recognition	https://doi.org/10.3390/s19061382	0823
+Action Recognition In Videos	0036	HMDB-51	0475	MARS: Motion-Augmented RGB Stream for Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html	0396
+Action Recognition In Videos	0036	HMDB-51	0475	Holistic Large Scale Video Understanding	http://arxiv.org/abs/1904.11451v1	0627
+Action Recognition In Videos	0036	HMDB-51	0475	FASTER Recurrent Networks for Efficient Video Classification	https://arxiv.org/abs/1906.04226v2	0629
+Action Recognition In Videos	0036	HMDB-51	0475	Learning Discriminative Video Representations Using Adversarial Perturbations	http://arxiv.org/abs/1807.09380v2	1250
+Action Recognition In Videos	0036	HMDB-51	0475	Spatiotemporal Multiplier Networks for Video Action Recognition	http://openaccess.thecvf.com/content_cvpr_2017/html/Feichtenhofer_Spatiotemporal_Multiplier_Networks_CVPR_2017_paper.html	1251
+Action Recognition In Videos	0036	HMDB-51	0475	STM: SpatioTemporal and Motion Encoding for Action Recognition	https://arxiv.org/abs/1908.02486v2	0241
+Action Recognition In Videos	0036	HMDB-51	0475	Paying More Attention to Motion: Attention Distillation for Learning Video Representations	http://arxiv.org/abs/1904.03249v1	0825
+Action Recognition In Videos	0036	HMDB-51	0475	Hierarchical Feature Aggregation Networks for Video Action Recognition	https://arxiv.org/abs/1905.12462v1	1252
+Action Recognition In Videos	0036	HMDB-51	0475	R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition	https://doi.org/10.1109/ACCESS.2019.2923651	0828
+Action Recognition In Videos	0036	HMDB-51	0475	SUSiNet: See, Understand and Summarize it	http://arxiv.org/abs/1812.00722v2	1253
+Action Recognition In Videos	0036	HMDB-51	0475	R-STAN: Residual Spatial-Temporal Attention Network for Action Recognition	https://doi.org/10.1109/ACCESS.2019.2923651	0828
+Action Recognition In Videos	0036	HMDB-51	0475	DistInit: Learning Video Representations Without a Single Labeled Video	https://arxiv.org/abs/1901.09244v2	0831
+Action Recognition In Videos	0036	HMDB-51	0475	Towards Universal Representation for Unseen Action Recognition	http://arxiv.org/abs/1803.08460v1	0417
+Action Recognition In Videos	0036	HMDB-51	0475	Self-supervised Spatio-temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics	http://arxiv.org/abs/1904.03597v1	0832
+Action Recognition In Videos	0036	Something-Something V1	0501	Action recognition with spatial-temporal discriminative filter banks	https://arxiv.org/abs/1908.07625v1	0625
+Action Recognition In Videos	0036	Something-Something V1	0501	MARS: Motion-Augmented RGB Stream for Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html	0396
+Action Recognition In Videos	0036	Something-Something V1	0501	STM: SpatioTemporal and Motion Encoding for Action Recognition	https://arxiv.org/abs/1908.02486v2	0241
+Action Recognition In Videos	0036	Something-Something V1	0501	Moments in Time Dataset: one million videos for event understanding	http://arxiv.org/abs/1801.03150v3	1267
+Action Recognition In Videos	0036	Something-Something V1	0501	Temporal Reasoning Graph for Activity Recognition	https://arxiv.org/abs/1908.09995v1	1207
+Action Recognition In Videos	0036	Something-Something V1	0501	Temporal Reasoning Graph for Activity Recognition	https://arxiv.org/abs/1908.09995v1	1207
+Action Recognition In Videos	0036	Something-Something V1	0501	Video Classification with Channel-Separated Convolutional Networks	https://arxiv.org/abs/1904.02811v3	0467
+Action Recognition In Videos	0036	Something-Something V1	0501	Moments in Time Dataset: one million videos for event understanding	http://arxiv.org/abs/1801.03150v3	1267
+Action Recognition In Videos	0036	Something-Something V1	0501	Video Classification with Channel-Separated Convolutional Networks	https://arxiv.org/abs/1904.02811v3	0467
+Action Recognition In Videos	0036	Something-Something V1	0501	Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification	http://arxiv.org/abs/1712.04851v2	1268
+Action Recognition In Videos	0036	Something-Something V1	0501	ECO: Efficient Convolutional Network for Online Video Understanding	http://arxiv.org/abs/1804.09066v2	1269
+Action Recognition In Videos	0036	Something-Something V1	0501	Motion Feature Network: Fixed Motion Filter for Action Recognition	http://arxiv.org/abs/1807.10037v2	1270
+Action Recognition In Videos	0036	Something-Something V1	0501	Temporal Relational Reasoning in Videos	http://arxiv.org/abs/1711.08496v2	0242
+Action Recognition In Videos	0036	Something-Something V1	0501	Hierarchical Feature Aggregation Networks for Video Action Recognition	https://arxiv.org/abs/1905.12462v1	1252
+Action Recognition In Videos	0036	Something-Something V1	0501	MARS: Motion-Augmented RGB Stream for Action Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html	0396
+Action Detection	0119	THUMOS' 14	0512	Temporal Gaussian Mixture Layer for Videos	https://arxiv.org/abs/1803.06316v6	0962
+Action Recognition In Videos	0036	Charades	0456	AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures	https://arxiv.org/abs/1905.13209v1	0847
+Action Recognition In Videos	0036	Charades	0456	Hallucinating IDT Descriptors and I3D Optical Flow Features for Action Recognition with CNNs	https://arxiv.org/abs/1906.05910v2	1249
+Action Recognition In Videos	0036	Charades	0456	Long-Term Feature Banks for Detailed Video Understanding	http://arxiv.org/abs/1812.05038v2	1195
+Action Recognition In Videos	0036	Charades	0456	PA3D: Pose-Action 3D Machine for Video Recognition	http://openaccess.thecvf.com/content_CVPR_2019/html/Yan_PA3D_Pose-Action_3D_Machine_for_Video_Recognition_CVPR_2019_paper.html	1390
+Action Recognition In Videos	0036	Charades	0456	PoTion: Pose MoTion Representation for Action Recognition	http://openaccess.thecvf.com/content_cvpr_2018/html/Choutas_PoTion_Pose_MoTion_CVPR_2018_paper.html	0822
+Action Recognition In Videos	0036	Charades	0456	Temporal Reasoning Graph for Activity Recognition	https://arxiv.org/abs/1908.09995v1	1207
+Action Recognition In Videos	0036	Charades	0456	Videos as Space-Time Region Graphs	http://arxiv.org/abs/1806.01810v2	1196
+Action Recognition In Videos	0036	Charades	0456	Compressed Video Action Recognition	http://arxiv.org/abs/1712.00636v2	1198
+Action Recognition In Videos	0036	Charades	0456	Temporal Relational Reasoning in Videos	http://arxiv.org/abs/1711.08496v2	0242
+Video Classification	0166	YouTube-8M	0605	Hierarchical Video Frame Sequence Representation with Deep Convolutional Graph Network	https://arxiv.org/abs/1906.00377v1	1497
+Video Classification	0166	YouTube-8M	0605	YouTube-8M: A Large-Scale Video Classification Benchmark	http://arxiv.org/abs/1609.08675v1	0415
+Action Detection	0119	Charades	0456	Temporal Gaussian Mixture Layer for Videos	https://arxiv.org/abs/1803.06316v6	0962
+Action Detection	0119	Charades	0456	Learning Latent Super-Events to Detect Multiple Activities in Videos	http://arxiv.org/abs/1712.01938v2	0963
+Speech Recognition	0051	swb_hub_500 WER fullSWBCH	0084	English Conversational Telephone Speech Recognition by Humans and Machines	http://arxiv.org/abs/1703.02136v1	0313
+Speech Recognition	0051	swb_hub_500 WER fullSWBCH	0084	The Microsoft 2016 Conversational Speech Recognition System	http://arxiv.org/abs/1609.03528v2	0314
+Speech Recognition	0051	swb_hub_500 WER fullSWBCH	0084	The IBM 2016 English Conversational Telephone Speech Recognition System	http://arxiv.org/abs/1604.08242v2	0315
+Speech Recognition	0051	swb_hub_500 WER fullSWBCH	0084	Deep Speech: Scaling up end-to-end speech recognition	http://arxiv.org/abs/1412.5567v2	0316
+Speech Recognition	0051	swb_hub_500 WER fullSWBCH	0084	Building DNN Acoustic Models for Large Vocabulary Speech Recognition	http://arxiv.org/abs/1406.7806v2	0317
+Speech Recognition	0051	Switchboard + Hub500	0090	English Conversational Telephone Speech Recognition by Humans and Machines	http://arxiv.org/abs/1703.02136v1	0313
+Speech Recognition	0051	Switchboard + Hub500	0090	Achieving Human Parity in Conversational Speech Recognition	http://arxiv.org/abs/1610.05256v2	0330
+Speech Recognition	0051	Switchboard + Hub500	0090	The Microsoft 2016 Conversational Speech Recognition System	http://arxiv.org/abs/1609.03528v2	0314
+Speech Recognition	0051	Switchboard + Hub500	0090	The Microsoft 2016 Conversational Speech Recognition System	http://arxiv.org/abs/1609.03528v2	0314
+Speech Recognition	0051	Switchboard + Hub500	0090	The IBM 2016 English Conversational Telephone Speech Recognition System	http://arxiv.org/abs/1604.08242v2	0315
+Speech Recognition	0051	Switchboard + Hub500	0090	Achieving Human Parity in Conversational Speech Recognition	http://arxiv.org/abs/1610.05256v2	0330
+Speech Recognition	0051	Switchboard + Hub500	0090	SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition	https://arxiv.org/abs/1904.08779v2	0331
+Speech Recognition	0051	Switchboard + Hub500	0090	The IBM 2016 English Conversational Telephone Speech Recognition System	http://arxiv.org/abs/1604.08242v2	0315
+Speech Recognition	0051	Switchboard + Hub500	0090	The Microsoft 2016 Conversational Speech Recognition System	http://arxiv.org/abs/1609.03528v2	0314
+Speech Recognition	0051	Switchboard + Hub500	0090	The IBM 2015 English Conversational Telephone Speech Recognition System	http://arxiv.org/abs/1505.05899v1	0332
+Speech Recognition	0051	Switchboard + Hub500	0090	Very Deep Multilingual Convolutional Neural Networks for LVCSR	http://arxiv.org/abs/1509.08967v2	0333
+Speech Recognition	0051	Switchboard + Hub500	0090	Deep Speech: Scaling up end-to-end speech recognition	http://arxiv.org/abs/1412.5567v2	0316
+Speech Recognition	0051	Switchboard + Hub500	0090	Deep Speech: Scaling up end-to-end speech recognition	http://arxiv.org/abs/1412.5567v2	0316
+Speech Recognition	0051	Switchboard + Hub500	0090	Building DNN Acoustic Models for Large Vocabulary Speech Recognition	http://arxiv.org/abs/1406.7806v2	0317
+Speech Recognition	0051	Switchboard + Hub500	0090	Building DNN Acoustic Models for Large Vocabulary Speech Recognition	http://arxiv.org/abs/1406.7806v2	0317
+Speech Recognition	0051	Switchboard + Hub500	0090	Deep Speech: Scaling up end-to-end speech recognition	http://arxiv.org/abs/1412.5567v2	0316
+Speech Recognition	0051	LibriSpeech test-clean	0315	SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition	https://arxiv.org/abs/1904.08779v2	0331
+Speech Recognition	0051	LibriSpeech test-clean	0315	RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation	https://arxiv.org/abs/1905.03072v3	0965
+Speech Recognition	0051	LibriSpeech test-clean	0315	Jasper: An End-to-End Convolutional Neural Acoustic Model	https://arxiv.org/abs/1904.03288v3	0966
+Speech Recognition	0051	LibriSpeech test-clean	0315	Neural Network Language Modeling with Letter-based Features and Importance Sampling	https://www.cs.jhu.edu/~hxu/neural-network-language.pdf	0967
+Speech Recognition	0051	LibriSpeech test-clean	0315	SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition	https://arxiv.org/abs/1904.08779v2	0331
+Speech Recognition	0051	LibriSpeech test-clean	0315	Fully Convolutional Speech Recognition	http://arxiv.org/abs/1812.06864v2	0968
+Speech Recognition	0051	LibriSpeech test-clean	0315	On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition	https://arxiv.org/abs/1902.01955v2	0969
+Speech Recognition	0051	LibriSpeech test-clean	0315	Improved training of end-to-end attention models for speech recognition	http://arxiv.org/abs/1805.03294v1	0970
+Speech Recognition	0051	LibriSpeech test-clean	0315	Letter-Based Speech Recognition with Gated ConvNets	http://arxiv.org/abs/1712.09444v2	0971
+Speech Recognition	0051	LibriSpeech test-clean	0315	Deep Speech 2: End-to-End Speech Recognition in English and Mandarin	http://arxiv.org/abs/1512.02595v1	0972
+Speech Recognition	0051	LibriSpeech test-clean	0315	Improving End-to-End Speech Recognition with Policy Learning	http://arxiv.org/abs/1712.07101v1	0973
+Speech Recognition	0051	LibriSpeech test-clean	0315	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	0051	LibriSpeech test-clean	0315	Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces	http://arxiv.org/abs/1805.10190v3	0975
+Speech Recognition	0051	WSJ eval93	0328	Deep Speech 2: End-to-End Speech Recognition in English and Mandarin	http://arxiv.org/abs/1512.02595v1	0972
+Speech Recognition	0051	WSJ eval93	0328	Fully Convolutional Speech Recognition	http://arxiv.org/abs/1812.06864v2	0968
+Speech Recognition	0051	Switchboard (300hr)	0408	End-to-end speech recognition using lattice-free MMI	https://www.isca-speech.org/archive/Interspeech_2018/abstracts/1423.html	1132
+Speech Recognition	0051	TIMIT	0416	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	0051	TIMIT	0416	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	0051	TIMIT	0416	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	0051	TIMIT	0416	Light Gated Recurrent Units for Speech Recognition	http://arxiv.org/abs/1803.10225v1	1138
+Speech Recognition	0051	TIMIT	0416	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	0051	TIMIT	0416	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	0051	TIMIT	0416	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	0051	TIMIT	0416	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	0051	TIMIT	0416	The PyTorch-Kaldi Speech Recognition Toolkit	http://arxiv.org/abs/1811.07453v2	0974
+Speech Recognition	0051	TIMIT	0416	Light Gated Recurrent Units for Speech Recognition	http://arxiv.org/abs/1803.10225v1	1138
+Speech Recognition	0051	TIMIT	0416	Segmental Recurrent Neural Networks for End-to-end Speech Recognition	http://arxiv.org/abs/1603.00223v2	1139
+Speech Recognition	0051	TIMIT	0416	Attention-Based Models for Speech Recognition	http://arxiv.org/abs/1506.07503v1	1140
+Speech Recognition	0051	TIMIT	0416	Speech Recognition with Deep Recurrent Neural Networks	http://arxiv.org/abs/1303.5778v1	1141
+Speech Recognition	0051	TIMIT	0416	Quaternion Convolutional Neural Networks for End-to-End Automatic Speech Recognition	http://arxiv.org/abs/1806.07789v1	1142
+Speech Recognition	0051	TIMIT	0416	Online and Linear-Time Attention by Enforcing Monotonic Alignments	http://arxiv.org/abs/1704.00784v2	1143
+Speech Recognition	0051	TIMIT	0416	Attention model for articulatory features detection	https://arxiv.org/abs/1907.01914v1	1144
+Speech Recognition	0051	LibriSpeech test-other	0480	RWTH ASR Systems for LibriSpeech: Hybrid vs Attention -- w/o Data Augmentation	https://arxiv.org/abs/1905.03072v3	0965
+Speech Recognition	0051	LibriSpeech test-other	0480	SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition	https://arxiv.org/abs/1904.08779v2	0331
+Speech Recognition	0051	LibriSpeech test-other	0480	Neural Network Language Modeling with Letter-based Features and Importance Sampling	https://www.cs.jhu.edu/~hxu/neural-network-language.pdf	0967
+Speech Recognition	0051	LibriSpeech test-other	0480	Jasper: An End-to-End Convolutional Neural Acoustic Model	https://arxiv.org/abs/1904.03288v3	0966
+Speech Recognition	0051	LibriSpeech test-other	0480	Fully Convolutional Speech Recognition	http://arxiv.org/abs/1812.06864v2	0968
+Speech Recognition	0051	LibriSpeech test-other	0480	Deep Speech 2: End-to-End Speech Recognition in English and Mandarin	http://arxiv.org/abs/1512.02595v1	0972
+Speech Recognition	0051	LibriSpeech test-other	0480	Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces	http://arxiv.org/abs/1805.10190v3	0975
+Speech Recognition	0051	WSJ eval92	0541	Purely sequence-trained neural networks for ASR based on lattice-free MMI	https://www.danielpovey.com/files/2016_interspeech_mmi.pdf	1348
+Speech Recognition	0051	WSJ eval92	0541	End-to-end speech recognition using lattice-free MMI	https://www.isca-speech.org/archive/Interspeech_2018/abstracts/1423.html	1132
+Speech Recognition	0051	WSJ eval92	0541	Fully Convolutional Speech Recognition	http://arxiv.org/abs/1812.06864v2	0968
+Speech Recognition	0051	WSJ eval92	0541	Deep Recurrent Neural Networks for Acoustic Modelling	http://arxiv.org/abs/1504.01482v1	1349
+Speech Recognition	0051	WSJ eval92	0541	Deep Speech 2: End-to-End Speech Recognition in English and Mandarin	http://arxiv.org/abs/1512.02595v1	0972
+Link Prediction	0022	YAGO3-10	0027	Canonical Tensor Decomposition for Knowledge Base Completion	http://arxiv.org/abs/1806.07297v1	0153
+Link Prediction	0022	YAGO3-10	0027	Relation Embedding with Dihedral Group in Knowledge Graph	https://arxiv.org/abs/1906.00687v1	0154
+Link Prediction	0022	YAGO3-10	0027	Convolutional 2D Knowledge Graph Embeddings	http://arxiv.org/abs/1707.01476v6	0155
+Node Classification	0016	Flickr	0046	GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding	http://arxiv.org/abs/1903.00757v1	0231
+Link Prediction	0022	WN18RR	0130	Predicting Semantic Relations using Global Graph Properties	http://arxiv.org/abs/1808.08644v1	0436
+Link Prediction	0022	WN18RR	0130	GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding	http://arxiv.org/abs/1903.00757v1	0231
+Link Prediction	0022	WN18RR	0130	Relation Embedding with Dihedral Group in Knowledge Graph	https://arxiv.org/abs/1906.00687v1	0154
+Link Prediction	0022	WN18RR	0130	Canonical Tensor Decomposition for Knowledge Base Completion	http://arxiv.org/abs/1806.07297v1	0153
+Link Prediction	0022	WN18RR	0130	TuckER: Tensor Factorization for Knowledge Graph Completion	https://arxiv.org/abs/1901.09590v2	0437
+Link Prediction	0022	WN18RR	0130	Hypernetwork Knowledge Graph Embeddings	https://arxiv.org/abs/1808.07018v5	0438
+Link Prediction	0022	WN18RR	0130	M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search	http://arxiv.org/abs/1802.04394v5	0439
+Link Prediction	0022	WN18RR	0130	Convolutional 2D Knowledge Graph Embeddings	http://arxiv.org/abs/1707.01476v6	0155
+Link Prediction	0022	WN18RR	0130	A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network	http://arxiv.org/abs/1712.02121v2	0440
+Link Prediction	0022	WN18	0241	Convolutional 2D Knowledge Graph Embeddings	http://arxiv.org/abs/1707.01476v6	0155
+Link Prediction	0022	WN18	0241	TuckER: Tensor Factorization for Knowledge Graph Completion	https://arxiv.org/abs/1901.09590v2	0437
+Link Prediction	0022	WN18	0241	Hypernetwork Knowledge Graph Embeddings	https://arxiv.org/abs/1808.07018v5	0438
+Link Prediction	0022	WN18	0241	Canonical Tensor Decomposition for Knowledge Base Completion	http://arxiv.org/abs/1806.07297v1	0153
+Link Prediction	0022	WN18	0241	GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding	http://arxiv.org/abs/1903.00757v1	0231
+Link Prediction	0022	WN18	0241	Analogical Inference for Multi-Relational Embeddings	http://arxiv.org/abs/1705.02426v2	0788
+Link Prediction	0022	WN18	0241	SimplE Embedding for Link Prediction in Knowledge Graphs	http://arxiv.org/abs/1802.04868v2	0789
+Link Prediction	0022	WN18	0241	Complex Embeddings for Simple Link Prediction	http://arxiv.org/abs/1606.06357v1	0790
+Link Prediction	0022	WN18	0241	Embedding Entities and Relations for Learning and Inference in Knowledge Bases	http://arxiv.org/abs/1412.6575v4	0791
+Link Prediction	0022	WN18	0241	Discriminative Gaifman Models	http://arxiv.org/abs/1610.09369v1	0792
+Node Classification	0016	YouTube	0396	GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding	http://arxiv.org/abs/1903.00757v1	0231
+Video Object Segmentation	0143	DAVIS-2017	0437	FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation	http://arxiv.org/abs/1902.09513v2	1176
+Knowledge Graphs	0160	FB15k	0552	Knowledge Graph Completion via Complex Tensor Factorization	http://arxiv.org/abs/1702.06879v2	1356
+Link Prediction	0022	FB15k-237	0557	Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs	https://arxiv.org/abs/1906.01195v1	1386
+Link Prediction	0022	FB15k-237	0557	Canonical Tensor Decomposition for Knowledge Base Completion	http://arxiv.org/abs/1806.07297v1	0153
+Link Prediction	0022	FB15k-237	0557	TuckER: Tensor Factorization for Knowledge Graph Completion	https://arxiv.org/abs/1901.09590v2	0437
+Link Prediction	0022	FB15k-237	0557	Hypernetwork Knowledge Graph Embeddings	https://arxiv.org/abs/1808.07018v5	0438
+Link Prediction	0022	FB15k-237	0557	Convolutional 2D Knowledge Graph Embeddings	http://arxiv.org/abs/1707.01476v6	0155
+Link Prediction	0022	FB15k-237	0557	GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding	http://arxiv.org/abs/1903.00757v1	0231
+Link Prediction	0022	FB15k	0552	Canonical Tensor Decomposition for Knowledge Base Completion	http://arxiv.org/abs/1806.07297v1	0153
+Link Prediction	0022	FB15k	0552	TuckER: Tensor Factorization for Knowledge Graph Completion	https://arxiv.org/abs/1901.09590v2	0437
+Link Prediction	0022	FB15k	0552	Hypernetwork Knowledge Graph Embeddings	https://arxiv.org/abs/1808.07018v5	0438
+Link Prediction	0022	FB15k	0552	GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding	http://arxiv.org/abs/1903.00757v1	0231
+Link Prediction	0022	FB15k	0552	SimplE Embedding for Link Prediction in Knowledge Graphs	http://arxiv.org/abs/1802.04868v2	0789
+Link Prediction	0022	FB15k	0552	Knowledge Graph Completion via Complex Tensor Factorization	http://arxiv.org/abs/1702.06879v2	1356
+Link Prediction	0022	FB15k	0552	Convolutional 2D Knowledge Graph Embeddings	http://arxiv.org/abs/1707.01476v6	0155
+Video Object Segmentation	0143	YouTube	0396	FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation	http://arxiv.org/abs/1902.09513v2	1176
+Face Verification	0117	IJB-A	0310	Dual-Agent GANs for Photorealistic and Identity Preserving Profile Face Synthesis	http://papers.nips.cc/paper/6612-dual-agent-gans-for-photorealistic-and-identity-preserving-profile-face-synthesis	0942
+Face Verification	0117	IJB-A	0310	GhostVLAD for set-based face recognition	http://arxiv.org/abs/1810.09951v1	0943
+Face Verification	0117	IJB-A	0310	L2-constrained Softmax Loss for Discriminative Face Verification	http://arxiv.org/abs/1703.09507v3	0944
+Face Verification	0117	IJB-A	0310	Pose-Robust Face Recognition via Deep Residual Equivariant Mapping	http://arxiv.org/abs/1803.00839v1	0945
+Face Verification	0117	IJB-A	0310	Neural Aggregation Network for Video Face Recognition	http://arxiv.org/abs/1603.05474v4	0946
+Face Verification	0117	IJB-A	0310	Template Adaptation for Face Verification and Identification	http://arxiv.org/abs/1603.03958v3	0947
+Face Verification	0117	IJB-A	0310	An All-In-One Convolutional Neural Network for Face Analysis	http://arxiv.org/abs/1611.00851v1	0948
+Face Verification	0117	IJB-A	0310	FacePoseNet: Making a Case for Landmark-Free Face Alignment	http://arxiv.org/abs/1708.07517v2	0949
+Face Verification	0117	IJB-A	0310	Triplet Probabilistic Embedding for Face Verification and Clustering	http://arxiv.org/abs/1604.05417v3	0950
+Face Verification	0117	IJB-A	0310	Do We Really Need to Collect Millions of Faces for Effective Face Recognition?	http://arxiv.org/abs/1603.07057v2	0951
+Face Verification	0117	IJB-A	0310	Unconstrained Face Verification using Deep CNN Features	http://arxiv.org/abs/1508.01722v2	0952
+Face Verification	0117	IJB-A	0310	Face Recognition Using Deep Multi-Pose Representations	http://arxiv.org/abs/1603.07388v1	0953
+Face Verification	0117	IJB-A	0310	Face Search at Scale: 80 Million Gallery	http://arxiv.org/abs/1507.07242v2	0954
+Face Recognition	0103	IJB-B	0316	GhostVLAD for set-based face recognition	http://arxiv.org/abs/1810.09951v1	0943
+Facial Landmark Detection	0126	AFLW-Full	0343	Style Aggregated Network for Facial Landmark Detection	http://arxiv.org/abs/1803.04108v4	1029
+3D Reconstruction	0131	300W	0389	What Do Single-view 3D Reconstruction Networks Learn?	https://arxiv.org/abs/1905.03678v1	1097
+Face Recognition	0103	IJB-A	0310	GhostVLAD for set-based face recognition	http://arxiv.org/abs/1810.09951v1	0943
+Facial Landmark Detection	0126	AFLW-Front	0526	Style Aggregated Network for Facial Landmark Detection	http://arxiv.org/abs/1803.04108v4	1029
+Facial Landmark Detection	0126	300W	0389	Style Aggregated Network for Facial Landmark Detection	http://arxiv.org/abs/1803.04108v4	1029
+Facial Landmark Detection	0126	300W	0389	Pose-Invariant Face Alignment with a Single CNN	http://arxiv.org/abs/1707.06286v1	1513
+Facial Landmark Detection	0126	300W	0389	FacePoseNet: Making a Case for Landmark-Free Face Alignment	http://arxiv.org/abs/1708.07517v2	0949
+Face Verification	0117	IJB-B	0316	FacePoseNet: Making a Case for Landmark-Free Face Alignment	http://arxiv.org/abs/1708.07517v2	0949
+Face Verification	0117	IJB-B	0316	GhostVLAD for set-based face recognition	http://arxiv.org/abs/1810.09951v1	0943
+Click-Through Rate Prediction	0076	Dianping	0151	xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems	http://arxiv.org/abs/1803.05170v3	0500
+Click-Through Rate Prediction	0076	Dianping	0151	DeepFM: A Factorization-Machine based Neural Network for CTR Prediction	http://arxiv.org/abs/1703.04247v1	0501
+Click-Through Rate Prediction	0076	Dianping	0151	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	Dianping	0151	Wide & Deep Learning for Recommender Systems	http://arxiv.org/abs/1606.07792v1	0503
+Click-Through Rate Prediction	0076	Amazon	0210	Deep Interest Network for Click-Through Rate Prediction	http://arxiv.org/abs/1706.06978v4	0674
+Click-Through Rate Prediction	0076	Amazon	0210	Deep Interest Network for Click-Through Rate Prediction	http://arxiv.org/abs/1706.06978v4	0674
+Click-Through Rate Prediction	0076	Amazon	0210	DeepFM: A Factorization-Machine based Neural Network for CTR Prediction	http://arxiv.org/abs/1703.04247v1	0501
+Click-Through Rate Prediction	0076	Amazon	0210	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	Amazon	0210	Wide & Deep Learning for Recommender Systems	http://arxiv.org/abs/1606.07792v1	0503
+Click-Through Rate Prediction	0076	MovieLens 20M	0243	Deep Interest Network for Click-Through Rate Prediction	http://arxiv.org/abs/1706.06978v4	0674
+Click-Through Rate Prediction	0076	MovieLens 20M	0243	Deep Interest Network for Click-Through Rate Prediction	http://arxiv.org/abs/1706.06978v4	0674
+Click-Through Rate Prediction	0076	MovieLens 20M	0243	DeepFM: A Factorization-Machine based Neural Network for CTR Prediction	http://arxiv.org/abs/1703.04247v1	0501
+Click-Through Rate Prediction	0076	MovieLens 20M	0243	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	MovieLens 20M	0243	Wide & Deep Learning for Recommender Systems	http://arxiv.org/abs/1606.07792v1	0503
+Click-Through Rate Prediction	0076	Criteo	0335	xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems	http://arxiv.org/abs/1803.05170v3	0500
+Click-Through Rate Prediction	0076	Criteo	0335	DeepFM: A Factorization-Machine based Neural Network for CTR Prediction	http://arxiv.org/abs/1703.04247v1	0501
+Click-Through Rate Prediction	0076	Criteo	0335	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	Criteo	0335	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	Criteo	0335	Wide & Deep Learning for Recommender Systems	http://arxiv.org/abs/1606.07792v1	0503
+Click-Through Rate Prediction	0076	Criteo	0335	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	Criteo	0335	Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction	http://arxiv.org/abs/1601.02376v1	1014
+Click-Through Rate Prediction	0076	Criteo	0335	Wide & Deep Learning for Recommender Systems	http://arxiv.org/abs/1606.07792v1	0503
+Click-Through Rate Prediction	0076	Company*	0353	DeepFM: A Factorization-Machine based Neural Network for CTR Prediction	http://arxiv.org/abs/1703.04247v1	0501
+Click-Through Rate Prediction	0076	Company*	0353	Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction	http://arxiv.org/abs/1601.02376v1	1014
+Click-Through Rate Prediction	0076	Company*	0353	Wide & Deep Learning for Recommender Systems	http://arxiv.org/abs/1606.07792v1	0503
+Click-Through Rate Prediction	0076	Company*	0353	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	Company*	0353	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	Company*	0353	Wide & Deep Learning for Recommender Systems	http://arxiv.org/abs/1606.07792v1	0503
+Click-Through Rate Prediction	0076	Company*	0353	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	Bing News	0571	xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems	http://arxiv.org/abs/1803.05170v3	0500
+Click-Through Rate Prediction	0076	Bing News	0571	Wide & Deep Learning for Recommender Systems	http://arxiv.org/abs/1606.07792v1	0503
+Click-Through Rate Prediction	0076	Bing News	0571	DeepFM: A Factorization-Machine based Neural Network for CTR Prediction	http://arxiv.org/abs/1703.04247v1	0501
+Click-Through Rate Prediction	0076	Bing News	0571	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	iPinYou	0610	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	iPinYou	0610	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	iPinYou	0610	Product-based Neural Networks for User Response Prediction	http://arxiv.org/abs/1611.00144v1	0502
+Click-Through Rate Prediction	0076	iPinYou	0610	Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction	http://arxiv.org/abs/1601.02376v1	1014
+Community Detection	0046	Amazon	0210	Supervised Community Detection with Line Graph Neural Networks	http://arxiv.org/abs/1705.08415v5	1555
+Community Detection	0046	Amazon	0210	Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters	https://www.kdd.org/kdd2017/papers/view/ego-splitting-framework-from-non-overlapping-to-overlapping-clusters	1556
+Object Localization	0009	KITTI Cars Moderate	0010	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Object Localization	0009	KITTI Cars Moderate	0010	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Birds Eye View Object Detection	0014	KITTI Pedestrians Moderate	0015	PointPillars: Fast Encoders for Object Detection from Point Clouds	https://arxiv.org/abs/1812.05784v2	0098
+Object Localization	0009	KITTI Cyclists Moderate	0112	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Object Localization	0009	KITTI Cyclists Moderate	0112	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Object Localization	0009	KITTI Cars Hard	0123	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Object Localization	0009	KITTI Cars Hard	0123	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Object Localization	0009	KITTI Cars Easy	0166	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Object Localization	0009	KITTI Cars Easy	0166	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Birds Eye View Object Detection	0014	KITTI Cyclists Moderate	0112	PointPillars: Fast Encoders for Object Detection from Point Clouds	https://arxiv.org/abs/1812.05784v2	0098
+Object Localization	0009	KITTI Cyclists Hard	0279	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Object Localization	0009	KITTI Cyclists Hard	0279	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Birds Eye View Object Detection	0014	KITTI Cars Moderate	0010	PointPillars: Fast Encoders for Object Detection from Point Clouds	https://arxiv.org/abs/1812.05784v2	0098
+Object Localization	0009	KITTI Pedestrians Easy	0433	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Object Localization	0009	KITTI Pedestrians Easy	0433	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Object Localization	0009	KITTI Cyclists Easy	0454	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Object Localization	0009	KITTI Cyclists Easy	0454	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Object Localization	0009	KITTI Pedestrians Moderate	0015	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Object Localization	0009	KITTI Pedestrians Moderate	0015	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Object Localization	0009	KITTI Pedestrians Hard	0661	Frustum PointNets for 3D Object Detection from RGB-D Data	http://arxiv.org/abs/1711.08488v2	0080
+Object Localization	0009	KITTI Pedestrians Hard	0661	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
+Hypernym Discovery	0075	Medical domain	0146	CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery	https://www.aclweb.org/anthology/papers/S/S18/S18-1116/	0486
+Hypernym Discovery	0075	Medical domain	0146	300-sparsans at SemEval-2018 Task 9: Hypernymy as interaction of sparse attributes	https://www.aclweb.org/anthology/papers/S/S18/S18-1152/	0487
+Hypernym Discovery	0075	Medical domain	0146	Supervised Distributional Hypernym Discovery via Domain Adaptation	https://www.aclweb.org/anthology/papers/D/D16/D16-1041/	0488
+Hypernym Discovery	0075	Medical domain	0146	EXPR at SemEval-2018 Task 9: A Combined Approach for Hypernym Discovery	https://www.aclweb.org/anthology/papers/S/S18/S18-1150/	0489
+Hypernym Discovery	0075	Medical domain	0146	SJTU-NLP at SemEval-2018 Task 9: Neural Hypernym Discovery with Term Embeddings	https://www.aclweb.org/anthology/papers/S/S18/S18-1147/	0490
+Hypernym Discovery	0075	Medical domain	0146	ADAPT at SemEval-2018 Task 9: Skip-Gram Word Embeddings for Unsupervised Hypernym Discovery in Specialised Corpora	https://www.aclweb.org/anthology/papers/S/S18/S18-1151/	0491
+Hypernym Discovery	0075	Medical domain	0146	Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection	http://arxiv.org/abs/1612.04460v2	0492
+Hypernym Discovery	0075	Music domain	0648	CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery	https://www.aclweb.org/anthology/papers/S/S18/S18-1116/	0486
+Hypernym Discovery	0075	Music domain	0648	300-sparsans at SemEval-2018 Task 9: Hypernymy as interaction of sparse attributes	https://www.aclweb.org/anthology/papers/S/S18/S18-1152/	0487
+Hypernym Discovery	0075	Music domain	0648	Supervised Distributional Hypernym Discovery via Domain Adaptation	https://www.aclweb.org/anthology/papers/D/D16/D16-1041/	0488
+Hypernym Discovery	0075	Music domain	0648	SJTU-NLP at SemEval-2018 Task 9: Neural Hypernym Discovery with Term Embeddings	https://www.aclweb.org/anthology/papers/S/S18/S18-1147/	0490
+Hypernym Discovery	0075	Music domain	0648	ADAPT at SemEval-2018 Task 9: Skip-Gram Word Embeddings for Unsupervised Hypernym Discovery in Specialised Corpora	https://www.aclweb.org/anthology/papers/S/S18/S18-1151/	0491
+Hypernym Discovery	0075	Music domain	0648	Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection	http://arxiv.org/abs/1612.04460v2	0492
+Hypernym Discovery	0075	General	0675	CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery	https://www.aclweb.org/anthology/papers/S/S18/S18-1116/	0486
+Hypernym Discovery	0075	General	0675	Supervised Distributional Hypernym Discovery via Domain Adaptation	https://www.aclweb.org/anthology/papers/D/D16/D16-1041/	0488
+Hypernym Discovery	0075	General	0675	NLP\_HZ at SemEval-2018 Task 9: a Nearest Neighbor Approach	https://www.aclweb.org/anthology/papers/S/S18/S18-1148/	1573
+Hypernym Discovery	0075	General	0675	300-sparsans at SemEval-2018 Task 9: Hypernymy as interaction of sparse attributes	https://www.aclweb.org/anthology/papers/S/S18/S18-1152/	0487
+Hypernym Discovery	0075	General	0675	SJTU-NLP at SemEval-2018 Task 9: Neural Hypernym Discovery with Term Embeddings	https://www.aclweb.org/anthology/papers/S/S18/S18-1147/	0490
+Hypernym Discovery	0075	General	0675	Apollo at SemEval-2018 Task 9: Detecting Hypernymy Relations Using Syntactic Dependencies	https://www.aclweb.org/anthology/papers/S/S18/S18-1146/	1574
+Hypernym Discovery	0075	General	0675	Hypernyms under Siege: Linguistically-motivated Artillery for Hypernymy Detection	http://arxiv.org/abs/1612.04460v2	0492
+Question Answering	0013	bAbi	0596	Query-Reduction Networks for Question Answering	http://arxiv.org/abs/1606.04582v6	1466
+Question Answering	0013	bAbi	0596	Tracking the World State with Recurrent Entity Networks	http://arxiv.org/abs/1612.03969v3	1467
+Question Answering	0013	bAbi	0596	Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes	http://arxiv.org/abs/1607.00036v2	1468
+Question Answering	0013	bAbi	0596	End-To-End Memory Networks	http://arxiv.org/abs/1503.08895v5	1469
+Question Answering	0013	bAbi	0596	Rotational Unit of Memory	http://arxiv.org/abs/1710.09537v1	1470
+Question Answering	0013	bAbi	0596	Gated Orthogonal Recurrent Units: On Learning to Forget	http://arxiv.org/abs/1706.02761v3	1471
+Question Answering	0013	bAbi	0596	Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes	http://arxiv.org/abs/1610.09027v1	1472
+Question Answering	0013	bAbi	0596	Recurrent Relational Networks	http://arxiv.org/abs/1711.08028v4	1473
+Question Answering	0013	bAbi	0596	Finding ReMO (Related Memory Object): A Simple Neural Architecture for Text based Reasoning	http://arxiv.org/abs/1801.08459v2	1474
+Question Answering	0013	bAbi	0596	Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes	http://arxiv.org/abs/1610.09027v1	1472
+Talking Head Generation	0021	VoxCeleb2 - 32-shot learning	0025	Few-Shot Adversarial Learning of Realistic Neural Talking Head Models	https://arxiv.org/abs/1905.08233v1	0150
+Talking Head Generation	0021	VoxCeleb2 - 8-shot learning	0082	Few-Shot Adversarial Learning of Realistic Neural Talking Head Models	https://arxiv.org/abs/1905.08233v1	0150
+Talking Head Generation	0021	VoxCeleb1 - 1-shot learning	0255	Few-Shot Adversarial Learning of Realistic Neural Talking Head Models	https://arxiv.org/abs/1905.08233v1	0150
+Talking Head Generation	0021	VoxCeleb1 - 1-shot learning	0255	X2Face: A network for controlling face generation using images, audio, and pose codes	http://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html	0812
+Talking Head Generation	0021	VoxCeleb2 - 1-shot learning	0378	Few-Shot Adversarial Learning of Realistic Neural Talking Head Models	https://arxiv.org/abs/1905.08233v1	0150
+Talking Head Generation	0021	VoxCeleb1 - 8-shot learning	0524	Few-Shot Adversarial Learning of Realistic Neural Talking Head Models	https://arxiv.org/abs/1905.08233v1	0150
+Talking Head Generation	0021	VoxCeleb1 - 8-shot learning	0524	X2Face: A network for controlling face generation using images, audio, and pose codes	http://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html	0812
+Talking Head Generation	0021	VoxCeleb1 - 32-shot learning	0564	Few-Shot Adversarial Learning of Realistic Neural Talking Head Models	https://arxiv.org/abs/1905.08233v1	0150
+Talking Head Generation	0021	VoxCeleb1 - 32-shot learning	0564	X2Face: A network for controlling face generation using images, audio, and pose codes	http://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html	0812
+Protein Secondary Structure Prediction	0066	2019_test set	0118	Deeper Profiles and Cascaded Recurrent and Convolutional Neural Networks for state-of-the-art Protein Secondary Structure Prediction	https://doi.org/10.1038/s41598-019-48786-x	0412
+Protein Secondary Structure Prediction	0066	2017_test set	0313	Deeper Profiles and Cascaded Recurrent and Convolutional Neural Networks for state-of-the-art Protein Secondary Structure Prediction	https://doi.org/10.1038/s41598-019-48786-x	0412
+Protein Secondary Structure Prediction	0066	CB513	0329	Deeper Profiles and Cascaded Recurrent and Convolutional Neural Networks for state-of-the-art Protein Secondary Structure Prediction	https://doi.org/10.1038/s41598-019-48786-x	0412
+Protein Secondary Structure Prediction	0066	CB513	0329	Protein secondary structure prediction using deep convolutional neural fields	http://arxiv.org/abs/1512.00843v3	1003
+Protein Secondary Structure Prediction	0066	Jpred4 blind set	0349	Deeper Profiles and Cascaded Recurrent and Convolutional Neural Networks for state-of-the-art Protein Secondary Structure Prediction	https://doi.org/10.1038/s41598-019-48786-x	0412
+Face Anonymization	0133	2019_test set	0118	DeepPrivacy: A Generative Adversarial Network for Face Anonymization	https://arxiv.org/abs/1909.04538v1	1108
+Protein Secondary Structure Prediction	0066	CullPDB	0507	Protein secondary structure prediction using deep convolutional neural fields	http://arxiv.org/abs/1512.00843v3	1003
+Point Cloud Generation	0028	ShapeNet Chair	0036	PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows	https://arxiv.org/abs/1906.12320v3	0209
+Point Cloud Generation	0028	ShapeNet Airplane	0063	PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows	https://arxiv.org/abs/1906.12320v3	0209
+Novel View Synthesis	0043	ShapeNet Chair	0036	Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence	https://shaohua0116.github.io/Multiview2Novelview/	0282
+Novel View Synthesis	0043	KITTI Novel View Synthesis	0117	Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence	https://shaohua0116.github.io/Multiview2Novelview/	0282
+Novel View Synthesis	0043	Synthia Novel View Synthesis	0402	Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence	https://shaohua0116.github.io/Multiview2Novelview/	0282
+Point Cloud Generation	0028	ShapeNet Car	0519	PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows	https://arxiv.org/abs/1906.12320v3	0209
+Novel View Synthesis	0043	ShapeNet Car	0519	Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence	https://shaohua0116.github.io/Multiview2Novelview/	0282
+Motion Segmentation	0047	KT3DMoSeg	0076	Motion Segmentation by Exploiting Complementary Geometric Models	http://arxiv.org/abs/1804.02142v1	0302
+Motion Segmentation	0047	Hopkins155	0385	Motion Segmentation by Exploiting Complementary Geometric Models	http://arxiv.org/abs/1804.02142v1	0302
+Motion Segmentation	0047	Hopkins155	0385	Shape Interaction Matrix Revisited and Robustified: Efficient Subspace Clustering with Corrupted and Incomplete Data	http://arxiv.org/abs/1509.02649v2	1091
+Motion Segmentation	0047	Hopkins155	0385	A Continuous Relaxation of Beam Search for End-to-end Training of Neural Sequence Models	http://arxiv.org/abs/1708.00111v2	1092
+Motion Segmentation	0047	Hopkins155	0385	Sparse Subspace Clustering: Algorithm, Theory, and Applications	http://arxiv.org/abs/1203.1005v3	1093
+Motion Segmentation	0047	MTPV62	0411	Motion Segmentation by Exploiting Complementary Geometric Models	http://arxiv.org/abs/1804.02142v1	0302
+Human-Object Interaction Detection	0041	HICO-DET	0061	Transferable Interactiveness Knowledge for Human-Object Interaction Detection	https://arxiv.org/abs/1811.08264v4	0262
+Human-Object Interaction Detection	0041	HICO-DET	0061	iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection	http://arxiv.org/abs/1808.10437v1	0263
+Human-Object Interaction Detection	0041	HICO-DET	0061	Learning Human-Object Interactions by Graph Parsing Neural Networks	http://arxiv.org/abs/1808.07962v1	0264
+Human-Object Interaction Detection	0041	HICO-DET	0061	Detecting and Recognizing Human-Object Interactions	http://arxiv.org/abs/1704.07333v3	0265
+Human-Object Interaction Detection	0041	V-COCO	0120	Transferable Interactiveness Knowledge for Human-Object Interaction Detection	https://arxiv.org/abs/1811.08264v4	0262
+Human-Object Interaction Detection	0041	V-COCO	0120	iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection	http://arxiv.org/abs/1808.10437v1	0263
+Human-Object Interaction Detection	0041	V-COCO	0120	Learning Human-Object Interactions by Graph Parsing Neural Networks	http://arxiv.org/abs/1808.07962v1	0264
+Question Answering	0013	Reverb	0158	Open Question Answering with Weakly Supervised Embedding Models	http://arxiv.org/abs/1404.4326v1	0572
+Question Answering	0013	Reverb	0158	Large-scale Simple Question Answering with Memory Networks	http://arxiv.org/abs/1506.02075v1	0573
+Question Answering	0013	WebQuestions	0253	Large-scale Simple Question Answering with Memory Networks	http://arxiv.org/abs/1506.02075v1	0573
+Question Answering	0013	WebQuestions	0253	Question Answering with Subgraph Embeddings	http://arxiv.org/abs/1406.3676v3	0810
+Question Answering	0013	WebQuestions	0253	Open Question Answering with Weakly Supervised Embedding Models	http://arxiv.org/abs/1404.4326v1	0572
+Question Answering	0013	SimpleQuestions	0703	Large-scale Simple Question Answering with Memory Networks	http://arxiv.org/abs/1506.02075v1	0573
+Amr Parsing	0097	LDC2014T12:	0239	AMR Parsing as Sequence-to-Graph Transduction	https://arxiv.org/abs/1905.08704v2	0783
+Amr Parsing	0097	LDC2014T12:	0239	An AMR Aligner Tuned by Transition-based Parser	http://arxiv.org/abs/1810.03541v1	0784
+Amr Parsing	0097	LDC2014T12:	0239	AMR Parsing with an Incremental Joint Model	https://www.aclweb.org/anthology/papers/D/D16/D16-1065/	0785
+Amr Parsing	0097	LDC2014T12:	0239	Noise reduction and targeted exploration in imitation learning for Abstract Meaning Representation parsing	https://www.aclweb.org/anthology/papers/P/P16/P16-1001/	0786
+Amr Parsing	0097	LDC2017T10	0554	AMR Parsing as Sequence-to-Graph Transduction	https://arxiv.org/abs/1905.08704v2	0783
+Human-Object Interaction Detection	0041	HICO	0307	HAKE: Human Activity Knowledge Engine	https://arxiv.org/abs/1904.06539v5	0936
+Human-Object Interaction Detection	0041	HICO	0307	Pairwise Body-Part Attention for Recognizing Human-Object Interactions	http://arxiv.org/abs/1807.10889v1	0937
+Human-Object Interaction Detection	0041	HICO	0307	Learning Models for Actions and Person-Object Interactions with Transfer to Question Answering	http://arxiv.org/abs/1604.04808v2	0938
+Human-Object Interaction Detection	0041	HICO	0307	Attentional Pooling for Action Recognition	http://arxiv.org/abs/1711.01467v3	0939
+Human-Object Interaction Detection	0041	HICO	0307	Contextual Action Recognition with R*CNN	http://arxiv.org/abs/1505.01197v3	0940
+Outlier Detection	0033	ECG5000	0499	Learning Representations from Healthcare Time Series Data for Unsupervised Anomaly Detection	https://doi.org/10.1109/BIGCOMP.2019.8679157	1264
+Outlier Detection	0033	ECG5000	0499	LSTM Fully Convolutional Networks for Time Series Classification	http://arxiv.org/abs/1709.05206v1	1265
+Outlier Detection	0033	ECG5000	0499	LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection	http://arxiv.org/abs/1607.00148v2	1266
+Time Series Classification	0155	Physionet 2017 Atrial Fibrillation	0506	Learning representations for multivariate time series with missing data using Temporal Kernelized Autoencoders	https://arxiv.org/abs/1805.03473v2	1287
+Time Series Classification	0155	Physionet 2017 Atrial Fibrillation	0506	LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection	http://arxiv.org/abs/1607.00148v2	1266
+Cross-Lingual Bitext Mining	0050	BUCC French-to-English	0080	Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond	http://arxiv.org/abs/1812.10464v1	0310
+Cross-Lingual Bitext Mining	0050	BUCC French-to-English	0080	Margin-based Parallel Corpus Mining with Multilingual Sentence Embeddings	https://arxiv.org/abs/1811.01136v2	0311
+Cross-Lingual Bitext Mining	0050	BUCC French-to-English	0080	Improving Neural Machine Translation Models with Monolingual Data	http://arxiv.org/abs/1511.06709v4	0312
+Cross-Lingual Bitext Mining	0050	BUCC German-to-English	0450	Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond	http://arxiv.org/abs/1812.10464v1	0310
+Cross-Lingual Bitext Mining	0050	BUCC German-to-English	0450	Margin-based Parallel Corpus Mining with Multilingual Sentence Embeddings	https://arxiv.org/abs/1811.01136v2	0311
+Cross-Lingual Bitext Mining	0050	BUCC German-to-English	0450	Improving Neural Machine Translation Models with Monolingual Data	http://arxiv.org/abs/1511.06709v4	0312
+Speech Synthesis	0124	North American English	0341	Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions	http://arxiv.org/abs/1712.05884v2	1025
+Speech Synthesis	0124	North American English	0341	Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions	http://arxiv.org/abs/1712.05884v2	1025
+Speech Synthesis	0124	North American English	0341	WaveNet: A Generative Model for Raw Audio	http://arxiv.org/abs/1609.03499v2	1026
+Speech Synthesis	0124	North American English	0341	Tacotron: Towards End-to-End Speech Synthesis	http://arxiv.org/abs/1703.10135v2	1027
+Speech Synthesis	0124	North American English	0341	WaveNet: A Generative Model for Raw Audio	http://arxiv.org/abs/1609.03499v2	1026
+Speech Synthesis	0124	North American English	0341	WaveNet: A Generative Model for Raw Audio	http://arxiv.org/abs/1609.03499v2	1026
+Speech Synthesis	0124	Mandarin Chinese	0478	WaveNet: A Generative Model for Raw Audio	http://arxiv.org/abs/1609.03499v2	1026
+Speech Synthesis	0124	Mandarin Chinese	0478	WaveNet: A Generative Model for Raw Audio	http://arxiv.org/abs/1609.03499v2	1026
+Speech Synthesis	0124	Mandarin Chinese	0478	WaveNet: A Generative Model for Raw Audio	http://arxiv.org/abs/1609.03499v2	1026
+Text Generation	0035	LDC2016E25	0136	A Graph-to-Sequence Model for AMR-to-Text Generation	http://arxiv.org/abs/1805.02473v3	0456
+Graph-to-Sequence	0091	LDC2015E86:	0205	A Graph-to-Sequence Model for AMR-to-Text Generation	http://arxiv.org/abs/1805.02473v3	0456
+Graph-to-Sequence	0091	LDC2015E86:	0205	Structural Neural Encoders for AMR-to-text Generation	https://arxiv.org/abs/1903.11410v2	0666
+Conversational Response Selection	0089	PolyAI Reddit	0198	A Repository of Conversational Datasets	https://arxiv.org/abs/1904.06472v2	0656
+Conversational Response Selection	0089	PolyAI AmazonQA	0357	A Repository of Conversational Datasets	https://arxiv.org/abs/1904.06472v2	0656
+Conversational Response Selection	0089	PolyAI OpenSubtitles	0613	A Repository of Conversational Datasets	https://arxiv.org/abs/1904.06472v2	0656
+Anomaly Detection	0106	Numenta Anomaly Benchmark	0265	Unsupervised real-time anomaly detection for streaming data	https://www.researchgate.net/publication/317325599_Unsupervised_real-time_anomaly_detection_for_streaming_data	0842
+Anomaly Detection	0106	Numenta Anomaly Benchmark	0265	Unsupervised real-time anomaly detection for streaming data	https://www.researchgate.net/publication/317325599_Unsupervised_real-time_anomaly_detection_for_streaming_data	0842
+Anomaly Detection	0106	Numenta Anomaly Benchmark	0265	Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark	http://arxiv.org/abs/1510.03336v4	0843
+Anomaly Detection	0106	Numenta Anomaly Benchmark	0265	Unsupervised real-time anomaly detection for streaming data	https://www.researchgate.net/publication/317325599_Unsupervised_real-time_anomaly_detection_for_streaming_data	0842
+Anomaly Detection	0106	Numenta Anomaly Benchmark	0265	Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark	http://arxiv.org/abs/1510.03336v4	0843
+Anomaly Detection	0106	Numenta Anomaly Benchmark	0265	Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark	http://arxiv.org/abs/1510.03336v4	0843
+Anomaly Detection	0106	Numenta Anomaly Benchmark	0265	Real-Time Anomaly Detection for Streaming Analytics	http://arxiv.org/abs/1607.02480v1	0844
+Anomaly Detection	0106	Numenta Anomaly Benchmark	0265	Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark	http://arxiv.org/abs/1510.03336v4	0843
+Anomaly Detection	0106	Numenta Anomaly Benchmark	0265	Real-Time Anomaly Detection for Streaming Analytics	http://arxiv.org/abs/1607.02480v1	0844
+Action Recognition In Videos	0036	THUMOS’14	0697	Multi-granularity Generator for Temporal Action Proposal	http://arxiv.org/abs/1811.11524v2	1592
+Action Recognition In Videos	0036	THUMOS’14	0697	Two-Stream Region Convolutional 3D Network for Temporal Activity Detection	https://arxiv.org/abs/1906.02182v1	1593
+Action Recognition In Videos	0036	THUMOS’14	0697	Two-Stream Region Convolutional 3D Network for Temporal Activity Detection	https://arxiv.org/abs/1906.02182v1	1593
+Action Recognition In Videos	0036	THUMOS’14	0697	Temporal Action Detection with Structured Segment Networks	http://arxiv.org/abs/1704.06228v2	1594
+Metric Learning	0039	CARS196	0058	SoftTriple Loss: Deep Metric Learning Without Triplet Sampling	https://arxiv.org/abs/1909.05235v1	0256
+Metric Learning	0039	CARS196	0058	Hardness-Aware Deep Metric Learning	http://arxiv.org/abs/1903.05503v1	0257
+Facial Expression Recognition	0008	Acted Facial Expressions In The Wild (AFEW)	0070	Frame attention networks for facial expression recognition in videos	https://arxiv.org/abs/1907.00193v2	0291
+Facial Expression Recognition	0008	The Extended Cohn-Kanade Dataset(CK+)	0214	Frame attention networks for facial expression recognition in videos	https://arxiv.org/abs/1907.00193v2	0291
+Image Retrieval	0058	street2shop - topwear	0102	Retrieving Similar E-Commerce Images Using Deep Learning	http://arxiv.org/abs/1901.03546v1	0393
+Image Retrieval	0058	street2shop - topwear	0102	MILDNet: A Lightweight Single Scaled Deep Ranking Architecture	http://arxiv.org/abs/1903.00905v2	0394
+Speech Enhancement	0079	TCD-TIMIT corpus (mixed-speech)	0165	Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments	https://arxiv.org/abs/1811.02480v3	0600
+Speech Separation	0135	TCD-TIMIT corpus (mixed-speech)	0165	Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments	https://arxiv.org/abs/1811.02480v3	0600
+Speech Separation	0135	GRID corpus (mixed-speech)	0412	Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments	https://arxiv.org/abs/1811.02480v3	0600
+Speech Enhancement	0079	GRID corpus (mixed-speech)	0412	Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments	https://arxiv.org/abs/1811.02480v3	0600
+Table-to-Text Generation	0077	WikiBio	0234	Table-to-text Generation by Structure-aware Seq2seq Learning	http://arxiv.org/abs/1711.09724v1	0757
+Table-to-Text Generation	0077	WikiBio	0234	Table-to-text Generation by Structure-aware Seq2seq Learning	http://arxiv.org/abs/1711.09724v1	0757
+Table-to-Text Generation	0077	WikiBio	0234	Neural Text Generation from Structured Data with Application to the Biography Domain	http://arxiv.org/abs/1603.07771v3	0758
+Gene Interaction Prediction	0104	BioGRID(yeast)	0263	GNE: a deep learning framework for gene network inference by aggregating biological information	https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-019-0694-y	0841
+Gene Interaction Prediction	0104	BioGRID (human)	0611	GNE: a deep learning framework for gene network inference by aggregating biological information	https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-019-0694-y	0841
+Text-To-Speech Synthesis	0109	LJSpeech	0298	Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis	http://arxiv.org/abs/1806.04558v4	0904
+Text-To-Speech Synthesis	0109	LJSpeech	0298	FastSpeech: Fast, Robust and Controllable Text to Speech	https://arxiv.org/abs/1905.09263v4	0905
+Sentiment Analysis	0001	1B Words	0361	100 Things You Always Wanted to Know about Linguistics But Were Afraid to Ask*	https://www.aclweb.org/anthology/papers/N/N12/N12-4001/	1042
+Adversarial Attack	0153	1B Words	0361	advertorch v0.1: An Adversarial Robustness Toolbox based on PyTorch	http://arxiv.org/abs/1902.07623v1	1271
+Gaze Estimation	0107	EYEDIAP (screen target)	0418	Recurrent CNN for 3D Gaze Estimation using Appearance and Shape Cues	http://arxiv.org/abs/1805.03064v3	1145
+Gaze Estimation	0107	EYEDIAP (screen target)	0418	Recurrent CNN for 3D Gaze Estimation using Appearance and Shape Cues	http://arxiv.org/abs/1805.03064v3	1145
+Gaze Estimation	0107	EYEDIAP (floating target)	0674	Recurrent CNN for 3D Gaze Estimation using Appearance and Shape Cues	http://arxiv.org/abs/1805.03064v3	1145
+Gaze Estimation	0107	EYEDIAP (floating target)	0674	Recurrent CNN for 3D Gaze Estimation using Appearance and Shape Cues	http://arxiv.org/abs/1805.03064v3	1145
+Stance Detection	0170	RumourEval	0631	Turing at SemEval-2017 Task 8: Sequential Approach to Rumour Stance Classification with Branch-LSTM	http://arxiv.org/abs/1704.07221v1	1537
+Stance Detection	0170	RumourEval	0631	UWaterloo at SemEval-2017 Task 8: Detecting Stance towards Rumours with Topic Independent Features	https://www.aclweb.org/anthology/papers/S/S17/S17-2080/	1538
+Image Denoising	0007	urban100 sigma15	0008	Deep Graph-Convolutional Image Denoising	https://arxiv.org/abs/1907.08448v1	0078
+Facial Expression Recognition	0008	Cohn-Kanade	0009	Greedy Search for Descriptive Spatial Face Features	http://arxiv.org/abs/1701.01879v2	0079
+Lexical Normalization	0031	LexNorm	0039	MoNoise: Modeling Noise Using a Modular Normalization System	http://arxiv.org/abs/1710.03476v1	0218
+Pain Intensity Regression	0061	UNBC-McMaster ShoulderPain dataset	0107	Regularizing Face Verification Nets For Pain Intensity Regression	http://arxiv.org/abs/1702.06925v3	0397
+Line segment detection	0062	wireframe dataset	0113	Learning Attraction Field Representation for Robust Line Segment Detection	https://arxiv.org/abs/1812.02122	0406
+Image Classification	0073	CINIC-10	0153	CINIC-10 is not ImageNet or CIFAR-10	http://arxiv.org/abs/1810.03505v1	0504
+Image Classification	0073	CINIC-10	0153	CINIC-10 is not ImageNet or CIFAR-10	http://arxiv.org/abs/1810.03505v1	0504
+Image Classification	0073	CINIC-10	0153	CINIC-10 is not ImageNet or CIFAR-10	http://arxiv.org/abs/1810.03505v1	0504
+Image Classification	0073	CINIC-10	0153	CINIC-10 is not ImageNet or CIFAR-10	http://arxiv.org/abs/1810.03505v1	0504
+Image Cropping	0098	AVA	0240	Aesthetic-Driven Image Enhancement by Adversarial Learning	http://arxiv.org/abs/1707.05251v2	0787
+Object Detection	0005	COCO 2015	0267	SSD: Single Shot MultiBox Detector	http://arxiv.org/abs/1512.02325v5	0846
+Facial Expression Recognition	0008	MMI	0321	DeXpression: Deep Convolutional Neural Network for Expression Recognition	http://arxiv.org/abs/1509.05371v2	0978
+Question Answering	0013	AI2 Kaggle Dataset	0338	Tell Me Why: Using Question Answering as Distant Supervision for Answer Justification	https://www.aclweb.org/anthology/papers/K/K17/K17-1009/	1016
+Question Answering	0013	AI2 Kaggle Dataset	0338	Tell Me Why: Using Question Answering as Distant Supervision for Answer Justification	https://www.aclweb.org/anthology/papers/K/K17/K17-1009/	1016
+Question Answering	0013	AI2 Kaggle Dataset	0338	Tell Me Why: Using Question Answering as Distant Supervision for Answer Justification	https://www.aclweb.org/anthology/papers/K/K17/K17-1009/	1016
+Question Answering	0013	AI2 Kaggle Dataset	0338	Tell Me Why: Using Question Answering as Distant Supervision for Answer Justification	https://www.aclweb.org/anthology/papers/K/K17/K17-1009/	1016
+Automated Theorem Proving	0092	CoqGym	0368	Learning to Prove Theorems via Interacting with Proof Assistants	https://arxiv.org/abs/1905.09381v1	1047
+Game of Go	0134	ELO Ratings	0397	Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm	http://arxiv.org/abs/1712.01815v1	1109
+Game of Shogi	0174	ELO Ratings	0397	Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm	http://arxiv.org/abs/1712.01815v1	1109
+Grammatical Error Correction	0088	Unrestricted	0415	Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study	http://arxiv.org/abs/1807.01270v5	1137
+Grammatical Error Correction	0088	Unrestricted	0415	Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study	http://arxiv.org/abs/1807.01270v5	1137
+Grammatical Error Correction	0088	Unrestricted	0415	Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study	http://arxiv.org/abs/1807.01270v5	1137
+Question Answering	0013	COMPLEXQUESTIONS	0463	Evaluating Semantic Parsing against a Simple Web-based Question Answering Model	http://arxiv.org/abs/1707.04412v1	1204
+Medical Image Segmentation	0142	iSEG 2017 Challenge	0484	HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation	http://arxiv.org/abs/1804.02967v2	1260
+Medical Image Segmentation	0142	CHAOS MRI Dataset	0496	Multi-scale guided attention for medical image segmentation	https://arxiv.org/pdf/1906.02849.pdf	1263
+Airplane trajectory prediction	0122	GPS	0538	Inferring hybrid transportation modes from sparse GPS data using a moving window SVM classification	https://doi.org/10.1016/j.compenvurbsys.2012.06.001	1335
+Question Answering	0013	JD Product Question Answer	0553	Product-Aware Answer Generation in E-Commerce Question-Answering	http://arxiv.org/abs/1901.07696v2	1357
+Language Acquisition	0164	SLAM 2018	0600	Context Based Approach for Second Language Acquisition	https://www.aclweb.org/anthology/papers/W/W18/W18-0524/	1487
+Safety Perception Recognition	0169	Google Street Images	0629	Predicting city safety perception based on visual image content	https://arxiv.org/abs/1902.06871	1534
+3D Object Classification	0177	ModelNet40	0676	3D Point Capsule Networks	https://arxiv.org/abs/1812.10775v2	1575
+Causal Inference	0179	IDHP	0687	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	0179	IDHP	0687	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	0179	IDHP	0687	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	0179	IDHP	0687	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	0179	IDHP	0687	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	0179	IDHP	0687	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	0179	IDHP	0687	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	0179	IDHP	0687	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	0179	IDHP	0687	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586
+Causal Inference	0179	IDHP	0687	Estimating individual treatment effect: generalization bounds and algorithms	http://arxiv.org/abs/1606.03976v5	1586

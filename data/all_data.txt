@@ -511,7 +511,6 @@ Text Classification	0042	DBpedia	0064	Very Deep Convolutional Networks for Text 
 Text Classification	0042	DBpedia	0064	Bag of Tricks for Efficient Text Classification	http://arxiv.org/abs/1607.01759v3	0278
 Text Classification	0042	DBpedia	0064	Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms	http://arxiv.org/abs/1805.09843v1	0007
 Text Classification	0042	DBpedia	0064	Character-level Convolutional Networks for Text Classification	http://arxiv.org/abs/1509.01626v3	0279
-Text Classification	0042	DBpedia	0064	Abstractive Text Classification Using Sequence-to-convolution Neural Networks	https://arxiv.org/abs/1805.07745v5	0280
 Visual Question Answering	0011	COCO Visual Question Answering (VQA) abstract images 1.0 open ended	0065	Graph-Structured Representations for Visual Question Answering	http://arxiv.org/abs/1609.05600v2	0281
 Visual Question Answering	0011	COCO Visual Question Answering (VQA) abstract images 1.0 open ended	0065	VQA: Visual Question Answering	http://arxiv.org/abs/1505.00468v7	0093
 Visual Question Answering	0011	COCO Visual Question Answering (VQA) abstract images 1.0 open ended	0065	VQA: Visual Question Answering	http://arxiv.org/abs/1505.00468v7	0093
@@ -1254,7 +1253,6 @@ Intent Detection	0072	SNIPS	0162	A Novel Bi-directional Interrelated Model for J
 Scene Text Detection	0003	ICDAR 2013	0163	Scene Text Detection with Supervised Pyramid Context Network	http://arxiv.org/abs/1811.08605v1	0038
 Scene Text Detection	0003	ICDAR 2013	0163	Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes	http://arxiv.org/abs/1807.02242v2	0392
 Scene Text Detection	0003	ICDAR 2013	0163	PixelLink: Detecting Scene Text via Instance Segmentation	http://arxiv.org/abs/1801.01315v1	0136
-Scene Text Detection	0003	ICDAR 2013	0163	Unsharp Masking Layer: Injecting Prior Knowledge in Convolutional Networks for Image Classification	https://doi.org/10.1007/978-3-030-30508-6_1	0599
 Node Classification	0016	Amazon2M	0164	Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks	https://arxiv.org/abs/1905.07953v2	0250
 Speech Enhancement	0079	TCD-TIMIT corpus (mixed-speech)	0165	Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments	https://arxiv.org/abs/1811.02480v3	0600
 Object Localization	0009	KITTI Cars Easy	0166	VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection	http://arxiv.org/abs/1711.06396v1	0081
@@ -1386,7 +1384,6 @@ Text Classification	0042	AG News	0189	On Tree-Based Neural Sentence Modeling	htt
 Text Classification	0042	AG News	0189	Very Deep Convolutional Networks for Text Classification	http://arxiv.org/abs/1606.01781v2	0277
 Text Classification	0042	AG News	0189	Squeezed Very Deep Convolutional Neural Networks for Text Classification	http://arxiv.org/abs/1901.09821v1	0499
 Text Classification	0042	AG News	0189	Character-level Convolutional Networks for Text Classification	http://arxiv.org/abs/1509.01626v3	0279
-Text Classification	0042	AG News	0189	Abstractive Text Classification Using Sequence-to-convolution Neural Networks	https://arxiv.org/abs/1805.07745v5	0280
 Text Classification	0042	AG News	0189	Task-oriented Word Embedding for Text Classification	https://www.aclweb.org/anthology/papers/C/C18/C18-1172/	0646
 Surgical Skills Evaluation	0087	JIGSAWS	0190	Evaluating surgical skills from kinematic data using convolutional neural networks	http://arxiv.org/abs/1806.02750v1	0647
 Atari Games	0020	Atari 2600 Demon Attack	0191	A Distributional Perspective on Reinforcement Learning	http://arxiv.org/abs/1707.06887v1	0156
@@ -2928,7 +2925,6 @@ Image Classification	0073	CIFAR-100	0393	Network In Network	http://arxiv.org/abs
 Image Classification	0073	CIFAR-100	0393	Discriminative Transfer Learning with Tree-based Priors	http://papers.nips.cc/paper/5029-discriminative-transfer-learning-with-tree-based-priors	1102
 Image Classification	0073	CIFAR-100	0393	Improving Deep Neural Networks with Probabilistic Maxout Units	http://arxiv.org/abs/1312.6116v2	0553
 Image Classification	0073	CIFAR-100	0393	Maxout Networks	http://arxiv.org/abs/1302.4389v4	0552
-Image Classification	0073	CIFAR-100	0393	Unsharp Masking Layer: Injecting Prior Knowledge in Convolutional Networks for Image Classification	https://doi.org/10.1007/978-3-030-30508-6_1	0599
 Image Classification	0073	CIFAR-100	0393	Empirical Evaluation of Rectified Activations in Convolutional Network	http://arxiv.org/abs/1505.00853v2	0559
 Image Classification	0073	CIFAR-100	0393	Stochastic Pooling for Regularization of Deep Convolutional Neural Networks	http://arxiv.org/abs/1301.3557v1	0562
 Face Verification	0117	YouTube Faces DB	0394	SeqFace: Make full use of sequence information for face recognition	http://arxiv.org/abs/1803.06524v2	1103
@@ -4991,7 +4987,6 @@ Text Classification	0042	Yahoo! Answers	0670	Explicit Interaction Model towards 
 Text Classification	0042	Yahoo! Answers	0670	Compositional coding capsule network with k-means routing for text classification	http://arxiv.org/abs/1810.09177v3	0276
 Text Classification	0042	Yahoo! Answers	0670	Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms	http://arxiv.org/abs/1805.09843v1	0007
 Text Classification	0042	Yahoo! Answers	0670	Bag of Tricks for Efficient Text Classification	http://arxiv.org/abs/1607.01759v3	0278
-Text Classification	0042	Yahoo! Answers	0670	Abstractive Text Classification Using Sequence-to-convolution Neural Networks	https://arxiv.org/abs/1805.07745v5	0280
 Image Reconstruction	0095	Edge-to-Shoes	0671	PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain	http://arxiv.org/abs/1903.10146v1	0716
 Semantic Segmentation	0002	ScanNetV2	0672	Self-Supervised Model Adaptation for Multimodal Semantic Segmentation	https://arxiv.org/abs/1808.03833v3	0802
 Semantic Segmentation	0002	ScanNetV2	0672	Self-Supervised Model Adaptation for Multimodal Semantic Segmentation	https://arxiv.org/abs/1808.03833v3	0802

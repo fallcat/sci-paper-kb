@@ -1,5 +1,5 @@
 for split in ['train', 'dev', 'test']:
-    with open('../data/datasets_papers.txt', 'rt') as input_file:
+    with open('../data/datasets_papers811.txt', 'rt') as input_file:
         with open('../data/dataset_ids.txt', 'rt') as dataset_file:
             with open('../data/task_ids.txt', 'rt') as task_file:
                 with open('../data/datasets_papers_all_id.txt', 'wt') as output_file:

@@ -2,7 +2,7 @@ datasets = []
 tasks = []
 
 for split in ['train', 'dev', 'test']:
-    with open('../data/datasets_papers/' + split + '_id.txt', 'rt') as input_file:
+    with open('../data/datasets_papers811/' + split + '_id.txt', 'rt') as input_file:
         for line in input_file.readlines():
             line_list = line.strip().split('\t')
             task = line_list[0]
