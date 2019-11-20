@@ -11,7 +11,7 @@ def extract_information(pdf_path):
 
 if __name__ == '__main__':
     PAPERS_PATH = "/Users/weiqiuyou/Documents/UMass/2019Fall/COMPSCI692A/project/sci-paper-kb/papers"
-    DEV_PATH = "/Users/weiqiuyou/Documents/UMass/2019Fall/COMPSCI692A/project/data/datasets_papers/dev_id.txt"
+    DEV_PATH = "/Users/weiqiuyou/Documents/UMass/2019Fall/COMPSCI692A/project/data/datasets_papers811/dev.txt"
     in_candidates = 0
     all_count = 0
     found_count = 0
